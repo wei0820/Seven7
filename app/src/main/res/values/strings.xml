@@ -1,0 +1,481 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">七騎士小百科</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">選單</string>
+    <string name="title_activity_three">第三籤　甲辰</string>
+    <string name="title_activity_four">第四籤　甲午</string>
+    <string name="title_activity_five">第五籤　甲申</string>
+    <string name="title_activity_six">第六籤　甲戌</string>
+    <string name="title_activity_zero">雷雨師一百籤</string>
+    <string name="title_activity_oneone">第一籤</string>
+    <string name="title_activity_twotwo">第二籤</string>
+    <string name="title_activity_seven">第七籤</string>
+    <string name="title_activity_eight">第八籤 </string>
+    <string name="title_activity_nine">第九籤 </string>
+    <string name="title_activity_ten">第十籤 </string>
+    <string name="title_activity_eleven">第十一籤 </string>
+    <string name="title_activity_twelve">第十二籤 </string>
+    <string name="title_activity_thirteen">第十三籤 </string>
+    <string name="title_activity_fourteen">第十四籤 </string>
+    <string name="title_activity_fifteen">第十五籤 </string>
+    <string name="title_activity_sixteen">第十六籤 </string>
+    <string name="title_activity_seventeen">第十七籤</string>
+    <string name="title_activity_eighteen">第十八籤 </string>
+    <string name="title_activity_nineteen">第十九籤</string>
+    <string name="title_activity_twenty">第二十籤 </string>
+    <string name="title_activity_twentyone">第二一籤 </string>
+    <string name="title_activity_twentytwo">第二二籤 </string>
+    <string name="title_activity_twentythree">第二三籤 </string>
+    <string name="title_activity_twentyfour">第二四籤 </string>
+    <string name="title_activity_twentyfive">第二五籤</string>
+    <string name="title_activity_twentysix">第二六籤</string>
+    <string name="title_activity_twentyseven">第二七籤</string>
+    <string name="title_activity_twentyeight">第二八籤</string>
+    <string name="title_activity_twentynine">第二九籤</string>
+    <string name="title_activity_thirty">第三十籤</string>
+    <string name="title_activity_thirtyone">第三一籤</string>
+    <string name="title_activity_thirtytwo">第三二籤</string>
+    <string name="title_activity_thirtythree">第三三籤</string>
+    <string name="title_activity_thirtyfour">第三四籤</string>
+    <string name="title_activity_thirtyfive">第三五籤</string>
+    <string name="title_activity_thirtysix">第三六籤</string>
+    <string name="title_activity_thirtyseven">第三七籤</string>
+    <string name="title_activity_thirtyeigh">第三八籤</string>
+    <string name="title_activity_thirtynine">第三九籤</string>
+    <string name="title_activity_forty">第四十籤</string>
+    <string name="title_activity_fortyone">第四一籤</string>
+    <string name="title_activity_fortytwo">第四二籤</string>
+    <string name="title_activity_fortythree">第四三籤</string>
+    <string name="title_activity_fortyfour">第四四籤 </string>
+    <string name="title_activity_fortyfive">第四五籤</string>
+    <string name="title_activity_fortysix">第四六籤 </string>
+    <string name="title_activity_fortyseven">第四七籤</string>
+    <string name="title_activity_fortyeight">第四八籤</string>
+    <string name="title_activity_fortynine">第四九籤</string>
+    <string name="title_activity_fifty">第五十籤</string>
+    <string name="title_activity_fiftyone">第五一籤</string>
+    <string name="title_activity_fiftytwo">第五二籤</string>
+    <string name="title_activity_fiftythree">第五三籤</string>
+    <string name="title_activity_fiftyfour">第五四籤</string>
+    <string name="title_activity_fiftyfive">第五五籤</string>
+    <string name="title_activity_fiftysix">第五六籤</string>
+    <string name="title_activity_fiftyseven">第五七籤</string>
+    <string name="title_activity_fiftyeight">第五八籤</string>
+    <string name="title_activity_fiftynine">第五九籤</string>
+    <string name="title_activity_sixty">第六十籤</string>
+    <string name="title_activity_head_page">雷雨師一百籤</string>
+    <string name="banner_ad_unit_id">ca-app-pub-7019441527375550/1135167025</string>
+    <string name="title_activity_page_61">第六一籤</string>
+    <string name="title_activity_page_62">第六二籤</string>
+    <string name="title_activity_page_63">第六三籤</string>
+    <string name="title_activity_page_64">第六四籤</string>
+    <string name="title_activity_page_65">第六五籤</string>
+    <string name="title_activity_page_66">第六六籤</string>
+    <string name="title_activity_page_67">第六七籤</string>
+    <string name="title_activity_page_68">第六八籤</string>
+    <string name="title_activity_page_69">第六九籤</string>
+    <string name="title_activity_page_70">第七十籤</string>
+    <string name="title_activity_page_71">第七一籤</string>
+    <string name="title_activity_page_72">第七二籤</string>
+    <string name="title_activity_page_73">第七三籤</string>
+    <string name="title_activity_page_74">第七四籤</string>
+    <string name="title_activity_page_75">第七五籤</string>
+    <string name="title_activity_page_76">第七六籤</string>
+    <string name="title_activity_page_77">第七七籤</string>
+    <string name="title_activity_page_78">第七八籤</string>
+    <string name="title_activity_page_79">第七九籤</string>
+    <string name="title_activity_page_80">第八十籤</string>
+    <string name="title_activity_page_81">第八一籤</string>
+    <string name="title_activity_page_82">第八二籤</string>
+    <string name="title_activity_page_83">第八三籤</string>
+    <string name="title_activity_page_84">第八四籤</string>
+    <string name="title_activity_page_85">第八五籤</string>
+    <string name="title_activity_page_86">第八六籤</string>
+    <string name="title_activity_page_87">第八七籤</string>
+    <string name="title_activity_page_88">第八八籤</string>
+    <string name="title_activity_page_89">第八九籤</string>
+    <string name="title_activity_page_90">第九十籤</string>
+    <string name="title_activity_page_91">第九一籤</string>
+    <string name="title_activity_page_92">第九二籤</string>
+    <string name="title_activity_page_93">第九三籤</string>
+    <string name="title_activity_page_94">第九四籤</string>
+    <string name="title_activity_page_95">第九五籤</string>
+    <string name="title_activity_page_96">第九六籤</string>
+    <string name="title_activity_page_97">第九七籤</string>
+    <string name="title_activity_page_98">第九八籤</string>
+    <string name="title_activity_page_99">第九九籤</string>
+    <string name="title_activity_page_100">第一百籤</string>
+    <string name="title_activity_page_king">Page_kingActivity</string>
+    <string name="title_activity_divination_page">求籤不求人</string>
+    <string name="title_activity_divination_page_2java">求籤不求人</string>
+    <string name="title_activity_main__select">求籤不求人</string>
+    <string name="title_activity_seven_people_book__menu">七騎士小百科</string>
+    <string name="title_activity_hit_city">每日攻城戰</string>
+
+    <string name="key">MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAkpwvjb+KwGMVnmcML+Dc7doZYwX4dGRYpu/TDw5AOmrNo0mFF2jnJ6fm7ijvErFlT/fOLY2HyzJrklW6J/6KjgLGRi+N1EmE2TjYCf1U5QGcIUGL/MjpVMW920MQrvQf0Vf5YqiIZeUZR4YjmIQSiUDDl4wZDAmTQh4UsBrjaHUM19SFH5VoyFnBqLCilZrCLT5JwYHo3K/6vBzRpHwdfgnnYo1+D60oKoDlQI7ZRXbRiZE5p3gOWPlP3dyKbu9C5JkNBWR4pCa6WwglG0VyQCXsSoQ1Ns4OLUC6mvO/tnEW5xxD1nc4Lk+GF5SbBUoni0BdUQRSkCG1eSrjjLxU4wIDAQAB</string>
+    <!--pageName and GAName-->
+    <string name="ga_homeheadPage">七騎士小百科封面頁</string>
+    <string name="ga_homePage">七騎士小百科首頁</string>
+    <string name="ga_hitCity">每日攻城戰</string>
+    <string name="ga_newsplayerteach">新手導引任務</string>
+    <string name="ga_ideaandshare">建議與提供資訊</string>
+    <string name="ga_dargon">屠龍建議</string>
+    <string name="ga_master">師徒任務</string>
+    <string name="ga_updatetime">每日更新時間</string>
+    <string name="ga_copy">強化副本</string>
+    <string name="ga_suggest">每日副本困難關卡攻略(玩家經驗)</string>
+    <string name="ga_suggest_2">每日的困難副本指引</string>
+    <string name="ga_crystaillzation">強化結晶介紹</string>
+    <string name="ga_buy">訂閱無廣告空間</string>
+    <string name="ga_card">卡片占卜</string>
+    <string name="ga_Befall">降臨副本</string>
+    <string name="ga_news">更新資訊</string>
+    <string name="ga_ask">常見問題</string>
+    <string name="ga_qa">聯絡客服</string>
+    <string name="ga_teacher">收徒交友</string>
+    <!-- -->
+    <string name="monday">星期一</string>
+    <string name="tuesday">星期二</string>
+    <string name="wednesday">星期三</string>
+    <string name="thurday">星期四</string>
+    <string name="friday">星期五</string>
+    <string name="saturday">星期六</string>
+    <string name="sunday">星期日</string>
+
+    <!-- -->
+    <string name="dargon_magic">魔防</string>
+    <string name="dargon_attack">加攻</string>
+    <string name="dargon_dizzy">防暈</string>
+    <string name="dargon_hurt">加傷</string>
+    <string name="dargon_defense">加防</string>
+    <string name="dargon_break">加暴擊</string>
+    <string name="dargon_main">打手</string>
+    <string name="dargon_change">可替換角色如下，點選之後就會將角色，替換選一隻自己適合的角色吧！！</string>
+    <string name="alert_ok">確定</string>
+    <string name="prerequisites">必備角色</string>
+    <string name="todayis">今天為:</string>
+    <string name="bossis">今日城主為:</string>
+    <string name="effect">技能效果</string>
+    <string name="hitcitybtn">※補充說明</string>
+    <string name="hitcitybtnmessage">1.表中角色皆以六星為主，六星的免疫被動技能可維持六回合，五星四回合，四星二回合，部分角色的被動技能要到六星才有效果，例如卡琳和雷歐要六星才有防即死。
+\n\n2.星期一帶齊克是不錯的選擇，可以防暈又擁有2個高傷害單體技，能夠增加輸出，而消除路迪增益的角色為主動技能，挑選技能冷卻時間越低的越好，若CD過長可帶兩隻互補。
+\n\n3.星期三雷伊潔兒的技能效果，諸葛亮的被動技能是很好用的，如果沒有的話，可以帶赫雷倪亞放嘲諷，讓雷伊潔兒專打你的赫雷倪亞，不然降低效果放在你的主要打手上會比較吃虧(如果有突破到40的拉坤也是可以帶啦....)。
+\n\n4.星期五傑伊普的燒傷在簡單的攻城下其實不痛，所以尤伊也可不用帶，但是本身有抗燒傷，加上攻城都需要一隻補師，所以他是可以考慮的，如果有麗娜還是帶麗娜為主。
+\n\n5.星期三和五的城主雷伊潔兒及傑伊普的負面技能影響較不大，因此可以多帶一支輔助角增加輸出。</string>
+    <string name="hitcitybtn_2">※角色配置</string>
+    <string name="hitcityBtn2Message">攻城成員的組成：打手、補師、增益角、免疫角、輔助角\n\n
+1.主要打手：賽茵、丘比、戴倫斯、齊克\n\n
+2.主要補師：麗娜、艾莉絲、貂蟬、卡琳、卡倫、尤伊\n\n
+3.增益角(增傷)：亞伊林、艾莉絲、艾斯、亞拉岡、戴倫斯、維多利亞\n\n
+4.免疫角：每日不同請看上表，也可帶冰帝(斯帕伊克)，可免疫所有負面效果兩回合，玲玲亦可\n\n
+5.輔助角：雷伊潔兒、路迪(增防)、幼琍(降防)、梅伊(減傷)、鎮(增防)、關羽(降攻)、諸葛亮(降傷)\n\n
+(簡單攻城戰中，雷伊潔兒為必備角色，沒有的話可借好友的，紅字為推薦角色，攻城想要高分他們是不可缺少的)
+</string>
+    <string name="hitcitybtn_3">※新手常見問題</string>
+    <string name="hitcitybtn3Message">1.如果當天必備角色(免疫角)沒有的話，怎麼辦？\n
+A：那就只能忍受被城主一直尻負面技能，相對打出來的分數會比較低，可以的話趕快生一隻出來吧。\n\n
+2.如果打手、補師、增益角、輔助角沒有上面寫的那些，怎麼辦？\n
+A：退而求其次，挑你自己傷害最高的角色當打手，通常是有單體技的角色，補師選擇性比較多，增益角真的沒有就放些輔助角，這裡自己要做點功課，認識自己卡池裡面有什麼可用的角色。\n\n
+3.為什麼攻城的城主都打不死，而且越打他越火，到後面像超級賽亞人一樣？\n
+A：攻城是累積分數制，所以不可能殺的死城主，會越打越火是城主隨著回合數增加，攻擊跟防禦都會上升，所以隊伍裡放隻增防角色，讓你可以多撐幾回合，對提高攻城分數也有幫助。\n\n
+4.為什麼今天的參加次數只剩兩次？\n
+A：攻城戰的難度不同，次數也會不同，簡單為3次，普通為2次，難度只有會長才能做修改。\n\n
+5.攻城戰難度不同，獎勵也會不同，我的公會簡單都打好幾千萬分，為什麼會長不改打普通？\n
+A：普通A箱的獎勵才會大於簡單S箱的，而且簡單穩S上普通不一定能穩A。\n\n
+6.攻城戰點數能做什麼？要買什麼比較划算？\n
+A：攻城點數可以在攻城戰商店購買東西，至於怎麼買比較划算見仁見智，通常都推薦3星元素召喚券或3星元素選擇券。\n\n
+7.七騎士點數能做什麼？\n
+A：集滿1000點就可以換一隻隨機七騎士\n\n</string>
+    <!--攻城必備角色 url-->
+    <!--周一-->
+    <string name="monday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/karon.png</string>
+    <string name="monday_name">卡倫</string>
+    <string name="monday_phtot_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/zic.png</string>
+    <string name="monday_name_2">齊克</string>
+    <!--周二-->
+    <string name="tuesday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/victoria.png</string>
+    <string name="tuesday_name">維多莉亞</string>
+    <!--周三-->
+    <string name="wednesday_phtot">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/jegal.png</string>
+    <string name="wednesday_name">諸葛亮</string>
+    <!--周四-->
+    <string name="thurday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/yui.png</string>
+    <string name="thurday_name">尤伊</string>
+    <!--周五-->
+    <string name="friday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/yui.png</string>
+    <string name="friday_name">尤伊</string>
+    <!--周六-->
+    <string name="saturday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/lania.png</string>
+    <string name="saturday_name">拉妮亞</string>
+    <!--周日-->
+    <string name="sunday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/leo.png</string>
+    <string name="sunday_name">雷歐</string>
+    <string name="sunday_photo_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/karin.png</string>
+    <string name="sunday_name_2">卡琳</string>
+    <string name="title_activity_news_player_teach">新手導引任務</string>
+    <string name="title_activity_main">英雄評價與建議裝備</string>
+    <string name="title_activity_for_idea_and_share">建議與提供資訊</string>
+
+    <!-- 屠龍 -->
+    <string name="dragon_tittle_1">賽茵</string>
+    <string name="dragon_url_1">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/sein.png</string>
+    <string name="dragon_tittle_2">艾絲芭塔</string>
+    <string name="dragon_url_2">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/espada.png</string>
+    <string name="dragon_tittle_3">亞依林</string>
+    <string name="dragon_url_3">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/eyelin.png</string>
+    <string name="dragon_tittle_4">齊克</string>
+    <string name="dragon_url_4">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/zic.png</string>
+    <string name="dragon_tittle_5">麗娜</string>
+    <string name="dragon_url_5">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/lina.png</string>
+    <string name="dragon_tittle_6">裴麗卡</string>
+    <string name="dragon_url_6">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/belica.png</string>
+    <string name="dragon_tittle_7">伊凡</string>
+    <string name="dragon_url_7">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/evan.png</string>
+
+    <string name="dragon_tittle_8">路迪</string>
+    <string name="dragon_url_8">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/rudi.png</string>
+    <string name="dragon_tittle_9">赫雷倪亞</string>
+    <string name="dragon_url_9">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/helenia.png</string>
+
+    <string name="dragon_tittle_10">維多利亞</string>
+    <string name="dragon_url_10">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/victoria.png</string>
+
+    <string name="dragon_tittle_11">喬克</string>
+    <string name="dragon_url_11">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/joker.png</string>
+
+    <string name="dragon_tittle_12">艾黎爾</string>
+    <string name="dragon_url_12">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/ariel.png</string>
+
+    <string name="dragon_tittle_13">卡倫</string>
+    <string name="dragon_url_13">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/karon.png</string>
+
+    <string name="dragon_tittle_14">戴倫斯</string>
+    <string name="dragon_url_14">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/delons.png</string>
+
+    <string name="dragon_tittle_15">丘比</string>
+    <string name="dragon_url_15">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/jupy.png</string>
+    <string name="banner_admob_unit_id">ca-app-pub-7019441527375550/9441343821</string>
+
+    <!-- 師徒-->
+    <string name="master_text_1">這是七騎士中特有的友情系統，新手玩家在開始遊戲後14天內的第一個好友，將成為玩家的友情好友，雙方即為師徒關係(資深玩家為師傅，新手玩家為徒弟)；師傅可以贈送徒弟一個五星英雄，並獲得10點友情點數；而徒弟則可以透過解開系列友情任務，回贈師傅友情點數。而只要累積1000點友情點數即可獲得一個隨機4星七騎士!</string>
+    <string name="master_text_2">玩家在遊戲中的師傅將顯示在畫面中紅框的位置。</string>
+    <string name="master_text_3">友情任務與可獲得的點數共有下列幾項：</string>
+    <string name="master_text_4">簡單的亞斯特大陸通關：6點\n\n普通的亞斯特大陸通關：8點\n\n困難的亞斯特大陸通關：10點</string>
+    <string name="master_text_5">決鬥場挑戰40次：20點\n\n決鬥場挑戰50次：24點</string>
+    <string name="master_text_6">無限塔20樓通關：6點\n\n無限塔30樓通關：8點\n\n無限塔40樓通關：10點\n\n無限塔50樓通關：12點\n\n無限塔60樓通關：20點</string>
+    <string name="master_text_7">領取攻城獎勵1次：8點\n\n領取攻城獎勵2次：16點\n\n領取攻城獎勵3次：24點\n\n領取攻城獎勵6次：32點\n\n領取攻城獎勵8次：40點</string>
+    <string name="master_text_8">每日任務完成6次：2點\n\n每日任務完成12次：4點\n\n每日任務完成20次：6點\n\n每日任務完成30次：10點\n\n每日任務完成50次：16點</string>
+    <string name="master_text_9">召喚好友30次：6點\n\n討伐戰進行30次：6點\n\n獲得裝備20次：8點\n\n獲得英雄20次：8點\n\n領取公會出席獎勵15次：16點</string>
+    <string name="master_text_10">只要徒弟的友情任務全部解完，即可以提供326點給友情好友，自己也可以獲得若干點數；所以一個師傅只要有3個徒弟解完所有任務，加上贈送英雄時獲得的10點，即可獲得超過1000的點數!但要注意4星七騎士只能換一次，目前多的友情點數並沒有其他作用。</string>
+    <string name="master_text_11">而如果你收的徒弟不在線上超過14天，你也可以刪除他再重新締結其他友情好友，不過送過的五星英雄則不會再回收。</string>
+
+
+    <string name="master_url">http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160603110008270.jpg</string>
+    <string name="master_url_2">http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160603105840895.jpg</string>
+
+    <!-- updata -->
+    <string name="updata_1">每日 06:00 公會簽到</string>
+    <string name="updata_2">每日 07:40 攻城戰</string>
+    <string name="updata_3">每日 07:57 一日刪除好友</string>
+    <string name="updata_4">每日 07:59 一日贈送名譽</string>
+    <string name="updata_5">每日 08:00 \n\n每日副本\n\n每日任務\n\n每週任務（週一）\n\n每月任務（每月一號）\n\n一天一百隻英雄30級限制更新</string>
+    <string name="updata_6">每週一12:00 結算決鬥場成績 14:00再開放</string>
+
+
+    <!--副本-->
+    <string name="copy_1">草仔粿副本「強化副本」與每日副本相同，共有三種難度供玩家選擇，分別是簡單、普通、困難，所花費的鑰匙分別是3、5、10，結束後分別隨機獲得2-4星草仔粿、3-5星草仔粿、4-6星草仔粿。覺得文字太多看不懂的，可以參考下面表格</string>
+    <string name="copy_2">攻略重點：\n\n\n下面針對困難的強化副本作通關建議。</string>
+    <string name="copy_3">在強化副本中的敵人具有持續傷害免疫護盾，攻擊力強且具有暈眩、貫穿技能；因此建議參與強化副本的成員，最好具備下列幾點幾項特點：\n\n1.擁有貫穿技能，且能對越多敵軍越好\n\n2.具有防止暈眩技能，一隻就好。\n\n有貫穿技能的英雄，名稱後的標記為貫穿技能能攻擊的敵軍數量：\n\n亞依林(單體)、戴倫斯(單體)、傑伊普(全體)、艾斯(單體)、孫悟空(單體)、呂布(四名)、斯尼波(兩名)、黑寡婦(兩名)、雷伊(全體)、戴乙姬(單體)、尤神(三名)\n\n有防止暈倒技能的英雄，名稱後的標記為防暈效果：\n\n斯帕依克(全體異常狀態免疫兩回合)、卡倫、(全體防止暈倒六回合)、路西(自我免疫、消除我軍全體負面效果技能)、齊克(全體防止暈倒六回合)、玲玲(敵軍每死掉一名的時候，我軍全體狀態異常免疫2回合)\n\n防暈角色一隻就夠了，貫穿角色則是越多越好。</string>
+    <string name="copy_url_1">http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160519165408601.jpg</string>
+    <string name="copy_url_2">http://5.share.photo.xuite.net/pan0919/15e588b/19579826/1129033689_x.jpg</string>
+    <string name="copy_url_3">http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160519165454495.jpg</string>
+    <string name="copy_url_4">http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160519165638014.jpg</string>
+
+    <!--降臨副本 -->
+    <string name="befall_text">本次更新亮點之一,艾斯降臨副本開啟,造福許多玩家們除了有一定機會打到四星艾斯之外,還有四到六星的裝備可以獲得,但只有短短兩星期,請各位玩家把握,記得每次上線都要打</string>
+    <string name="befall_text_2">除了艾斯以外,還有機率得得高階裝備,或許是比屠龍好賺的一個副本</string>
+    <string name="befall_text_3">建議隊伍：建議可以從現有的屠龍隊伍或者攻城戰隊伍去挑戰,只要將免疫角色換成防麻痺的角色其實就可以無往不利,另外建議帶一兩隻有全體攻擊的角色（例如：明明,冰帝...）,先放全體攻擊後比較有機會攻擊中間弱點部分,因為王只有打中間才會有傷害,所以裝有弱點攻擊的角色就額外重要了,例如賽茵\n\n以下是範例隊伍 僅供參考用!!</string>
+    <string name="befall_url">http://truth.bahamut.com.tw/s01/201606/be8009e050495c056560c70148e526af.JPG</string>
+    <string name="befall_url_2">http://truth.bahamut.com.tw/s01/201606/8c2ff84074ac899fb06bc4f51187b87c.PNG</string>
+    <string name="befall_url_3">http://truth.bahamut.com.tw/s01/201606/afc90443212ff59aaf6efdc6bec9aec4.JPG</string>
+    <string name="befall_url_4">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/spike.png</string>
+    <!--冰男-->
+    <string name="befall_url_5">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/mei.png</string>
+    <!--梅伊-->
+    <string name="suggest_message">點我直接看今日副本重點</string>
+    <string name="suggest_txet_1">敵方：丘比、裴里卡、赫普尼亞、赫雷倪亞、伊凡，連續三輪都是這個陣容但等級與星數漸高。\n\n
+玩家技能：LV10、15、35選攻擊型，LV20、30、50、55、65、70選防禦型\n\n
+隊長：明明\n\n
+陣型：保護陣型(前四後一)\n\n
+陣容：後一6星明明(40+5武器2暴、防具2、無寶石)\n
+            前四6星齊克(30+0無武器、無防具、無寶石)(可用卡倫替代)\n
+                    6星麗娜(40+5武器2、防具2、無寶石)(可用較低等麗娜替代)\n
+                    5星風顏(30+0無武器、無防具、無寶石)\n
+                    5星戴乙姬(30+0無武器、無防具、無寶石) \n\n
+接關次數：0 \n\n
+嘗試場數：1場\n\n
+攻略心得：\n\n
+敵方隊伍組成偏重生存能力，傷害較低但防禦力高且部分技能帶有暈眩，赫雷倪亞與伊凡的技能還附帶吸血，以盾打盾可能會費時不少，因此以輸出為重，意在打破對方陣型。
+為了避免被吸血，主力使用被動帶有免疫傷害護盾的明明與風顏，並搭配增加我方魔法力的戴乙姬、增加我方傷害的麗娜，希望將輸出最大化；考量到敵方的暈眩技能，帶上被動有免疫暈眩的齊克。因為敵方3輪都是5人出戰，因此讓兩個技能都是打全體的明明站在砲位，以便大量輸出。
+隊伍中除了明明跟麗娜以外都只有30等，風顏、戴乙姬甚至才5星，裝備也不齊；在這種條件下，第1場就可以過關，可見難度不會太高。
+替代人選： 齊克可以用卡倫替代，因為只是要其被動免疫暈眩，而這種回合制的被動，即使英雄本身死亡效果也還在。
+麗娜只要施放到增加傷害技能就可以退場，因此可以用較低等的麗娜替代。
+將風顏、戴乙姬等級提高或配戴裝備的話，會大幅縮短過關時間。\n\n
+技能施放技巧：\n\n
+第一輪先使用麗娜的增加傷害，接著使用明明附帶生命傷害的技能，之後敵方只剩下殘血的伊凡，這時不用再使用技能，以普攻收尾即可，主要是讓明明的技能CD，並讓敵方使用最後一次技能，我們才能在下輪先施放技能。
+沒意外的話麗娜跟齊克都會在這輪倒下，但沒關係，齊克的被動在接下來兩輪也會繼續作用。
+第二輪先使用戴乙姬的4人減防技能，接著將明明的雙技丟出，之後敵方只剩殘血的伊凡與赫雷倪亞，以普攻收尾即可，原因與第一輪相同。(我因為第一輪太快結束，導致明明技能來不及CD，所以在戴乙姬減防之後先使用了風顏的全體技能)
+第三輪技能順序與第二輪完全相同，只是要多循環2次，其間可以穿插風顏與戴乙姬的單體技能，場末一樣會剩下伊凡與赫雷倪亞，第三輪的他們變得很硬，無需再保留，將所有技能盡出，只要在我方護盾結束之前將其擊殺，獎勵就可以入手了。
+我運氣不佳，開場不久裴里卡就放了燒傷技能，風煙因此被燒死，不過影響不大，有驚無險的獲勝了。</string>
+    <string name="suggest_txet_2">敵方：拉坤、雷歐、培因、克蕾歐、拉妮雅，連續三輪都是這個陣容但等級與星數漸高\n\n
+玩家技能：LV10、15、30、35選攻擊型，LV20、50、55、65、70選防禦型\n\n
+隊長：明明\n\n
+陣型：保護陣型(前四後一)\n
+陣容： 後一6星明明(40+5武器2暴、防具2、無寶石)\n
+            前四6星風顏(30+5無武器、無防具、無寶石)\n
+                    5星戴乙姬(30+0無武器、無防具、無寶石)\n
+                    6星幼琍(30+5武器1、防具1、無寶石)\n
+                    6星麗娜(40+5武器2、防具2、無寶石) \n\n
+接關次數：0\n\n
+嘗試場數：3場左右\n\n
+攻略心得：\n\n
+敵方主要輸出是魔法型，傷害偏高且控制能力出眾，但是皮薄，因此不適合打持久戰。為了快速帶走敵方主力，隊伍組成以輸出為重。\n\n
+考量到敵方的高傷害，打手使用了被動有免疫傷害的明明、風顏，並搭配減少敵防的幼琍、增加我方魔法力的戴乙姬、增加我方傷害的麗娜，希望將輸出最大化。\n\n
+因為敵方3輪都是5人出戰，因此讓兩個技能都是打全體的明明站在砲位，以便大量輸出。\n\n
+隊伍中除了明明跟麗娜以外都只有30等，戴乙姬甚至才5星，裝備也不齊；在這種條件下，3場左右可以過關，難度算普通。\n\n
+需要一點運氣，主要是不能讓主力被控場或是過早死亡，導致第三輪輸出不足。\n\n
+替代陣容：\n\n
+將風顏、戴乙姬等級提高或配戴裝備，會讓成功率大增。\n\n
+技能施放技巧：\n\n
+第一輪先將明明的雙技都丟出，之後敵方只剩殘血的拉坤、雷歐，這時不要急於放其他技能清場，因為拉坤跟雷歐相對比較沒有威脅性，先讓麗娜施放我軍增加傷害的技能，以便在下輪打出高傷，最後以普攻收尾即可，方便明明的技能CD，並讓敵方施放最後一次技能，以便在第二輪先手。\n\n
+
+將明明雙技都丟出之後，場上只剩下拉坤與雷歐，這時候一樣先施放麗娜的增加我軍傷害技能，刷新效果以便在第三輪持續打出高傷害。\n\n
+之後採取普攻，方便明明技能CD，差不多了就施放風顏或戴乙姬的單體技能收尾，以免時間拖得太長，我方反而因護盾結束被敲死。沒意外的話幼琍會在這輪倒下。\n\n
+第三輪技能順序與第二輪完全相同，只是要多循環一次，只要主力在過程中沒被控場即可，場末一樣會剩下拉坤與雷歐，第三輪的他們變得很硬，這時候技能盡出不用再有所保留，在我方護盾結束之前打死他們，獎勵就可以入手了。(場末我的麗娜被集火而倒下，但沒有太大影響。) </string>
+    <string name="suggest_txet_3">敵方：青塔歐、李、陣、白龍，連續三輪都是這個陣容但等級與星數漸高\n\n
+玩家技能：LV10、15、30、35選攻擊型，LV20、50、55、65、70選防禦型\n\n
+隊長：明明\n\n
+陣型：保護陣型(前四後一)\n\n
+陣容： 後一6星明明(40+5武器2暴、防具2、無寶石)\n
+             前四5星風顏(30+0無武器、無防具、無寶石)\n
+                     5星戴乙姬(30+0無武器、無防具、無寶石)\n
+                     6星幼琍(30+5武器1、防具1、無寶石)(可用尤伊替代)\n
+                     6星齊克(30+0無武器、無防具、無寶石)(可用卡倫替代) \n\n
+接關次數：0\n\n
+嘗試場數：1場\n\n
+攻略心得：\n\n
+敵方技能傷害係數偏高且多附帶暈眩這種異常狀態，還要注意白龍的被動詐屍，有難纏的霸場能力。為了盡早觸發白龍被動，隊伍組成以輸出為重。\n\n
+考量白龍的被動詐屍，打手使用了被動有免疫傷害的明明及風顏，力求站的比白龍還久，並搭配減少敵防的幼琍、增加我方魔法力的戴乙姬，希望將輸出最大化，為了避免被暈眩，帶上被動免疫暈眩的齊克。因為敵方3輪都是4人出戰，因此讓兩個技能都是打全體的明明站在砲位，以便大量輸出。\n\n
+隊伍中除了明明以外都只有30等，戴乙姬跟風顏甚至才5星，裝備也不齊，在這種條件下，第1場就可以過關，可見難度不會太高。\n\n
+替代陣容：\n\n
+齊克可以使用卡倫替代，因為只是要其被動免疫暈眩，而這種回合制的被動，即使英雄本身死亡效果也還在；進場後發現幼琍作用不大，太早就被帶走，淪為充人數的功能。將風顏、戴乙姬等級提高或配戴裝備的話，會大幅縮短過關時間。\n\n
+技能施放技巧：\n\n
+第一輪先將明明的雙技丟出，敵方會只剩下被動詐屍的白龍，這時候只需要普攻直到白龍因回合到而死亡即可，方便明明的技能CD，並讓敵方施放最後一次技能，以便在第二輪先手。開場不久幼琍跟齊克都會倒下，但沒關係，齊克的被動在接下來兩輪也會繼續作用。\n\n
+第二輪先使用戴乙姬的4人減防技能，力求讓明明雙技直接打死白龍，並觸發其被動，將明明雙技丟出之後，場上只剩下復活的白龍跟殘血的陣，這時候可以用戴乙姬或白龍的單體技能收掉陣，之後普攻直到白龍因回合到而死亡即可，原因與第一輪相同。\n\n
+第三輪技能施放順序與第二輪完全相同，只是要多循環一次，場末無須再保留，將所有技能盡出，只要站得比白龍久，獎勵就可以入手囉！(我運氣不太好，風顏跟明明中了燒傷之後被扣死，一度以為會失敗，最後靠沒中傷燒的戴乙姬撐過，想避免這種衰運纏身的情況也可以將幼琍換為被動免疫燒傷的尤伊) </string>
+    <string name="suggest_txet_4">敵方：第一輪 喬克、第二輪 賽因、第三輪 孫悟空\n\n
+玩家技能：LV10、15、35、55選攻擊型，LV20、30、50、65、70選防禦型\n\n
+隊長：明明\n\n
+陣型：保護陣型(前四後一)\n\n
+陣容：後一6星風顏(38+5武器1暴1弱、防具2、無寶石)\n
+            前四6星明明(40+5武器2暴、防具2、無寶石)\n
+                    6星戴乙姬(36+5武器1暴、無防具、無寶石)\n
+                    6星白龍(30+0無武器、無防具、無寶石)\n
+                    6星尼亞(30+0無武器、無防具、無寶石) \n
+接關次數：0\n\n
+嘗試場數：5場\n\n
+攻略心得：\n\n
+敵方技能以少目標、高傷害為主，賽因還有被動免疫魔傷盾，最棘手的是四皇悟空，不但有貫穿技能還會復活、分身，需要特別的攻略方法。\n\n
+考量到敵方的高傷害，主力使用被動有免疫傷害的明明及風顏，並搭配增加我方魔法力的戴乙姬，希望將輸出最大化，為了消除賽因的盾，帶上了尼亞，悟空的傷害極高，需要一個強力沙包來分擔火力，因此選用白龍。\n\n
+因為敵方3輪都是1人出戰，因此讓單體高傷的風顏站在砲位，以便大量輸出。\n\n
+隊伍中除了功能性角色尼亞、白龍30等以外，其他英雄等級都不低，雖然還沒有滿裝，但在這種條件下，仍需嘗試5場左右，可見難度偏高。\n\n
+玩家技能偏重在傷害，重點是要避開增加攻速的技能，讓我方回合盾英雄的效益最大化，而減少敵方弱點攻擊機率的技能，可以有效降低敵人攻擊我方主力。\n\n
+替代陣容：\n\n
+將戴乙姬、風顏、尼亞、白龍的等級或裝備提升的話，能讓成功率增加。\n\n
+技能施放技巧：\n\n
+第一輪先使用風顏的單體技能，喬克會剩下30%左右的血量，接著使用明明附帶生命傷害的技能，直接讓喬克倒地，原因是白龍開場就會被點死並觸發被動，盡早結束確保白龍不會過度消耗回合數，才能撐到第三輪。\n\n
+第一輪需要一點運氣，主要是不能讓尼亞被打死。\n\n
+第二輪先使用戴乙姬的減防技能，接著使用尼亞的推進破盾，先使用減防的原因是CD問題，不先使用減防的話，第三輪開場會來不及CD完成，之後使用明明的麻痺技能、戴乙姬的單體技能，這時賽因應該殘血了，最後使用風顏的全體技能收尾，不用普攻收尾或等敵方施放最後一次技能，原因與第一輪相同，白龍的時效問題，如果拖得太久，很可能會讓白龍在這輪就消失。\n\n
+第三輪先使用戴乙姬減防技能，接著依序使用明明的附帶生命傷害技能、風顏的單體技能、明明的麻痺技能，這時悟空已經殘血了，用戴乙姬的單體技能收尾，悟空復活之後，技能依CD完成順序施放即可，壓力不大，因為悟空會不斷擊火白龍，注意保持減防技能效果，並持續、穩定的給予傷害，只要在我方護盾結束之前將其擊殺，獎勵就可以順利入手囉。\n\n
+尼亞在這輪開場不久就會被敲死。</string>
+    <string name="suggest_txet_5">敵方：索伊、武松、玲玲，連續三輪都是這個陣容但等級與星數漸高\n\n
+玩家技能：LV10、15、35選攻擊型，LV20、30、50、55、65、70選防禦型\n\n
+隊長：明明\n
+陣型：保護陣型(前四後一)\n
+陣容： 後一6星明明(40+5武器2暴、防具2、無寶石)\n
+             前四6星風顏(30+0無武器、無防具、無寶石)\n
+                    6星齊克(30+0無武器、無防具、無寶石)(可用卡倫替代)\n
+                    6星戴乙姬(30+0無武器、無防具、無寶石)\n
+                    6星尼亞(30+0無武器、無防具、無寶石)(可以不帶)\n
+接關次數：0\n\n
+嘗試場數：1場\n\n
+攻略心得：\n\n
+敵方技能以少目標、高傷害為主，還有武松的高機率暈眩，最棘手的是索伊的被動免疫5人傷害，因此適合使用高單體傷害逐一擊破。\n\n
+考量到敵方的高傷害，主力使用了被動有免疫傷害的明明及風顏，並搭配了增加我方魔法力的戴乙姬，為了避免被武松暈眩，帶上了被動免疫暈眩的齊克，而使用尼亞是為了推近敵方回合數，以便破除索伊的被動護盾。因明明等級較高，所以站在砲位，依靠反擊與普攻給予敵方大量傷害。\n\n
+隊伍中除了明明以外都只有30等，裝備也不齊，在這種條件下，第1場就可以過關，可見難度不會太高。\n\n
+使用這個玩家技能點法，除了強化傷害外，重點是要避開增加攻速的技能，以免我方英雄過快普攻，反而讓護盾因回合時效到期消失。\n\n
+替代陣容：\n\n
+齊克可以用卡倫替代，因為只是要其被動免疫暈眩，而這種回合制的被動，即使英雄本身死亡效果也還在。\n\n
+將風顏、戴乙姬等級提高或配戴裝備的話，會大幅縮短過關時間。\n\n
+技能施放技巧：\n\n
+第一輪先使用尼亞的推進技能將索伊護盾破除，因為第一輪是4星索伊，護盾只有1回合，尼亞推進後會直接破盾，接著使用明明附帶生命傷害的技能給予傷害，之後普攻收尾即可，方便技能CD，並讓敵方施放最後一次技能，以便在第二輪先手。開場不久後尼亞跟齊克都會倒下，但是沒關係，因為齊克的被動在接下來兩輪仍會繼續作用。\n\n
+第二輪先施放戴乙姬的4人減防技能，以便快速給予敵方大量傷害，接著使用戴乙姬與風顏的單體技能，之後普攻收尾即可，原因與第一輪相同。</string>
+    <string name="suggest_txet_6">敵方：第一輪 阿里、第二輪 布奇、第三輪 赫皮\n\n
+玩家技能：LV50、55、70選攻擊型；10、15、20、30、35、65選防禦型\n\n
+隊長：明明\n\n
+陣型：保護陣型(前四後一)\n
+陣容： 後一6星明明(40+5武器2暴、防具2、無寶石)\n
+             前四6星賽因(40+5武器2弱、防具2、無寶石)(不用高突也可以)\n
+                     6星白龍(30+0無武器、無防具、無寶石)\n
+                     6星風顏(30+0無武器、無防具、無寶石)\n
+                     6星戴乙姬(30+0無武器、無防具、無寶石)\n
+接關次數：0\n\n
+嘗試場數：3場左右\n\n
+攻略心得：\n\n
+敵方三輪都只各擺一隻英雄，傷害跟其他困難副本相比也不算高，血量甚至只有1，不過敵方擁有專屬的技能組：被動段數盾、技一1人貫穿、技二4人減攻速，需要特別的攻略方法。(目測敵方的盾第一輪有20段、第二輪30段、第三輪40段，最後一段皆為次數盾，血條上小圖示開始閃爍即為最後一次；段數盾每次傷害都能減少1段，簡單來說看傷害跳幾次就能減少幾段；而次數盾普攻、反擊、速攻、傷害技能各消1次，多段傷害的技能也只能消1次，兩種盾都無法被貫穿。)\n\n
+敵方雖然傷害不高，但段數盾的霸場能力實在太強勢，需要被動有免疫傷害護盾的英雄來撐場，因此使用了明明、戴乙姬、風顏、賽因這幾隻英雄，但是敵方又擁有貫穿技能，單憑護盾英雄無法與其抗衡，需要一個強力的沙包來吸引敵方火力，因此使用了白龍；敵方最棘手的段數盾除了需要我們妥善的施放技能來破解，還要一點點運氣，關鍵在於白龍的反擊表現。\n\n
+隊伍中除了明明、賽因以外都只有30等，裝備也不齊，在這種條件下，3場左右可以過關，難度算普通。\n\n
+使用這個玩家技能點法，除了要避開增加攻速的技能，以免我方英雄過快普攻，反而讓護盾因回合時效到期消失，更注重在強化防禦能力，讓高等的護盾英雄，沒盾之後還能扛住敵方普攻1~2下。\n\n
+替代陣容：\n\n
+賽因可以用低等的賽因替代。將風煙、戴乙姬等級提高或配戴裝備的話，能大幅提升成功率。\n\n
+技能施放技巧：\n\n
+第一輪依序使用賽因、風煙全體、白龍全體、賽因，原因是賽因的技能CD快，其間穿插一個短CD與一個長CD的技能，以便在下一輪可以持續的施放技能，依序使用完之後普攻收尾即可，方便技能CD。\n\n
+白龍在開場就會死亡，但是這樣正好觸發了詐屍被動，因為其被動還帶有高反擊的特性，反擊發揮的好壞，是能否攻略成功的關鍵。\n\n
+第二輪技能依據CD長短施放，必定要由CD長的技能開始施放；讓CD長的技能有足夠的CD時間，才不會在第三輪陷入無招可放的窘境。沒意外的話賽因在這輪開場就會倒下。\n\n
+第三輪則與第二輪相反，必定要由CD短的技能開始施放，因為CD短的技能在放完所有技能之後差不多CD完成，這樣才可以不間斷的持續施放技能，例外的是白龍的技能，CD一到就要優先施放，因為其被動時效快到了。\n\n
+戰到最後剩下風顏與戴乙姬，算是有驚無險。</string>
+    <string name="suggest_txet_7">敵方：第一輪 齊克、第二輪 玲玲、第三輪 風煙\n\n
+玩家技能：LV10、15、20、35選攻擊型；30、50、55、65、70選防禦型\n\n
+隊長：明明\n
+陣型：保護陣型(前四後一)\n
+陣容： 後一6星風顏(38+5武器1弱1暴、無防具、無寶石)\n
+             前四6星幼琍(30+0武器1弱、無防具、無寶石)\n
+                     6星賽因(40+5武器2弱、防具2、無寶石)\n
+                     6星明明(40+5武器2暴、防具2、無寶石)\n
+                     6星戴乙姬(36+5武器1暴、無防具、無寶石)\n
+接關次數：0\n\n
+嘗試場數：10場左右\n\n
+攻略心得：\n\n
+敵方三輪都各擺一隻英雄，血厚、技能傷害高且風顏與玲玲還附帶減益狀態，最棘手的是風顏的被動三回合免傷護盾，需要特別的攻略方法。\n\n
+敵方傷害高，因此主力使用明明、風顏、賽因這幾隻被動護盾的英雄，並搭配被動增加我方魔法力的戴乙姬，為了讓賽因安全通過第一輪，使用了減少敵防的幼琍；第一輪需要一點運氣，關鍵在於賽因是否存活，而第三輪風顏的三回合護盾則需要我們妥善施放技能來攻略。\n\n
+隊伍中除了幼琍以外等級都不低，雖然裝備不齊，但在這種條件下，仍須嘗試10場左右才可以過關，可見難度偏高。\n\n
+使用這個玩家技能點法，除了要避開增加攻速的技能，以免我方英雄過快普攻，反而讓護盾因回合時效到期消失，更注重在強化攻擊能力，才能在第三輪順利擊殺風顏。\n\n
+替代陣容：\n\n
+將隊伍中英雄的等級或裝備提升，可以增加成功率。\n\n
+技能施放技巧：\n\n
+第一輪先使用風顏的單體技能，接著使用明明的附帶生命傷害技能，快速的將齊克打倒，才能避免賽因倒地。\n\n
+這裡需要點運氣，要用這兩招直接打死齊克，賽因才有高機率存活下來，關鍵在於風顏是否觸發暴擊或弱點。幼琍在開場不久後就會倒下。\n\n
+第二輪先使用戴乙姬的減防技能，接著依序使用賽因、戴乙姬單體、明明附帶生命傷害技能，這時玲玲已經殘血，用普攻收尾即可，讓技能有CD時間。\n\n
+第三輪依序使用戴乙姬減防技能、戴乙姬單體、賽因、明明雙技、賽因、風顏全體、戴乙姬減防、戴乙姬單體，為什麼只有戴乙姬的單體貫穿能造成傷害，卻還要放其他技能呢？\n\n
+原因是放技能會有動畫時間，而英雄普攻才會推進回合數，所以放技能可以相對增長每回合間距的時間，讓戴乙姬可以多放1~2次單體貫穿，也讓我方英雄的護盾可以存在更久，但是要注意不要放掉風顏的單體技能。\n\n
+放技能的同時要觀察風顏的護盾是否結束，可以透過血條上方的小圖示判斷，當圖示開始閃爍代表效果只剩一回合，而英雄普攻會推進自身一回合，因此當圖示閃爍之後，風顏普攻就能判定風顏的護盾消失(反擊、速攻不算)，這時抓準時機施放風顏的單體技能給予大量傷害，並搭配使用賽因、風顏的全體技能，就能將獎勵入手囉！\n\n
+戴乙姬、明明的護盾時間較短，在風顏護盾結束之前就會倒地了。</string>
+
+
+    <string name="crystallization_url">https://scontent-tpe1-1.xx.fbcdn.net/t31.0-8/13517488_597622713738848_2384294245332323794_o.png</string>
+    <string name="crystallization_text">"強化的結晶"是可以用來當作英雄或元素強化的強化專用材料英雄，讓同一星等的英雄強化。\n\n\n例如：</string>
+    <string name="crystallization_text_2">如圖所示，使用4星強化的結晶來強化4星的太烏英雄，那麼4星的太烏強化後即變為+1。\n\n但是4星強化的結晶則無法用來強化5星的英雄或6星的英雄。\n\n原遊戲中的強化用英雄"草仔裸"與本次新增的"強化的結晶"有所不同，\n\n欲將其他星等的英雄強化時，各種星等的草仔裸皆可被當作強化的材料使用，\n\n此外，兩個同星等的草仔裸也可以用來合成，但是強化的結晶則沒有此些功能。\n\n那麼，強化的結晶要從哪裡獲得呢?\n\n強化的結晶需經由特殊副本中新增的強化結晶副本來獲得~\n\n</string>
+    <string name="crystallization_text_3">如上圖所示，特殊副本中的降臨副本裡新增了強化結晶副本，\n\n透過強化結晶副本也可以觀看相關的訊息。\n\n強化結晶副本難易度只存在"簡單"難易度，且一天只能進場一次(失敗的情況, 可再入場直到過關)\n\n過關後，即可獲得4~6星強化的結晶(入場次數的重置與其他副本相同)</string>
+
+</resources>

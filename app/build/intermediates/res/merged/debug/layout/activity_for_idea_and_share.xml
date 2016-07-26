@@ -1,0 +1,278 @@
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    tools:context="com.jhengweipan.SevenPeopleBook.ForIdeaAndShareActivity">
+
+    <ScrollView
+        android:layout_height="match_parent"
+        android:layout_width="match_parent"
+        >
+        <LinearLayout
+            android:layout_height="match_parent"
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            >
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp"
+                    >
+                    <TextView
+                        android:id="@+id/textView1"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="＊"
+                        android:textColor="#f9835e"
+                        android:layout_marginLeft="12dp"
+                        ></TextView>
+                    <TextView
+                        android:layout_toRightOf="@+id/textView1"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="您的大名："
+                        android:textColor="#313131"
+
+                        ></TextView>
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <EditText
+                        android:background="@drawable/list3"
+                        android:layout_height="35dp"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:paddingLeft="8dp"
+                        android:id="@+id/nameedt"></EditText>
+                </LinearLayout>
+
+            </LinearLayout>>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp"
+                    >
+                    <TextView
+                        android:id="@+id/textView2"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="＊"
+                        android:textColor="#f9835e"
+                        android:layout_marginLeft="12dp"
+                        ></TextView>
+                    <TextView
+                        android:layout_toRightOf="@+id/textView2"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="聯絡Email："
+                        android:textColor="#313131"
+
+                        ></TextView>
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <EditText
+                        android:background="@drawable/list3"
+                        android:layout_height="35dp"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:paddingLeft="8dp"
+                        android:id="@+id/mailedt"></EditText>
+                </LinearLayout>
+
+            </LinearLayout>>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                android:visibility="gone">
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp"
+                    >
+                    <TextView
+                        android:id="@+id/textView3"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="＊"
+                        android:textColor="#f9835e"
+                        android:layout_marginLeft="12dp"
+                        android:visibility="invisible"
+
+                        ></TextView>
+                    <TextView
+                        android:layout_toRightOf="@+id/textView3"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="聯絡電話："
+                        android:textColor="#313131"
+
+                        ></TextView>
+
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <EditText
+                        android:background="@drawable/list3"
+                        android:layout_height="35dp"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:paddingLeft="8dp"
+                        android:id="@+id/phoneedt"></EditText>
+                </LinearLayout>
+
+            </LinearLayout>>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp"
+                    >
+                    <TextView
+                        android:id="@+id/textView4"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="＊"
+                        android:textColor="#f9835e"
+                        android:layout_marginLeft="12dp"
+
+
+                        ></TextView>
+                    <TextView
+                        android:layout_toRightOf="@+id/textView4"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="主題："
+                        android:textColor="#313131"
+
+                        ></TextView>
+
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <EditText
+                        android:background="@drawable/list3"
+                        android:layout_height="35dp"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:paddingLeft="8dp"
+                        android:id="@+id/tittle"></EditText>
+                </LinearLayout>
+
+            </LinearLayout>>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+                <RelativeLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="horizontal"
+                    android:layout_marginTop="12dp"
+                    >
+                    <TextView
+                        android:id="@+id/textView5"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="＊"
+                        android:textColor="#f9835e"
+                        android:layout_marginLeft="12dp"
+                        ></TextView>
+                    <TextView
+                        android:layout_toRightOf="@+id/textView5"
+                        android:layout_height="wrap_content"
+                        android:layout_width="wrap_content"
+                        android:text="給予建議或提供資訊："
+                        android:textColor="#313131"
+
+                        ></TextView>
+                </RelativeLayout>
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    >
+                    <EditText
+                        android:background="@drawable/list3"
+                        android:layout_height="100dp"
+                        android:layout_width="match_parent"
+                        android:layout_marginLeft="12dp"
+                        android:layout_marginRight="12dp"
+                        android:gravity="top"
+                        android:paddingLeft="8dp"
+                        android:id="@+id/ideaedt"></EditText>
+                </LinearLayout>
+
+            </LinearLayout>>
+            <LinearLayout
+                android:layout_height="wrap_content"
+                android:layout_width="match_parent"
+                android:orientation="vertical"
+                >
+                <LinearLayout
+                    android:layout_height="wrap_content"
+                    android:layout_width="match_parent"
+                    android:orientation="vertical"
+                    android:layout_marginTop="12dp"
+                    >
+
+
+                    <Button
+                        android:id="@+id/btn_sure_send"
+                        style="@style/FullWidthButton"
+                        android:text="確認送出"/>
+                    <Button
+                        android:id="@+id/btn_cancel_send"
+                        style="@style/FullWidthButton"
+                        android:text="取消"/>
+
+                </LinearLayout>
+
+
+            </LinearLayout>>
+
+        </LinearLayout>
+
+
+    </ScrollView>
+
+
+
+</RelativeLayout>

@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.adlocus.AdLocusLibrary"
+    android:versionCode="68"
+    android:versionName="3.5.2" >
+
+    <uses-sdk
+        android:minSdkVersion="9"
+        android:targetSdkVersion="23" />
+
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+    <uses-permission android:name="android.permission.CHANGE_WIFI_STATE" />
+    <uses-permission android:name="android.permission.ACCESS_WIFI_STATE" />
+    <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+
+    <application>
+        <provider
+            android:name="com.adlocus.util.MultiProcessPreferences"
+            android:authorities="${applicationId}.ADLOCUS_CONTENT"
+            android:exported="false" />
+
+        <activity
+            android:name="com.adlocus.AdActivity"
+            android:excludeFromRecents="true"
+            android:launchMode="singleTask"
+            android:theme="@style/AdLocusDialogTheme" >
+        </activity>
+        <activity
+            android:name="com.adlocus.VideoAdActivity"
+            android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
+            android:hardwareAccelerated="true"
+            android:launchMode="singleTask" >
+        </activity>
+
+        <service
+            android:name="com.adlocus.push.PushService"
+            android:process=":adlocus" >
+        </service>
+
+        <receiver
+            android:name="com.adlocus.push.PushReceive"
+            android:enabled="true"
+            android:process=":adlocus" >
+            <intent-filter>
+                <action android:name="android.intent.action.BOOT_COMPLETED" />
+
+                <category android:name="android.intent.category.DEFAULT" />
+            </intent-filter>
+            <intent-filter>
+                <action android:name="com.adlocus.action.RECEIVE" />
+            </intent-filter>
+        </receiver>
+    </application>
+
+</manifest>

@@ -1,0 +1,22 @@
+<resources>
+    <style name="myteme" parent="android:Theme.Light"/>
+    <style name="WMatchHWrap">
+        <item name="android:layout_width">match_parent</item>
+        <item name="android:layout_height">wrap_content</item>
+    </style>
+    <!-- Button -->
+    <style name="FullWidthButton" parent="WMatchHWrap">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">20sp</item>
+        <item name="android:textColor">@android:color/white</item>
+
+    </style>
+
+    <style name="OrganButton" parent="WMatchHWrap">
+        <item name="android:layout_margin">8dp</item>
+        <item name="android:textSize">16sp</item>
+        <item name="android:textColor">@android:color/white</item>
+
+    </style>
+
+</resources>

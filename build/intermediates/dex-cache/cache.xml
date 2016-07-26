@@ -1,0 +1,264 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="77f9593d979f4347344be233bd0d888315f79517">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-e2088e8928d4e560a97c378f29f24bfa77ed60b3.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\libs\admob-adapter-1.0.0-1505261651-830485e.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="d77f6c11b9fc8b69d8008a95b36bc809e55cb92f">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\admob-adapter-1.0.0-1505261651-830485e-c223a64eb6a819aad5d5e3b8917a25aa5b5f785c.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0af4f577b4a21eb9be2a7f52e33b077b67e6d9f8">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-955e53684e5d53967b2f93c5d96a3b7be602cc28.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\libs\libGoogleAnalyticsServices.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db1e65d9e3ee616f871cb23120fbea8f18ad3e4c">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\libGoogleAnalyticsServices-f782a88d33f32c0ef010585712068092a9525cf6.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0a1897426566e408a5c20a3d931f77d89771d07f">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-ac3e9f595d391f35d5d576d1524a4f3c3fedc396.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="744c49c02a27569cc4cc049685d3649e4ef439f2">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-b35f82e1ae3d14bf9a77c32f2aa830688ca59e01.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4b8df1b1e51fe14b0e89b3845dc2e215a024a09f">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-bef604703a9017badab687b99a773e36cf15b8ee.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="ea34579b1be157cd792376362157e9c54ebb4cd7">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-e8f9e85e90c9c598c492e33a2fe5dfc390244d1d.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\libs\glide-3.6.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="86b122e640af09b0723e1fa44083c354ba6d9089">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\glide-3.6.1-520162e5ecbcef9c4523cca8fede45021272788c.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="27775d59b16610ac76f1b83693fedd9520396332">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-18c79d2ba7ca647ef86f74c1908156f9153bcb60.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appstate\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9f825dc52fb0f1e80e1aef436ce8c04905f8e993">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-da26947de7873a84393efd362172f042015c0c54.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="724ce977487ab3a215d4d2eb47d8dccd9f30013f">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-0dc8c9348a5b5ceb560b85d69817379bd59044a7.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="345a1b5cf5b144ce18ba6962bc66a7e2f26c1c1b">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-cb2815c1459369e652173ee03828ebf339d540c1.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="2c6fcd6267cbac6509a2e72a61127534a1d616cf">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-1e5942580bf8ff6c067b6819be6797c1170bf5c4.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\animated-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="23be6993826b8fd88bbc8d14928bb3b8960d3d4e">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-9d92b2aa67f82eca29e29c7cc0e465ab4270931e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9aedc597d74c6d77258ce5236e9abff0c3cc65e3">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-608dc8e990f8d9edbe799b54efb9949e0722e619.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\AppData\Local\Android\Sdk\extras\android\m2repository\com\android\support\support-annotations\23.3.0\support-annotations-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="db7791d75a07fef9844d06236c1c59ba7bf6997c">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\support-annotations-23.3.0-6cc39b0f819de8a826cc4dcc1dcfce9f82a7c1d9.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="71eda10e33212e44245524b5087366ff8d805825">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-6a9ea9ed0bc733fea4e622daa788bd8903a0498e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\libs\internal_impl-23.3.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="4da5a4d697d32497c6f85567a5112e62fdfd0676">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\internal_impl-23.3.0-93589c7f085a2006dfbac70bc4e58fd4edbbbde8.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="dcf8c83c3dead00a6c4fe313e95f7aaca20dc641">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-bc158d01d1bacbd2be0923d4d3a86c6e100f7631.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\support-vector-drawable\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a0b5d60246cd9d4f3f2443611b3b4c25265840b5">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-c069f836d4230fe728b2856566d7405566bdaf5f.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6d9ed9a288364688e7fcf6704776284dac1eb42e">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-d06acb8a91f3869d0350f8a27a5e17e6b7af961e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\libs\Adlocus_3.5.2.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="199ff2a9d8db388a455025fc25db63475cede05a">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\Adlocus_3.5.2-18dd2681605dc0963ca0bf8c1d1392bfbcbac740.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\22.2.0\jars\libs\internal_impl-22.2.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0632f06970823b7e3436f649bfa65b47035c91d0">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\internal_impl-22.2.0-a7812172ed4280130c3c7d0c273d2030c5df8eb5.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="01a90bbb9495a8bbf6f3cfdf12f1b35caaa9524b">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-3de27cadcb6fd324baa82e87e173cc2e517a0805.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="9c9bdb4b2497465a6cf7d5e8f57c5298f828a380">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-a982a200243e06469d4707b9927a33d11e2adbbc.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="58adcfbe2c8393765e84c5489d01bba6a5159eb2">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-134a609af0c3e21b4cb692a13f389b8f11da118a.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8a034dd16c0dfd75fe86c52c2cd581592acc684a">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-abf7196579a8a4a61ae9d76ade7abaae39a84ebe.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="eb576427887e497cd958a475475f9206e38dc314">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-97c76b351e5265f542532cbb155c7ea11a54ce39.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="697679619b00837e3d09e9988a2e1e2a9009d502">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-5bf06fc3de249cd899764c61cb52f8c9d17365db.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="cb4af597d079ffdc0984a3ec2c03cbf6a1b9f869">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-9159fb0c29340430af473a122cd8a28876c6dbbb.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="fd76d95678a6b2b8a49bb8a9fb5bcef7aedb70e7">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-97e764a17591facece844fe168f0744a08719681.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\libs\vpadn-sdk-obf432-91015102-1510191638-e55b2d4.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67026a479e4c8bda9784f66bb99a63efc51ce9b4">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\vpadn-sdk-obf432-91015102-1510191638-e55b2d4-f91cff75196bbec7fe1e3c14f75cb9c0899a9bbd.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="0c3e81d3eb86b86d194b5cdb6a4de78203f6f7fd">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-a86b9ee504493d9ff92a498a376b15efc8d3fdca.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="1b8e03daaa43fb0a4cd57e378167c2fd70454c1e">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-21c2cb45eb77ca477f94c3ec86c58b840221d99e.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="af6ee25641df3142059c0828517aa7ee6eba08d6">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-9c86bd8aed99234347d0872418050626e140dd87.jar" />
+    </item>
+    <item
+        jar="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-measurement\8.3.0\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="b000ecceb9877fefcdc7ab1959ff03df91551656">
+        <dex dex="C:\Users\HYXEN20141227\Desktop\ur\Thunderstormsdivisiononehundredsign\app\build\intermediates\pre-dexed\debug\classes-6e7b0956b2d2e4570ba62cc0f81b488234376618.jar" />
+    </item>
+
+</items>

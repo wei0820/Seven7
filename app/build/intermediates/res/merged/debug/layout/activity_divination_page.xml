@@ -1,0 +1,92 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+
+    android:orientation="vertical"
+    tools:context="com.jhengweipan.Guandisignonehundred.DivinationPageActivity">
+
+    <LinearLayout
+        android:id="@+id/twopage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical"
+        android:visibility="gone">
+
+        <ImageView
+            android:id="@+id/DivinationPageActivity_imageView1"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/onepage"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:orientation="vertical">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1">
+
+            <ScrollView
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+
+                >
+
+                <LinearLayout
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent"
+                    android:orientation="vertical">
+
+
+                    <TextView
+                        android:layout_width="wrap_content"
+                        android:layout_height="wrap_content"
+                        android:text="A.將自已的基本資料(生日、住址)向神明報告一次。\n
+B.詳細說明欲求籤的內容，若是詢問與他人的關系，亦需提供對方的基本資料。\n
+範例:弟子(信女)○○○於民國○年○月○日○時生，家住○○○(現居地址)；今天是因為○○○(將你的問題前因後果說明清楚，不用怕麻煩)，在此請○○○(神明名號)賜一籤。\n
+C.請神明賜籤"
+                        android:textSize="32dp"></TextView>
+
+
+                </LinearLayout>
+
+
+            </ScrollView>
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="9">
+
+            <Button
+                android:id="@+id/startbutton"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="開始求籤詩"></Button>
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="9"
+        android:orientation="vertical">
+
+        <com.google.android.gms.ads.AdView
+            android:id="@+id/adView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            ads:adSize="BANNER"
+            ads:adUnitId="ca-app-pub-7019441527375550/6849112223" />
+    </LinearLayout>
+
+</LinearLayout>

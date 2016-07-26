@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="257dp"
+    >
+    <include layout="@layout/bv_basic"/>
+
+    <RelativeLayout
+        android:id="@+id/b_content"
+        android:layout_width="match_parent"
+        android:layout_marginTop="65dp"
+        android:layout_height="192dp">
+
+        <ImageView
+            android:id="@+id/b_imageview_bigimage"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="42dp"
+            android:paddingLeft="8dp"
+            android:paddingRight="8dp"
+            android:layout_alignParentBottom="true"
+            android:background="@drawable/btn_bg" >
+
+            <TextView
+                android:id="@+id/b_button_setting"
+                style="@style/bigview_func_btn_style"
+                android:gravity="center"
+                android:drawableLeft="@drawable/btn_icon_set"
+                android:text="設 定" />
+
+            <ImageView
+                style="@style/bigview_seperate_line_style"
+                />
+
+            <TextView
+                android:id="@+id/b_button_look"
+                style="@style/bigview_func_btn_style"
+                android:drawableLeft="@drawable/btn_icon_view"
+                android:gravity="center"
+                android:text="觀 看" />
+
+            <ImageView
+                style="@style/bigview_seperate_line_style"
+                />
+
+            <TextView
+                android:id="@+id/b_button_share"
+                style="@style/bigview_func_btn_style"
+                android:drawableLeft="@drawable/btn_icon_share"
+                android:gravity="center"
+                android:text="分 享" />
+        </LinearLayout>
+    </RelativeLayout>
+
+</RelativeLayout>

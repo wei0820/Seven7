@@ -1,0 +1,265 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="pagename">
+        <item>第一籤【大吉。甲甲】  	 巍巍獨步向雲間</item>					
+		<item>第二籤【上吉。甲乙】  	 盈虛消息總天時</item>							
+		<item>第三籤【中吉。甲丙】  	 衣食自然生處有</item>							
+		<item>第四籤【下下。甲丁】	 去年百事可相宜</item>						
+		<item>第五籤【中平。甲戊】  	 子有三般不自由</item>							
+		<item>第六籤【 下下。甲己】  	 何勞鼓瑟更吹笙</item>							
+		<item>第七籤【 大吉。甲庚】  	 仙風道骨本天生</item>						
+		<item>第八籤【 上上。甲辛】 	 年來耕稼苦無收</item>						
+		<item>第九籤【大吉。甲壬】  	 望渠消息向長安</item>						
+		<item>第十籤【下下。甲癸】	 病患時時命蹇衰</item>						
+		<item>第十一籤【下下。乙甲】      今年好事一番新</item>						
+		<item>第十二籤【 中平。乙乙】     營為期望在春前</item>						
+		<item>第十三籤【 中平。乙丙】 	  君今庚甲未亨通</item>						
+		<item>第十四籤【 下下。乙丁 】     一見佳人便喜歡</item>						
+		<item>第十五籤【 中平。乙戊】      兩家門戶各相當</item>					
+		<item>第十六籤【 下下。乙己】      官事悠悠難辨明</item>						
+		<item>第十七籤【 下下。乙庚】      田園價貫好商量</item>						
+		<item>第十八籤【 中平。乙辛】      知君指擬是空華</item>						
+		<item>第十九籤【 上吉。乙壬】      嗟子從來未得時 </item>						
+		<item>第二十籤【 下下。乙癸】      一生心事向誰論</item>						
+		<item>第二十一籤【下下。丙甲】    與君夙昔結成冤</item>						
+		<item>第二二籤【 上吉。丙乙】      碧玉池中開白蓮</item>						
+		<item>第二三籤【 下下。丙丙】     花開花謝在春風</item>						
+		<item>第二四籤【 中平(中吉)。丙丁】  一春萬事苦憂煎</item>						
+		<item>第二五籤【 中平。丙戊 】     寅午戍年多阻滯</item>						
+		<item>第二六籤【 中吉。丙己】     年來豐歉皆天數</item>						
+		<item>第二七籤【 下下(中平)。丙庚】  世間萬物各有主 </item>						
+		<item>第二八籤【 上吉。丙辛】  公侯將相本無種</item>						
+		<item>第二九籤【 上上。丙壬】   祖宗積德幾多年</item>						
+		<item>第三十籤【 中吉。丙癸】  奉公謹守莫欺心 </item>						
+		<item>第三一籤【 中吉。丁甲】  秋冬作事只尋常</item>						
+		<item>第三二籤【 下下。丁乙】  勞心汨汨竟何歸</item>						
+		<item>第三三籤【中平(中吉)。丁丙】 不分南北與西東</item>						
+		<item>第三四籤【中平(中吉)。丁丁】  春夏纔過秋又冬</item>						
+		<item>第三五籤【 下下。丁戊】  一山如畫對清江</item>						
+		<item>第三六籤【 上吉。丁己】  功名富貴自能為</item>						
+		<item>第三七籤【 中平(中吉)。丁庚】  焚香來告復何辭</item>						
+		<item>第三八籤【 下下。丁辛】  蛩吟唧唧守孤幃</item>						
+		<item>第三九籤【 下下(中下)。丁壬】  北山門外好安居</item>						
+		<item>第四十籤【 上吉 。丁癸 】  新來換得好規模</item>							
+		<item>第四一籤【中吉(上吉)。戊甲】  自南自北自東西</item>						
+		<item>第四二籤【中吉。戊乙】   我曾許汝事和諧</item>						
+		<item>第四三籤【 中吉。戊丙】  一紙官書火急催</item>						
+		<item>第四四籤【 中平(中吉)。戊丁】  汝是人中最吉人</item>						
+		<item>第四五籤【 中平(中吉)。戊戊】  好將心地力耕耘</item>					   
+		<item>第四六籤【中平。戊己 】  君是山中萬戶侯</item>						
+		<item>第四七籤【 下下(中平)。戊庚】  與君萬語復千言</item>						
+		<item>第四八籤【中平(中吉)。戊辛】  登山涉水正天寒</item>						
+		<item>第四九籤【 下下。戊壬】  彼此居家只一山</item>						
+		<item>第五十籤【 上平(上吉)。戊癸】  人說今年勝去年</item>					
+		<item>第五一籤【 上吉。己甲】  君今百事且隨緣</item>						
+		<item>第五二籤【 上吉。己乙】  兀坐幽居歎寂寥</item>						
+		<item>第五三籤【 下下。己丙】  艱難險阻路蹊蹺</item>						
+		<item>第五四籤【 中平。己丁】  萬人叢裏逞英豪</item>						
+		<item>第五五籤【 中平。己戊】  勤耕力作莫蹉跎</item>						
+		<item>第五六籤【 下下。己己】  心頭理曲強詞遮</item>						
+		<item>第五七籤【 中平。己庚】  事端百出慮雖長</item>						
+		<item>第五八籤【 上吉。己辛】 蘇秦三寸足平生</item>						
+		<item>第五九籤【 中平。己壬 】 門衰戶冷苦伶仃 </item>						
+		<item>第六十籤【 上上。己癸】  羨君兄弟好名聲</item>						
+		<item>第六一籤【 中平(中吉)。庚甲】嘯聚山林兇惡儔</item>					
+		<item>第六二籤【中平(中吉)。庚乙】 百千人面虎狼心</item>					
+		<item>第六三籤【 中平(中吉)。庚丙】 曩時征北且圖南</item>					
+		<item>第六四籤【 上上。庚丁】 吉人相遇本和同</item>							
+		<item>第六五籤【 上上。庚戊】 朔風凜凜正窮冬</item>                        
+		<item>第六六籤【 上上。庚己】 耕耘只可在鄉邦</item>							
+		<item>第六七籤【 中平。庚庚】 纔發君心天已知</item>							
+		<item>第六八籤【 中平(中吉)。庚辛】 南販珍珠北販鹽</item>						
+		<item>第六九籤【 下下(中平)。庚壬】  捨舟遵路總相宜</item>					
+		<item>第七十籤【 中平(中吉)。庚癸】  雷雨風雲各有司</item>					
+		<item>第七一籤【 中平(中吉)。辛甲】 喜鵲簷前報好音</item>				
+		<item>第七二籤【 下下(中平)。辛乙】 河渠傍路有高低</item>				
+		<item>第七三籤【下下。辛丙】  憶昔蘭房分半釵</item>							
+		<item>第七四籤【 上吉。辛丁】 崔巍崔魏復崔巍</item>							
+		<item>第七五籤【 中吉。辛戊】  生前結得好緣姻</item>					
+		<item>第七六籤【 中平。辛己】 三千法律八千文</item>							
+		<item>第七七籤【 下下(中下)。辛庚】  木有根荄水有源</item>					
+		<item>第七八籤【 下下。辛辛】 家道豐腴自飽溫 </item>						
+		<item>第七九籤【 中平。辛壬】  乾亥來龍仔細看</item>						
+		<item>第八十籤【 中平。辛癸】 一朝無事忽遭官</item>							
+		<item>第八一籤【中平(中吉)。壬甲】 假君財物自當還</item>					
+		<item>第八二籤【 上吉。壬乙】 彼亦儔中一輩賢</item>							
+		<item>第八三籤【下下。壬丙】 隨分堂前赴粥饘</item>							
+		<item>第八四籤【 中平。壬丁】 君家事緒更紛然</item>							
+		<item>第八五籤【 中平。壬戊】  一春風雨正瀟瀟</item>						
+		<item>第八六籤【上上(上吉)。壬己】 一舟行貨好招邀</item>                   
+		<item>第八七籤【 下下。壬庚】 陰裏詳看怪爾曹</item>						
+		<item>第八八籤【上吉。壬辛】  從前作事總徒勞</item>							
+		<item>第八九籤【 中平。壬壬】 樽前無事且高歌</item>							
+		<item>第九十籤【 中平。壬癸】  崆峒城裏事如麻</item>						
+		<item>第九一籤【 中平(中吉)。癸甲】 佛說淘沙始見金</item> 					
+		<item>第九二籤【下下(下中)。癸乙】  今年禾穀不如前</item>					
+		<item>第九三籤【 中平。癸丙】 春來雨水太連綿</item>							
+		<item>第九四籤【 中平(中吉)。癸丁】 一般器用與人同</item>					
+		<item>第九五籤【 中平(中吉)。癸戊】 知君袖裏有驪珠</item>					
+		<item>第九六籤【 上吉。癸己】 婚姻子媳莫嫌遲</item>						
+		<item>第九七籤【 上上。癸庚】  五十功名心已灰</item>						
+		<item>第九八籤【 中平(中吉)。癸辛】 經營百出費精神</item>					
+		<item>第九九籤【 上上。癸壬】  貴人遭遇水雲鄉</item>						
+		<item>第一百籤【 上上。癸癸】 我本天仙雷雨師</item>								             
+    </string-array>
+
+	<!---->
+	<string-array name="sevenpageame">
+		<item>更新資訊</item>
+		<item>新手導引任務</item>
+		<item>每日攻城戰</item>
+		<item>屠龍建議</item>
+		<item>師徒任務</item>
+		<item>每日更新時間</item>
+		<item>強化副本</item>
+		<item>每日副本困難關卡攻略</item>
+		<item>每日的困難副本指引</item>
+		<item>強化結晶介紹</item>
+		<item>卡片占卜</item>
+		<item>建議與提供資訊</item>
+		<item>收徒交友</item>
+		<item>孫悟空降臨副本</item>
+		<item>訂閱無廣告空間服務</item>
+	</string-array>
+	<!--七騎士圖檔-->
+
+	<string-array name="sevenpeopleurl">
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/rudi.png</item><!--路迪-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/eyelin.png</item><!--10-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/rachel.png</item><!--紅帽-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/delons.png</item><!--死神-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/jave.png</item><!--龍男-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/spike.png</item><!--冰男-->
+		<item>http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/chris.png</item><!--克里斯-->
+	</string-array>
+	<string-array name="sevenpeoplename">
+		<item>路迪</item>
+		<item>亞依林</item>
+		<item>雷伊潔兒</item>
+		<item>戴倫斯</item>
+		<item>傑伊普</item>
+		<item>斯帕依克</item>
+		<item>克里斯</item>
+
+
+	</string-array>
+	<string-array name="effectnamearry">
+		<item>1.使對方暈倒 \n 2.自身傷害降低80%,並且免疫異常狀態</item>
+		<item>1.使對方觸電</item>
+		<item>1.降低對手防禦與及傷害80%</item>
+		<item>1.使對手沉默</item>
+		<item>1.使對手燒傷</item>
+		<item>1.使對手冷凍</item>
+		<item>1.使對手即死</item>
+
+	</string-array>
+	<string-array name="ability">
+		<item>抗暈</item>
+		<item>抗觸電</item>
+		<item>降低效果免疫</item>
+		<item>抗沉默</item>
+		<item>抗燒傷(可以不帶)</item>
+		<item>抗冷凍</item>
+		<item>抗即死</item>
+
+	</string-array>
+
+	<string-array name="newplayteach_tittle">
+		<item>01.請點擊目錄查看幫助內容(20把鑰匙)</item>
+		<item>02.請點擊問號查看詳細資訊(金幣1萬)</item>
+		<item>03.請確認圖鑑資訊，即前往後即可退出(金幣1萬)</item>
+		<item>04.請選擇配置非已在陣型內的英雄(把不在陣型內的隨便放一隻到陣型上)(金幣1萬)</item>
+		<item>05.按下強化陣型按鈕,進行強化陣型一次(金幣1萬)</item>
+		<item>06.請按下冒險入場後進入1-6區域的冒險(金幣1萬)</item>
+		<item>第一階段追加獎勵</item>
+		<item>07.請點擊成就達成每日任務1次(金幣5萬)</item>
+		<item>08.請點擊內容查看人氣英雄排行(100把鑰匙)</item>
+		<item>09.請帶朋友的英雄至冒險後使用1次召喚朋友(200榮譽)</item>
+		<item>10.請在召喚商店中召喚裝備1次(金幣10萬)</item>
+		<item>11.請將裝備強化5次(5星+5武器自選)</item>
+		<item>12.請升階持有的強化+5裝備1次(6星防具)</item>
+		<item>13.請穿戴裝備1次(100顆紅寶石)</item>
+		<item>14.請變更or學習玩家技能(4星英雄自選)</item>
+		<item>15.請將英雄升級到30級(金幣5萬)</item>
+		<item>第二階段追加獎勵</item>
+		<item>16.請強化英雄5次(4星30等+5英雄自選)</item>
+		<item>17.請合成英雄1次(5星元素自選)</item>
+		<item>18.請進化英雄1次(究極強化英雄)</item>
+		<item>19.請究極強化英雄1次(突破精靈)</item>
+		<item>20.請突破英雄1次(6星30+5英雄自選)</item>
+		<item>第三階段追加獎勵</item>
+	</string-array>
+	<string-array name="teachurl">
+		<item>http://truth.bahamut.com.tw/s01/201604/5e8262aa6496077dc75e87aa38877c78.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/747fcae3a44021dc0019d3dbfc59d70c.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/df865bdb539788e251eb71e6b9b892a0.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/10aa4ba27518be85f964438178cdb88f.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/51fc27e6534b8cdd2371f3fba25545b5.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/fd72fd980596a1100bd6be18689d0967.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/be31b1cd64a2522ac8cf5ee3cadfb53d.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/ded5c8febc22135b2afc7a74fa464b04.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/7766cb69531ee4327eef0dee5b37749e.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/f47da65fb3f1c4e24295b74fdfa3cd6e.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/a2cab9d92efbb99dc2a2feb46dc2d77e.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/ffea95ed4d3be13651b2a17318833c92.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/e3cb13791c8b1f731facd99361821dd2.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/1bef247281d2139624b13c28de8e34dd.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/cdea6cfc3041791ec8803c309b17039e.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/ba7ab3c796b5e003d8f1a504d75d605c.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/080e551e129abec89ab2f90c06312d9a.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/2f162306fdfba87eecc5268f79009366.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/2496e029938dba8c75b8538e9e788069.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/137bfa23a1fb6f89d95819db55748bd2.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/76b8866c505c397127711dc61e73cebc.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/192e6451668408ad6692e2a5855087ce.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/c15c4069c227c9fdb4fd030ed3453999.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/0b7dbd806dacb9c3067abe480551a4a5.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/aff03a445cc568a143b7f93647895e14.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/584337c126260ed9367e2396578674b2.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/ba6858812dc5fb224c778fea9b43e94a.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/2e4ba50d083b6d43d820f29ddcebad29.JPG</item>
+		<item>http://truth.bahamut.com.tw/s01/201604/27ac3d867396317e5bb4c5d5b56ac4b1.JPG</item>
+
+	</string-array>
+	<string-array name="whoActivity_name">
+		<item>七騎士</item>
+		<item>四皇</item>
+		<item>伊凡遠征隊</item>
+		<item>冒險家們</item>
+		<item>影子軍團</item>
+		<item>聖十字團</item>
+		<item>艾依莎大陸</item>
+		<item>亞斯特大陸</item>
+	</string-array>
+	<string-array name="suggest_name">
+		<item>星期一 土元素</item>
+		<item>星期二 光元素</item>
+		<item>星期三 水元素</item>
+		<item>星期四 暗元素</item>
+		<item>星期五 火元素</item>
+		<item>星期六 金幣</item>
+		<item>星期日 裝備</item>
+
+	</string-array>
+	<string-array name="suggest2_url">
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202357270.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202605735.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202505317.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202654250.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202737976.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202827708.jpg</item>
+		<item>http://jbimg.joybomb.com.tw/nmn.joybomb.com.tw/UpdImg/20160412202933524.jpg</item>
+
+	</string-array>
+	<string-array name="suggest2_text" >
+		<item>七騎士遊戲中，每日副本可以刷各腳色升星等所需的元素英雄，尤其是困難等級才能獲得四星的升級元素，這可是各位騎士們最需要的。\n\n建議陣型：\n\n多數玩家建議是以前四後一的保護陣型來闖關。這陣型即是要有一主要砲手角色能穩定輸出。但是這類的陣型先決是成員們多數具有傷害免疫或殭屍技能，但是也有人建議以前一後四的陣型，選一主力坦來慢慢推進，所以說其實陣型並無絕對，端看你手中有甚麼英雄來決定策略。\n\n建議英雄：\n\n</item>
+		<item>玩家們暱稱「死神」的七騎士之一，戴倫斯，是普遍建議的首選。除了被動技「死亡的警戒」能夠傷害免疫2回合，更有著傷害量上升的效果。加上全體沉默與單體無視防禦的高輸出技，戴倫斯確實是你要突破困難副本的好夥伴。全體沉默技能改為3體，有可能增加敵方強力角色出招機率。但是死神仍有傷害免疫與傷害量上升的buff，仍然是可以上場的選擇。</item>
+		<item>戴乙姬也是多數玩家推薦角色，擁有的是自身傷害免疫2回合被動技，更有著敵軍降防技能，相信有她的加入，會加快各位騎士清怪的速度</item>
+		<item>明明也是能夠自身傷害免疫2回合的角色，除此之外，她的兩個全體攻擊技能，特點分別是造成敵方最大生命值20\%%的傷害與兩回合一定機率麻痺，能夠有效削弱敵軍戰力，也是大家推薦的主要原因。</item>
+		<item>風顏擁有傷害免疫3回合的被動技能，主動技能有全體法傷加上降低敵軍傷害量40\%%，另外更有對單體600\%%的高輸出法傷；如果你同時擁有戴乙姬加上風顏，有甚麼理由不一起上呢?</item>
+		<item>武松入選的原因主要也是傷害免疫2回合，另外還有高機率的全體物傷+2回合暈眩狀態。</item>
+		<item>白龍入選原因則是因為被動技復活後的無敵狀態與反擊效果。而且主動技能還能解除敵方有益狀態，若無傷害免疫角色，派白龍上陣也是不錯的選擇。</item>
+		<item>尼亞也是許多人推薦的英雄，三回合內物理傷害免疫，加上兩個全體主動技能，其中還有觸電與降低敵方有效增益效果，確也是強力的夥伴。</item>
+		<item>其他建議：\n\n紅寶石砸下去就對啦~四星元素英雄的稀有程度與培養過程相當辛苦，如果能花個30顆紅寶石就能接關通過，其實是很划算的喔。總之花費在100顆紅寶石內都是值得的呢!\n\n總結來看玩家們都推薦具有無敵免疫效果的英雄來通關是較有效率的，但每日困難副本的攻略方法不會只有這一種，後續日後釋出的英雄與多變的技能，只要玩家持續經營自己的隊伍，也可以打造出自己的獨特攻略法門喔。</item>
+	</string-array>
+</resources>

@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "288164734372",
+    "firebase_url": "https://sevenpeoplebook.firebaseio.com",
+    "project_id": "sevenpeoplebook",
+    "storage_bucket": "sevenpeoplebook.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:288164734372:android:a3713428eb78a6d3",
+        "android_client_info": {
+          "package_name": "com.jhengweipan.SevenPeopleBook"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "288164734372-6b9e3v1419uriquobgiat5k7l5as289j.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.jhengweipan.SevenPeopleBook",
+            "certificate_hash": "73775138A59F1345BC25DC32F6B4B8453F7BA3EF"
+          }
+        },
+        {
+          "client_id": "288164734372-e6srsdkb53id69lgkendti7anv1bhcm9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJJjZv_cTlmUmzDXS7QCHflsOaFq5nncs"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "288164734372-e6srsdkb53id69lgkendti7anv1bhcm9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
