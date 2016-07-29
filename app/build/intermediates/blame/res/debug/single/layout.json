@@ -632,12 +632,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_96.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_96.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_99.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_99.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_96.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_96.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thirtynine.xml",

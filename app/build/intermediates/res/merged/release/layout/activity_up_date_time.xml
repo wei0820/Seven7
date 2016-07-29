@@ -1,0 +1,116 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:ads="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="com.jhengweipan.SevenPeopleBook.UpDateTimeActivity">
+
+    <ScrollView
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="8">
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <TextView
+                android:id="@+id/update_text1"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text2"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text3"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text4"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text5"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text6"
+
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+
+                ></TextView>
+
+            <TextView
+                android:id="@+id/update_text7"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+                android:textColor="#FF0000"
+
+                ></TextView>
+            <TextView
+                android:id="@+id/update_text8"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+                android:textColor="#FF0000"
+                ></TextView>
+            <TextView
+                android:id="@+id/update_text9"
+                android:layout_width="match_parent"
+                android:layout_height="match_parent"
+                android:padding="12dp"
+                android:textSize="20dp"
+                android:textColor="#FF0000"
+                ></TextView>
+        </LinearLayout>
+
+    </ScrollView>
+
+    <com.google.android.gms.ads.AdView
+        android:id="@+id/adView"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_gravity="center"
+        ads:adSize="BANNER"
+        ads:adUnitId="ca-app-pub-7019441527375550/7510501825" />
+</LinearLayout>

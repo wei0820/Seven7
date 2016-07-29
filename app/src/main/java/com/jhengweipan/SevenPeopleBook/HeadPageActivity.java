@@ -39,6 +39,7 @@ public class HeadPageActivity extends Activity implements
     private AdView adView;
     IabHelper mHelper;
     static final String ITEM_SPONSOR_MONth = "sponsor_month";
+    static final String ITEM_MY_VIP = "my_vip";
     protected Location mLastLocation;
     private GoogleApiClient mGoogleApiClient;
 
@@ -133,9 +134,14 @@ public class HeadPageActivity extends Activity implements
 
                 if (inventory.hasPurchase(ITEM_SPONSOR_MONth)) {
                     MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, true);
-                    Log.d("Jack", "成功開始查詢購買");
+                    Log.d("Jack", "購買"+inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
                     MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
 
+                }
+                if (inventory.hasPurchase(ITEM_MY_VIP)) {
+                    MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, true);
+                    Log.d("Jack", "購買"+inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
+                    MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
                 }
                 // update UI accordingly
             }
