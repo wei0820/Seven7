@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/res/merged/debug/values-v21/values-v21.xml",
+        "outputFile": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\values-v21\\values-v21.xml",
         "map": [
             {
                 "to": {
@@ -12,7 +12,7 @@
                     "endOffset": 531
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -32,7 +32,7 @@
                     "endOffset": 622
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -51,7 +51,7 @@
                     "endOffset": 725
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -70,7 +70,7 @@
                     "endOffset": 828
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -89,7 +89,7 @@
                     "endOffset": 933
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -108,7 +108,7 @@
                     "endOffset": 1040
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -127,7 +127,7 @@
                     "endOffset": 1149
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -146,7 +146,7 @@
                     "endOffset": 1258
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -165,7 +165,7 @@
                     "endOffset": 1367
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -184,7 +184,7 @@
                     "endOffset": 1476
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -203,7 +203,7 @@
                     "endOffset": 1585
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -222,7 +222,7 @@
                     "endOffset": 1692
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -241,7 +241,7 @@
                     "endOffset": 1795
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -260,7 +260,7 @@
                     "endOffset": 1914
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -280,7 +280,7 @@
                     "endOffset": 2069
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -301,7 +301,7 @@
                     "endOffset": 2224
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -321,7 +321,7 @@
                     "endOffset": 2329
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -340,7 +340,7 @@
                     "endOffset": 2450
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -359,7 +359,7 @@
                     "endOffset": 2551
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -379,7 +379,7 @@
                     "endOffset": 2698
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -400,7 +400,7 @@
                     "endOffset": 2839
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -420,7 +420,7 @@
                     "endOffset": 2942
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -439,7 +439,7 @@
                     "endOffset": 3061
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -458,7 +458,7 @@
                     "endOffset": 3168
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -477,7 +477,7 @@
                     "endOffset": 3271
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -497,7 +497,7 @@
                     "endOffset": 3426
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -518,7 +518,7 @@
                     "endOffset": 3597
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -539,7 +539,7 @@
                     "endOffset": 3746
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 34,
                         "startColumn": 4,
@@ -560,7 +560,7 @@
                     "endOffset": 3911
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 36,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 4068
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 38,
                         "startColumn": 4,
@@ -602,7 +602,7 @@
                     "endOffset": 4219
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 40,
                         "startColumn": 4,
@@ -622,7 +622,7 @@
                     "endOffset": 4338
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 42,
                         "startColumn": 4,
@@ -642,7 +642,7 @@
                     "endOffset": 4710
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 43,
                         "startColumn": 4,
@@ -663,7 +663,7 @@
                     "endOffset": 4859
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 48,
                         "startColumn": 4,
@@ -684,7 +684,7 @@
                     "endOffset": 5008
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 50,
                         "startColumn": 4,
@@ -704,7 +704,7 @@
                     "endOffset": 5120
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 52,
                         "startColumn": 4,
@@ -723,7 +723,7 @@
                     "endOffset": 5267
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 53,
                         "startColumn": 4,
@@ -743,7 +743,7 @@
                     "endOffset": 5420
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 54,
                         "startColumn": 4,
@@ -764,7 +764,7 @@
                     "endOffset": 5567
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 56,
                         "startColumn": 4,
@@ -784,7 +784,7 @@
                     "endOffset": 5642
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 58,
                         "startColumn": 4,
@@ -803,7 +803,7 @@
                     "endOffset": 5731
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 59,
                         "startColumn": 4,
@@ -822,7 +822,7 @@
                     "endOffset": 5818
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 60,
                         "startColumn": 4,
@@ -841,7 +841,7 @@
                     "endOffset": 5919
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 61,
                         "startColumn": 4,
@@ -860,7 +860,7 @@
                     "endOffset": 6022
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 62,
                         "startColumn": 4,
@@ -880,7 +880,7 @@
                     "endOffset": 9090
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 63,
                         "startColumn": 4,
@@ -901,7 +901,7 @@
                     "endOffset": 9276
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 107,
                         "startColumn": 4,
@@ -922,7 +922,7 @@
                     "endOffset": 12356
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 110,
                         "startColumn": 4,
@@ -943,7 +943,7 @@
                     "endOffset": 12554
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 154,
                         "startColumn": 4,
@@ -964,7 +964,7 @@
                     "endOffset": 12754
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 157,
                         "startColumn": 4,
@@ -985,7 +985,7 @@
                     "endOffset": 12877
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 160,
                         "startColumn": 4,
@@ -1006,7 +1006,7 @@
                     "endOffset": 13000
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 162,
                         "startColumn": 4,
@@ -1027,7 +1027,7 @@
                     "endOffset": 13113
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 164,
                         "startColumn": 4,
@@ -1048,7 +1048,7 @@
                     "endOffset": 13296
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 166,
                         "startColumn": 4,
@@ -1069,7 +1069,7 @@
                     "endOffset": 13427
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 169,
                         "startColumn": 4,
@@ -1090,7 +1090,7 @@
                     "endOffset": 13628
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 171,
                         "startColumn": 4,
@@ -1110,7 +1110,7 @@
                     "endOffset": 13717
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 174,
                         "startColumn": 4,
@@ -1129,7 +1129,7 @@
                     "endOffset": 13828
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 175,
                         "startColumn": 4,
@@ -1149,7 +1149,7 @@
                     "endOffset": 14061
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 176,
                         "startColumn": 4,
@@ -1169,7 +1169,7 @@
                     "endOffset": 14162
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 179,
                         "startColumn": 4,
@@ -1188,7 +1188,7 @@
                     "endOffset": 14257
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 180,
                         "startColumn": 4,
@@ -1207,7 +1207,7 @@
                     "endOffset": 14380
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 181,
                         "startColumn": 4,
@@ -1226,7 +1226,7 @@
                     "endOffset": 14509
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 182,
                         "startColumn": 4,
@@ -1245,7 +1245,7 @@
                     "endOffset": 14626
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 183,
                         "startColumn": 4,
@@ -1265,7 +1265,7 @@
                     "endOffset": 14803
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 184,
                         "startColumn": 4,
@@ -1285,7 +1285,7 @@
                     "endOffset": 14902
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 187,
                         "startColumn": 4,
@@ -1305,7 +1305,7 @@
                     "endOffset": 15037
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 188,
                         "startColumn": 4,
@@ -1326,7 +1326,7 @@
                     "endOffset": 15180
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 190,
                         "startColumn": 4,
@@ -1347,7 +1347,7 @@
                     "endOffset": 15315
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 192,
                         "startColumn": 4,
@@ -1368,7 +1368,7 @@
                     "endOffset": 15434
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 194,
                         "startColumn": 4,
@@ -1389,7 +1389,7 @@
                     "endOffset": 15635
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 196,
                         "startColumn": 4,
@@ -1410,7 +1410,7 @@
                     "endOffset": 15754
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 200,
                         "startColumn": 4,
@@ -1430,7 +1430,7 @@
                     "endOffset": 15847
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 202,
                         "startColumn": 4,
@@ -1449,7 +1449,7 @@
                     "endOffset": 15958
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 203,
                         "startColumn": 4,
@@ -1468,7 +1468,7 @@
                     "endOffset": 16014
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 204,
                         "startColumn": 4,
@@ -1488,7 +1488,7 @@
                     "endOffset": 16121
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 205,
                         "startColumn": 4,
@@ -1509,7 +1509,7 @@
                     "endOffset": 16316
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 207,
                         "startColumn": 4,
@@ -1530,7 +1530,7 @@
                     "endOffset": 16427
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 211,
                         "startColumn": 4,
@@ -1551,7 +1551,7 @@
                     "endOffset": 16560
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 213,
                         "startColumn": 4,
@@ -1571,7 +1571,7 @@
                     "endOffset": 16655
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 215,
                         "startColumn": 4,
@@ -1590,7 +1590,7 @@
                     "endOffset": 16746
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 216,
                         "startColumn": 4,
@@ -1609,7 +1609,7 @@
                     "endOffset": 16837
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 217,
                         "startColumn": 4,
@@ -1628,7 +1628,7 @@
                     "endOffset": 16954
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 218,
                         "startColumn": 4,
@@ -1648,7 +1648,7 @@
                     "endOffset": 17093
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 219,
                         "startColumn": 4,
@@ -1669,7 +1669,7 @@
                     "endOffset": 17606
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 221,
                         "startColumn": 4,
@@ -1690,7 +1690,7 @@
                     "endOffset": 18131
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 231,
                         "startColumn": 4,
@@ -1711,7 +1711,7 @@
                     "endOffset": 18811
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 241,
                         "startColumn": 4,
@@ -1731,7 +1731,7 @@
                     "endOffset": 18868
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 251,
                         "startColumn": 4,
@@ -1750,7 +1750,7 @@
                     "endOffset": 18926
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 252,
                         "startColumn": 4,
@@ -1769,7 +1769,7 @@
                     "endOffset": 19023
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1788,7 +1788,7 @@
                     "endOffset": 19124
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/values-v21/values-v21.xml",
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\values-v21\\values-v21.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,

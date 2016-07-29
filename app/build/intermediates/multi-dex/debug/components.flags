@@ -1,7 +1,7 @@
--injars /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/transforms/jarMerging/debug/jars/1/1f/combined.jar
--outjars /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/multi-dex/debug/componentClasses.jar
+-injars 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\transforms\jarMerging\debug\jars\1\1f\combined.jar'
+-outjars 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\multi-dex\debug\componentClasses.jar'
 
--libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
+-libraryjars 'C:\Users\HYXEN20141227\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize
@@ -9,7 +9,7 @@
 -dontusemixedcaseclassnames
 -dontpreverify
 -dontwarn
--printconfiguration /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/multi-dex/debug/components.flags
+-printconfiguration 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\multi-dex\debug\components.flags'
 
 
 -keep class com.google.android.gms.ads.AdActivity {
