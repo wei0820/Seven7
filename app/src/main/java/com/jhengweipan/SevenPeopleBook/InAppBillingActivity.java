@@ -93,13 +93,15 @@ public class InAppBillingActivity extends Activity {
                 MySharedPrefernces.saveIsBuyed(InAppBillingActivity.this, true);
                 MyGAManager.sendActionName(InAppBillingActivity.this,"購買商品","商品："+purchase.getPurchaseTime());
             }
+            else if (purchase.getSku().equals(ITEM_MY_VIP)) {
+//                showDilog();
+//                consumeItem();
+            }
 //            }else if (purchase.getSku().equals(ITEM_SPONSOR_YEARS)) {
 //                showDilog();
 //                MySharedPrefernces.saveIsBuyed(InAppBillingActivity.this,true);
 //
-//            }else if (purchase.getSku().equals(ITEM_MY_VIP)) {
-//                showDilog();
-//                consumeItem();
+//            }
 //
 //            }else if (purchase.getSku().equals(ITEM_1000)){
 //                showDilog();
@@ -159,14 +161,14 @@ public class InAppBillingActivity extends Activity {
                         inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle();
 //                String other =inventory.getSkuDetails(ITEM_SPOMSOR_OTHER).getTitle();
 //                String years = inventory.getSkuDetails(ITEM_SPONSOR_YEARS).getTitle();
-//                String vip = inventory.getSkuDetails(ITEM_MY_VIP).getTitle();
+                String vip = inventory.getSkuDetails(ITEM_MY_VIP).getTitle();
 //                String vip_1000 = inventory.getSkuDetails(ITEM_1000).getTitle();
 //                String vip_100 = inventory.getSkuDetails(ITEM_100).getTitle();
                 ArrayList<String> mylist = new ArrayList<>();
 //                mylist.add(myfree);
                 mylist.add(month);
 //                mylist.add(years);
-//                mylist.add(vip);
+                mylist.add(vip);
 //                mylist.add(vip_1000);
 //                mylist.add(vip_100);
 //                mylist.add(other);
@@ -188,9 +190,9 @@ public class InAppBillingActivity extends Activity {
 //                            case 2:
 //                                ShowBuyDilog(inventory.getSkuDetails(ITEM_SPONSOR_YEARS).getTitle(), inventory.getSkuDetails(ITEM_SPONSOR_YEARS).getDescription(),inventory.getSkuDetails(ITEM_SPONSOR_YEARS).getPrice(),ITEM_SPONSOR_YEARS);
 //                                break;
-//                            case 3:
-//                                ShowBuyDilog(inventory.getSkuDetails(ITEM_MY_VIP).getTitle(), inventory.getSkuDetails(ITEM_MY_VIP).getDescription(),inventory.getSkuDetails(ITEM_MY_VIP).getPrice(),ITEM_MY_VIP);
-//                                break;
+                            case 1:
+                                ShowBuyDilog(inventory.getSkuDetails(ITEM_MY_VIP).getTitle(), inventory.getSkuDetails(ITEM_MY_VIP).getDescription(),inventory.getSkuDetails(ITEM_MY_VIP).getPrice(),ITEM_MY_VIP);
+                                break;
 //                            case 4:
 //                                ShowBuyDilog(inventory.getSkuDetails(ITEM_1000).getTitle(), inventory.getSkuDetails(ITEM_1000).getDescription(),inventory.getSkuDetails(ITEM_1000).getPrice(),ITEM_1000);
 //                                break;
@@ -222,6 +224,7 @@ public class InAppBillingActivity extends Activity {
 //                        int index =0;
 //                        index++;
                         MySharedPrefernces.saveIsBuyed(InAppBillingActivity.this,true);
+                        MyGAManager.sendActionName(InAppBillingActivity.this,"購買","購買永久");
 //                        Toast.makeText(getApplicationContext(),"已購買:"+index+"次",Toast.LENGTH_SHORT).show();
                     } else {
                         // handle error
@@ -261,7 +264,7 @@ public class InAppBillingActivity extends Activity {
 //                                               additionalSkuList.add(ITEM_SPOMSOR_OTHER);
                                                additionalSkuList.add(ITEM_SPONSOR_MONth);
 //                                               additionalSkuList.add(ITEM_SPONSOR_YEARS);
-//                                               additionalSkuList.add(ITEM_MY_VIP);
+                                               additionalSkuList.add(ITEM_MY_VIP);
 //                                               additionalSkuList.add(ITEM_1000);
 //                                               additionalSkuList.add(ITEM_100);
                                                mHelper.queryInventoryAsync(true, additionalSkuList,
