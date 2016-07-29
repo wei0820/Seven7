@@ -25,7 +25,11 @@ android {
             jniLibs.srcDirs = ['libs']
         }
     }
-
+    dexOptions {
+        preDexLibraries = false
+        incremental true
+        javaMaxHeapSize "4g"
+    }
 
 }
 
@@ -46,6 +50,7 @@ dependencies {
     compile 'com.google.firebase:firebase-ads:9.0.0'
     compile project(':admobadapter')
     compile 'com.android.support:multidex-instrumentation:1.0.1'
+    compile 'com.google.android.gms:play-services:9.0.0'
 
 }
 

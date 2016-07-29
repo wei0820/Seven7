@@ -1,37 +1,53 @@
 package com.jhengweipan.SevenPeopleBook;
 
 
+import android.Manifest;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.PackageManager;
+import android.location.Geocoder;
+import android.location.Location;
 import android.media.MediaPlayer;
 import android.os.Bundle;
+import android.support.v4.app.ActivityCompat;
 import android.util.Log;
-import android.view.Menu;
 import android.view.View;
+import android.location.Address;
+import android.location.Geocoder;
+import android.location.Location;
 
-import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
+import com.google.android.gms.common.ConnectionResult;
+import com.google.android.gms.common.api.GoogleApiClient;
+import com.google.android.gms.location.LocationServices;
 import com.jhengweipan.Guandisignonehundred.R;
-import com.jhengweipan.Thunderstormsdivisiononehundredsign.ZeroActivity;
 import com.jhengweipan.ga.MyGAManager;
+
+import java.io.IOException;
+import java.util.List;
+import java.util.Locale;
 
 import util.IabHelper;
 import util.IabResult;
 import util.Inventory;
 import util.MySharedPrefernces;
 
-public class HeadPageActivity extends Activity {
+public class HeadPageActivity extends Activity implements
+        GoogleApiClient.ConnectionCallbacks, GoogleApiClient.OnConnectionFailedListener {
+    private static final String TAG = "HeadPageActivity";
     private MediaPlayer mp;
     private AdView adView;
     IabHelper mHelper;
     static final String ITEM_SPONSOR_MONth = "sponsor_month";
+    protected Location mLastLocation;
+    private GoogleApiClient mGoogleApiClient;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_head_page);
         // 建立 adView。
-        MyGAManager.sendScreenName(HeadPageActivity.this,getString(R.string.ga_homeheadPage));
+        MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
 
         mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
@@ -84,18 +100,21 @@ public class HeadPageActivity extends Activity {
 //	            }
 //	        });
 ////
-////		
+////
+        buildGoogleApiClient();
+
     }
 
     public void BTC(View v) {
 //	 mp.reset();
-        MyGAManager.sendActionName(HeadPageActivity.this,"點擊進入","進入選擇頁面");
+        MyGAManager.sendActionName(HeadPageActivity.this, "點擊進入", "進入選擇頁面");
         Intent i = new Intent();
         i.setClass(this, SevenPeopleBook_MenuActivity.class);
         startActivity(i);
 
 
     }
+
     IabHelper.QueryInventoryFinishedListener mGotInventoryListener
             = new IabHelper.QueryInventoryFinishedListener() {
         public void onQueryInventoryFinished(IabResult result,
@@ -105,19 +124,17 @@ public class HeadPageActivity extends Activity {
                 // handle error here
                 Log.d("Jack", "失敗");
                 MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, false);
-                MyGAManager.sendActionName(HeadPageActivity.this,"購買失敗"," 原因："+result.getMessage() );
+                MyGAManager.sendActionName(HeadPageActivity.this, "購買失敗", " 原因：" + result.getMessage());
                 return;
-            }
-            else {
+            } else {
                 // does the user have the premium upgrade?
                 Log.d("Jack", "成功開始查詢購買");
                 MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", "查詢購買的商品");
 
-                if(inventory.hasPurchase(ITEM_SPONSOR_MONth))
-                {
+                if (inventory.hasPurchase(ITEM_SPONSOR_MONth)) {
                     MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, true);
                     Log.d("Jack", "成功開始查詢購買");
-                    MyGAManager.sendActionName(HeadPageActivity.this, "購買成功",inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle() );
+                    MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
 
                 }
                 // update UI accordingly
@@ -126,10 +143,72 @@ public class HeadPageActivity extends Activity {
     };
 
     @Override
+    protected void onStart() {
+        super.onStart();
+        mGoogleApiClient.connect();
+    }
+
+    @Override
+    protected void onStop() {
+        super.onStop();
+        if (mGoogleApiClient.isConnected()) {
+            mGoogleApiClient.disconnect();
+        }
+    }
+
+    @Override
     public void onDestroy() {
         super.onDestroy();
         if (mHelper != null) mHelper.dispose();
         mHelper = null;
+    }
+
+    protected synchronized void buildGoogleApiClient() {
+        mGoogleApiClient = new GoogleApiClient.Builder(this)
+                .addConnectionCallbacks(this)
+                .addOnConnectionFailedListener(this)
+                .addApi(LocationServices.API)
+                .build();
+    }
+
+    @Override
+    public void onConnected(Bundle bundle) {
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_FINE_LOCATION) != PackageManager.PERMISSION_GRANTED && ActivityCompat.checkSelfPermission(this, Manifest.permission.ACCESS_COARSE_LOCATION) != PackageManager.PERMISSION_GRANTED) {
+            // TODO: Consider calling
+            //    ActivityCompat#requestPermissions
+            // here to request the missing permissions, and then overriding
+            //   public void onRequestPermissionsResult(int requestCode, String[] permissions,
+            //                                          int[] grantResults)
+            // to handle the case where the user grants the permission. See the documentation
+            // for ActivityCompat#requestPermissions for more details.
+            return;
+        }
+        mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
+        if (mLastLocation != null) {
+            Geocoder gc = new Geocoder(HeadPageActivity.this, Locale.TRADITIONAL_CHINESE);
+            List<Address> lstAddress = null;
+            try {
+                lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
+                String returnAddress=lstAddress.get(0).getAddressLine(0);
+                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
+            } catch (IOException e) {
+                e.printStackTrace();
+            }
+
+        } else {
+
+            MyGAManager.sendActionName(HeadPageActivity.this," Location","NO Location");
+        }
+    }
+
+    @Override
+    public void onConnectionSuspended(int i) {
+
+    }
+
+    @Override
+    public void onConnectionFailed(ConnectionResult connectionResult) {
+
     }
 }
 

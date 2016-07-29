@@ -36,6 +36,10 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\abc_btn_checkbox_unchecked_mtrl.png"
     },
     {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_clear.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_clear.png"
+    },
+    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_arrow_drop_right_black_24dp.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\abc_ic_arrow_drop_right_black_24dp.png"
     },
@@ -48,8 +52,16 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\abc_ic_clear_material.png"
     },
     {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_dark.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_dark.png"
+    },
+    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable-xxxhdpi-v4\\abc_ic_star_half_black_16dp.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\places_ic_search.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\places_ic_search.png"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_ab_back_material.png",
@@ -94,6 +106,10 @@
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable-xxxhdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\powered_by_google_light.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\drawable-xxxhdpi-v4\\powered_by_google_light.png"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi-v4\\abc_ic_menu_share_material.png",
