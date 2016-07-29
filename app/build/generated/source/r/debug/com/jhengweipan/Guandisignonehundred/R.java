@@ -1986,8 +1986,8 @@ containing a value of this type.
         public static final int btn_share_click=0x7f0200b4;
         public static final int card_blaack=0x7f0200b5;
         public static final int card_gold=0x7f0200b6;
-        public static final int color_bigview_btn_bg_click=0x7f020107;
-        public static final int color_bigview_btn_bg_normal=0x7f020108;
+        public static final int color_bigview_btn_bg_click=0x7f02010e;
+        public static final int color_bigview_btn_bg_normal=0x7f02010f;
         public static final int common_full_open_on_phone=0x7f0200b7;
         public static final int common_google_signin_btn_icon_dark=0x7f0200b8;
         public static final int common_google_signin_btn_icon_dark_disabled=0x7f0200b9;
@@ -2045,7 +2045,7 @@ containing a value of this type.
         public static final int newicon=0x7f0200ed;
         public static final int newphoto=0x7f0200ee;
         public static final int noartispb=0x7f0200ef;
-        public static final int notification_template_icon_bg=0x7f020109;
+        public static final int notification_template_icon_bg=0x7f020110;
         public static final int p005=0x7f0200f0;
         public static final int p01=0x7f0200f1;
         public static final int p02=0x7f0200f2;
@@ -2066,9 +2066,16 @@ containing a value of this type.
         public static final int pm_status_03=0x7f020101;
         public static final int pm_status_04=0x7f020102;
         public static final int pm_status_05=0x7f020103;
-        public static final int seveniocn=0x7f020104;
-        public static final int sl_bigview_btn_bg=0x7f020105;
-        public static final int user_default=0x7f020106;
+        public static final int seven1=0x7f020104;
+        public static final int seven2=0x7f020105;
+        public static final int seven3=0x7f020106;
+        public static final int seven4=0x7f020107;
+        public static final int seven5=0x7f020108;
+        public static final int seven6=0x7f020109;
+        public static final int seven7=0x7f02010a;
+        public static final int seveniocn=0x7f02010b;
+        public static final int sl_bigview_btn_bg=0x7f02010c;
+        public static final int user_default=0x7f02010d;
     }
     public static final class id {
         public static final int CrystallizationActivity_img=0x7f0c006c;

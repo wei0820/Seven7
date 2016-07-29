@@ -118,8 +118,8 @@ public final class R {
 		public static final int btn_icon_set = 0x7f0200b0;
 		public static final int btn_icon_share = 0x7f0200b1;
 		public static final int btn_icon_view = 0x7f0200b2;
-		public static final int color_bigview_btn_bg_click = 0x7f020107;
-		public static final int color_bigview_btn_bg_normal = 0x7f020108;
+		public static final int color_bigview_btn_bg_click = 0x7f02010e;
+		public static final int color_bigview_btn_bg_normal = 0x7f02010f;
 		public static final int pm_ad_logo_300 = 0x7f0200f4;
 		public static final int pm_ad_logo_320 = 0x7f0200f5;
 		public static final int pm_ad_logo_728 = 0x7f0200f6;
@@ -136,7 +136,7 @@ public final class R {
 		public static final int pm_status_03 = 0x7f020101;
 		public static final int pm_status_04 = 0x7f020102;
 		public static final int pm_status_05 = 0x7f020103;
-		public static final int sl_bigview_btn_bg = 0x7f020105;
+		public static final int sl_bigview_btn_bg = 0x7f02010c;
 	}
 	public static final class id {
 		public static final int ProMe_NotificationClickIcon = 0x7f0c01a4;
