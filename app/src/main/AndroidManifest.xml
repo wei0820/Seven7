@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.jhengweipan.Guandisignonehundred"
-    android:versionCode="13"
-    android:versionName="6.5">
+    android:versionCode="14"
+    android:versionName="6.6">
 
     <uses-sdk
         android:minSdkVersion="11"
@@ -23,6 +23,9 @@
     <uses-permission android:name="android.permission.GET_ACCOUNTS" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="com.android.vending.BILLING" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+
 
     <!-- iBeancon功能所需权限 -->
     ;

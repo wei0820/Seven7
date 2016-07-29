@@ -153,6 +153,25 @@
                         "endOffset": 606
                     }
                 }
+            },
+            {
+                "to": {
+                    "startLine": 10,
+                    "startColumn": 4,
+                    "startOffset": 611,
+                    "endColumn": 72,
+                    "endOffset": 679
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\values-sw600dp\\values-sw600dp.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 282,
+                        "endColumn": 72,
+                        "endOffset": 350
+                    }
+                }
             }
         ]
     }

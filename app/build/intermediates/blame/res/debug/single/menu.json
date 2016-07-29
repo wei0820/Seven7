@@ -352,12 +352,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_89.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\five.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\five.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\menu_main__select.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\menu_main__select.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\five.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\five.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\menu\\twentyeight.xml",
