@@ -1,5 +1,5 @@
--injars /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
--outjars /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/multi-dex/release/componentClasses.jar
+-injars /Users/jackpan/Seven7/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
+-outjars /Users/jackpan/Seven7/app/build/intermediates/multi-dex/release/componentClasses.jar
 
 -libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
 
@@ -9,8 +9,13 @@
 -dontusemixedcaseclassnames
 -dontpreverify
 -dontwarn
--printconfiguration /Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/multi-dex/release/components.flags
+-printconfiguration /Users/jackpan/Seven7/app/build/intermediates/multi-dex/release/components.flags
 
+
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
 
 -keep class com.google.android.gms.ads.AdActivity {
     <init>();
@@ -621,6 +626,38 @@
 }
 
 -keep class com.google.firebase.iid.FirebaseInstanceIdService {
+    <init>();
+}
+
+-keep class com.google.android.gms.appinvite.PreviewActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService {
+    <init>();
+}
+
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService {
+    <init>();
+}
+
+-keep class com.google.firebase.messaging.FirebaseMessagingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerService {
+    <init>();
+}
+
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity {
     <init>();
 }
 

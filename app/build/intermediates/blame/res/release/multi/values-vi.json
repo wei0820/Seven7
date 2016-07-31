@@ -1,6 +1,6 @@
 [
     {
-        "outputFile": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/res/merged/release/values-vi/values-vi.xml",
+        "outputFile": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/values-vi/values-vi.xml",
         "map": [
             {
                 "to": {
@@ -11,7 +11,7 @@
                     "endOffset": 214
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -30,7 +30,7 @@
                     "endOffset": 322
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -49,7 +49,7 @@
                     "endOffset": 445
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -68,7 +68,7 @@
                     "endOffset": 553
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -87,7 +87,7 @@
                     "endOffset": 662
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -106,7 +106,7 @@
                     "endOffset": 746
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -125,7 +125,7 @@
                     "endOffset": 849
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -144,7 +144,7 @@
                     "endOffset": 968
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -163,7 +163,7 @@
                     "endOffset": 1045
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -182,7 +182,7 @@
                     "endOffset": 1122
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -201,7 +201,7 @@
                     "endOffset": 1206
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -220,7 +220,7 @@
                     "endOffset": 1310
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -239,7 +239,7 @@
                     "endOffset": 1419
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -258,7 +258,7 @@
                     "endOffset": 1520
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -277,7 +277,7 @@
                     "endOffset": 1625
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -296,7 +296,7 @@
                     "endOffset": 1739
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -315,7 +315,7 @@
                     "endOffset": 1844
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -334,7 +334,7 @@
                     "endOffset": 1964
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -353,7 +353,7 @@
                     "endOffset": 2063
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -372,7 +372,7 @@
                     "endOffset": 2322
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -391,7 +391,7 @@
                     "endOffset": 2450
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -410,7 +410,7 @@
                     "endOffset": 2644
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -429,7 +429,7 @@
                     "endOffset": 2771
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -448,7 +448,7 @@
                     "endOffset": 2904
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -467,7 +467,7 @@
                     "endOffset": 3136
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -486,7 +486,7 @@
                     "endOffset": 3372
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -505,7 +505,7 @@
                     "endOffset": 3504
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -524,7 +524,7 @@
                     "endOffset": 3699
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -543,7 +543,7 @@
                     "endOffset": 3830
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -562,7 +562,7 @@
                     "endOffset": 4002
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -581,7 +581,7 @@
                     "endOffset": 4117
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -600,7 +600,7 @@
                     "endOffset": 4250
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -619,7 +619,7 @@
                     "endOffset": 4437
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -638,7 +638,7 @@
                     "endOffset": 4584
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,
@@ -657,7 +657,7 @@
                     "endOffset": 4747
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 19,
                         "startColumn": 4,
@@ -676,7 +676,7 @@
                     "endOffset": 4875
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 20,
                         "startColumn": 4,
@@ -695,7 +695,7 @@
                     "endOffset": 5062
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,
@@ -714,7 +714,7 @@
                     "endOffset": 5196
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 22,
                         "startColumn": 4,
@@ -733,7 +733,7 @@
                     "endOffset": 5457
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-basement/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -752,7 +752,7 @@
                     "endOffset": 5709
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 23,
                         "startColumn": 4,
@@ -771,7 +771,7 @@
                     "endOffset": 5836
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 24,
                         "startColumn": 4,
@@ -790,7 +790,7 @@
                     "endOffset": 5945
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 25,
                         "startColumn": 4,
@@ -809,7 +809,7 @@
                     "endOffset": 6137
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 26,
                         "startColumn": 4,
@@ -828,7 +828,7 @@
                     "endOffset": 6269
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 27,
                         "startColumn": 4,
@@ -847,7 +847,7 @@
                     "endOffset": 6487
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 28,
                         "startColumn": 4,
@@ -866,7 +866,7 @@
                     "endOffset": 6626
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 29,
                         "startColumn": 4,
@@ -885,7 +885,7 @@
                     "endOffset": 6805
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 30,
                         "startColumn": 4,
@@ -904,7 +904,7 @@
                     "endOffset": 6903
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 31,
                         "startColumn": 4,
@@ -923,7 +923,7 @@
                     "endOffset": 6997
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 32,
                         "startColumn": 4,
@@ -942,7 +942,7 @@
                     "endOffset": 7107
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-base/9.0.0/res/values-vi/values.xml",
                     "position": {
                         "startLine": 33,
                         "startColumn": 4,
@@ -957,11 +957,258 @@
                     "startLine": 52,
                     "startColumn": 4,
                     "startOffset": 7112,
-                    "endColumn": 100,
-                    "endOffset": 7208
+                    "endColumn": 106,
+                    "endOffset": 7214
                 },
                 "from": {
-                    "file": "/Users/jackpan/Documents/app/Thunderstormsdivisiononehundredsign/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 278,
+                        "endColumn": 106,
+                        "endOffset": 380
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 53,
+                    "startColumn": 4,
+                    "startOffset": 7219,
+                    "endColumn": 114,
+                    "endOffset": 7329
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 385,
+                        "endColumn": 114,
+                        "endOffset": 495
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 54,
+                    "startColumn": 4,
+                    "startOffset": 7334,
+                    "endColumn": 107,
+                    "endOffset": 7437
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 6,
+                        "startColumn": 4,
+                        "startOffset": 500,
+                        "endColumn": 107,
+                        "endOffset": 603
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 55,
+                    "startColumn": 4,
+                    "startOffset": 7442,
+                    "endColumn": 106,
+                    "endOffset": 7544
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 7,
+                        "startColumn": 4,
+                        "startOffset": 608,
+                        "endColumn": 106,
+                        "endOffset": 710
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 56,
+                    "startColumn": 4,
+                    "startOffset": 7549,
+                    "endColumn": 124,
+                    "endOffset": 7669
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 715,
+                        "endColumn": 124,
+                        "endOffset": 835
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 57,
+                    "startColumn": 4,
+                    "startOffset": 7674,
+                    "endColumn": 98,
+                    "endOffset": 7768
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 840,
+                        "endColumn": 98,
+                        "endOffset": 934
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 58,
+                    "startColumn": 4,
+                    "startOffset": 7773,
+                    "endColumn": 93,
+                    "endOffset": 7862
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 10,
+                        "startColumn": 4,
+                        "startOffset": 939,
+                        "endColumn": 93,
+                        "endOffset": 1028
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 59,
+                    "startColumn": 4,
+                    "startOffset": 7867,
+                    "endColumn": 123,
+                    "endOffset": 7986
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 11,
+                        "startColumn": 4,
+                        "startOffset": 1033,
+                        "endColumn": 123,
+                        "endOffset": 1152
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 60,
+                    "startColumn": 4,
+                    "startOffset": 7991,
+                    "endColumn": 101,
+                    "endOffset": 8088
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 1157,
+                        "endColumn": 101,
+                        "endOffset": 1254
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 61,
+                    "startColumn": 4,
+                    "startOffset": 8093,
+                    "endColumn": 87,
+                    "endOffset": 8176
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 13,
+                        "startColumn": 4,
+                        "startOffset": 1259,
+                        "endColumn": 87,
+                        "endOffset": 1342
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 62,
+                    "startColumn": 4,
+                    "startOffset": 8181,
+                    "endColumn": 94,
+                    "endOffset": 8271
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/values-vi/values-vi.xml",
+                    "position": {
+                        "startLine": 14,
+                        "startColumn": 4,
+                        "startOffset": 1347,
+                        "endColumn": 94,
+                        "endOffset": 1437
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 63,
+                    "startColumn": 4,
+                    "startOffset": 8276,
+                    "endColumn": 102,
+                    "endOffset": 8374
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/values-vi/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 275,
+                        "endColumn": 102,
+                        "endOffset": 373
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 64,
+                    "startColumn": 4,
+                    "startOffset": 8379,
+                    "endColumn": 97,
+                    "endOffset": 8472
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/values-vi/values.xml",
+                    "position": {
+                        "startLine": 5,
+                        "startColumn": 4,
+                        "startOffset": 378,
+                        "endColumn": 97,
+                        "endOffset": 471
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 65,
+                    "startColumn": 4,
+                    "startOffset": 8477,
+                    "endColumn": 100,
+                    "endOffset": 8573
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/values-vi/values-vi.xml",
                     "position": {
                         "startLine": 21,
                         "startColumn": 4,

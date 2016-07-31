@@ -1,3 +1,7 @@
+-keep class android.support.multidex.MultiDexApplication {
+    <init>();
+    void attachBaseContext(android.content.Context);
+}
 -keep class com.google.android.gms.ads.AdActivity { <init>(); }
 -keep class com.jhengweipan.Thunderstormsdivisiononehundredsign.ZeroActivity { <init>(); }
 -keep class com.jhengweipan.Thunderstormsdivisiononehundredsign.ThreeActivity { <init>(); }
@@ -151,6 +155,14 @@
 -keep class com.google.firebase.iid.FirebaseInstanceIdReceiver { <init>(); }
 -keep class com.google.firebase.iid.FirebaseInstanceIdInternalReceiver { <init>(); }
 -keep class com.google.firebase.iid.FirebaseInstanceIdService { <init>(); }
+-keep class com.google.android.gms.appinvite.PreviewActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.internal.SignInHubActivity { <init>(); }
+-keep class com.google.android.gms.auth.api.signin.RevocationBoundService { <init>(); }
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashReceiverService { <init>(); }
+-keep class com.google.firebase.crash.internal.service.FirebaseCrashSenderService { <init>(); }
+-keep class com.google.firebase.messaging.FirebaseMessagingService { <init>(); }
+-keep class com.google.android.gms.tagmanager.TagManagerService { <init>(); }
+-keep class com.google.android.gms.tagmanager.TagManagerPreviewActivity { <init>(); }
 -keep public class * extends android.app.backup.BackupAgent {
     <init>();
 }
