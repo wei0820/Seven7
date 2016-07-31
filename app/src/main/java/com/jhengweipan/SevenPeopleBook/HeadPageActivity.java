@@ -57,6 +57,7 @@ public class HeadPageActivity extends Activity implements
                     // Oh noes, there was a problem.
                     MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, false);
                     Log.d("Jack", "Problem setting up In-app Billing: " + result);
+                    return;
                 }
                 // Hooray, IAB is fully set up!
                 MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, false);
