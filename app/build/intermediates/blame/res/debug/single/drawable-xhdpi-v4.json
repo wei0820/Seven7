@@ -516,12 +516,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable-xhdpi-v4\\abc_ic_star_half_black_36dp.png"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\al_icon_9_2.png",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\drawable-xhdpi-v4\\al_icon_9_2.png"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\al_icon_7_2.png",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\drawable-xhdpi-v4\\al_icon_7_2.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\al_icon_9_2.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\drawable-xhdpi-v4\\al_icon_9_2.png"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi-v4\\ic_share.png",
