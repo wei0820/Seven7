@@ -41,6 +41,8 @@ dependencies {
     //    compile files('libs/vpadn-sdk-obf432-91015102-1510191638-e55b2d4.jar')
     compile files('libs/GetuiSDK2.8.1.0.jar')
     compile files('libs/GetuiExt-2.0.3.jar')
+    compile 'com.android.support:multidex:1.0.0'
+
     //    compile 'com.android.support:support-v4'
     compile files('libs/universal-image-loader-1.9.4.jar')
     compile 'com.android.support:support-v4:24.0.0-alpha1'
