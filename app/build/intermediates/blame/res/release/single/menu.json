@@ -232,6 +232,18 @@
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/twentyeight.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\page_83.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_83.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\page_80.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_80.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\eight.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\eight.xml"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/oneone.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/oneone.xml"
     },
@@ -242,6 +254,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/page_83.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/page_83.xml"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/thirtyseven.xml",
@@ -280,6 +293,18 @@
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/twentyseven.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\page_73.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_73.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\page_76.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_76.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\menu\\page_62.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\menu\\page_62.xml"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/twentytwo.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/twentytwo.xml"
     },
@@ -290,6 +315,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/thirtyone.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/menu/thirtyone.xml"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/menu/page_84.xml",

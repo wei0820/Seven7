@@ -16,6 +16,18 @@
         "source": "/Users/jackpan/Seven7/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_menu_selectall_material.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_btn_radio_off_mtrl.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_btn_radio_off_mtrl.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_paste_material.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_paste_material.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi-v4\\abc_ic_menu_overflow_material.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\abc_ic_menu_overflow_material.png"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_search_api_material.png",
         "source": "/Users/jackpan/Seven7/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_search_api_material.png"
     },
@@ -26,6 +38,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_ic_ab_back_material.png",
         "source": "/Users/jackpan/Seven7/app/build/generated/res/pngs/debug/drawable-ldpi/abc_ic_ab_back_material.png"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-ldpi-v4/abc_btn_checkbox_checked_mtrl.png",

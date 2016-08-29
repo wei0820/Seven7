@@ -632,6 +632,18 @@
         "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortynine.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_96.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_96.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_page_99.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_99.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_thirtynine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtynine.xml"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/layout/activity_page_87.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_87.xml"
     },
@@ -642,6 +654,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/layout/activity_masterandapprentice.xml",
         "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_masterandapprentice.xml"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",

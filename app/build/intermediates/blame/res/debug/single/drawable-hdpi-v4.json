@@ -468,6 +468,18 @@
         "source": "/Users/jackpan/Seven7/app/build/generated/res/pngs/debug/drawable-hdpi/abc_btn_checkbox_checked_mtrl.png"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\p01.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\drawable-hdpi\\p01.png"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_setting_light.png",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\drawable-hdpi\\ic_setting_light.png"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/photo.jpg",
         "source": "/Users/jackpan/Seven7/app/src/main/res/drawable-hdpi/photo.jpg"
     },
@@ -478,6 +490,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_btn_radio_on_mtrl.png",
         "source": "/Users/jackpan/Seven7/app/build/generated/res/pngs/debug/drawable-hdpi/abc_btn_radio_on_mtrl.png"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/drawable-hdpi-v4/abc_scrubber_control_to_pressed_mtrl_005.png",

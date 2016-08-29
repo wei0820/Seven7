@@ -384,6 +384,18 @@
         "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_83.xml"
     },
     {
+<<<<<<< HEAD
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortytwo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortytwo.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ask.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_ask.xml"
+=======
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/adcontentlistview_item.xml",
         "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/Seven7/admobadapter/unspecified/res/layout/adcontentlistview_item.xml"
     },
@@ -394,6 +406,7 @@
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_alert_dialog_button_bar_material.xml"
+>>>>>>> 82939666754d85d062cf4a701f727b897316ed99
     },
     {
         "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/recyclerview_item.xml",
