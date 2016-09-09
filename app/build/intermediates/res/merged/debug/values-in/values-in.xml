@@ -50,6 +50,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Buka di ponsel"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Masuk"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Masuk dengan Google"</string>
+    <string name="messenger_send_button_text">Kirim</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Transmisi"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Menelusuri perangkat…"</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Sambungkan ke perangkat"</string>

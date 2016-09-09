@@ -19,6 +19,25 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Condividi con"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Condividi con %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Comprimi"</string>
+    <string name="com_facebook_device_auth_instructions">Accedi a &lt;b>facebook.com/device&lt;/b> nel tuo smartphone o computer e inserisci questo codice:</string>
+    <string name="com_facebook_image_download_unknown_error">Errore imprevisto durante il
+        caricamento di un\'immagine.</string>
+    <string name="com_facebook_internet_permission_error_message">L\'accesso tramite Web richiede
+        l\'autorizzazione INTERNET</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest Error</string>
+    <string name="com_facebook_like_button_liked">Ti piace</string>
+    <string name="com_facebook_like_button_not_liked">Mi piace</string>
+    <string name="com_facebook_loading">Caricamento...</string>
+    <string name="com_facebook_loginview_cancel_action">Annulla</string>
+    <string name="com_facebook_loginview_log_in_button">Accedi</string>
+    <string name="com_facebook_loginview_log_in_button_long">Accedi con Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Esci</string>
+    <string name="com_facebook_loginview_log_out_button">Esci</string>
+    <string name="com_facebook_loginview_logged_in_as">Accesso effettuato come: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Accesso effettuato con Facebook</string>
+    <string name="com_facebook_send_button_text">Invia</string>
+    <string name="com_facebook_share_button_text">Condividi</string>
+    <string name="com_facebook_tooltip_default">Novità! Il controllo è nelle tue mani: scegli quali informazioni condividere con le applicazioni.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> richiede uno o più servizi di Google Play che non sono attualmente disponibili. Contatta lo sviluppatore per ricevere assistenza."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Attiva Google Play Services"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> non funzionerà se non attivi Google Play Services."</string>
@@ -50,6 +69,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Apri sul telefono"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Accedi"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Accedi con Google"</string>
+    <string name="messenger_send_button_text">Invia</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Trasmetti"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Ricerca di dispositivi…"</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Connetti al dispositivo"</string>

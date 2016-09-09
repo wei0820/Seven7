@@ -4,17 +4,21 @@ package com.jhengweipan.SevenPeopleBook;
 import android.Manifest;
 import android.app.Activity;
 import android.content.Intent;
+import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
+import android.content.pm.Signature;
 import android.location.Geocoder;
 import android.location.Location;
 import android.media.MediaPlayer;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
+import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.location.Address;
 import android.location.Geocoder;
 import android.location.Location;
+import android.widget.Toast;
 
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.common.ConnectionResult;
@@ -24,6 +28,8 @@ import com.jhengweipan.Guandisignonehundred.R;
 import com.jhengweipan.ga.MyGAManager;
 
 import java.io.IOException;
+import java.security.MessageDigest;
+import java.security.NoSuchAlgorithmException;
 import java.util.List;
 import java.util.Locale;
 
@@ -42,7 +48,7 @@ public class HeadPageActivity extends Activity implements
     static final String ITEM_MY_VIP = "my_vip";
     protected Location mLastLocation;
     private GoogleApiClient mGoogleApiClient;
-
+    PackageInfo info;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -65,44 +71,20 @@ public class HeadPageActivity extends Activity implements
 
             }
         });
-//		AdView mAdView = (AdView) findViewById(R.id.adView);
-//        AdRequest adRequest = new AdRequest.Builder().build();
-//        mAdView.loadAd(adRequest);
 
-//
-//	    // 啟動一般請求。
-//	    AdRequest adRequest = new AdRequest.Builder().build();
-//
-//	    // 以廣告請求載入 adView。
-//	    adView.loadAd(adRequest);
-//		LinearLayout myLayout = (LinearLayout) findViewById(R.id.container);
-//		AdLocusLayout ALLayout = new AdLocusLayout(this, 
-//				AdLocusLayout.AD_SIZE_BANNER, //廣告大小, 可參考下表的ADSIZE, 非平板建議使用此項即可
-//				"cd499e695a4171fb3a9d45b8863b872a127951d2",               //app key
-//				15                            //輪播時間，最低 15 秒，-1 為不輪播只顯示一則
-//				);
-//
-//		// 設定輪播動畫: 隨機, 置中
-//		ALLayout.setTransitionAnimation(AdLocusLayout.ANIMATION_RANDOM);
-//		LinearLayout.LayoutParams ALParams = new LinearLayout.LayoutParams(ViewGroup.LayoutParams.WRAP_CONTENT,ViewGroup.LayoutParams.WRAP_CONTENT);
-//		ALParams.gravity = Gravity.CENTER;
-//
-//		// 監聽廣告可加入下方範例
-//
-//		// 加入至您的Layout中
-//		myLayout.addView(ALLayout, ALParams);
-//		myLayout.setGravity(Gravity.CENTER_HORIZONTAL);
-//		myLayout.invalidate();
-//		mp = MediaPlayer.create(this, R.raw.music);
-//		 mp.start();
-//	        mp.setOnCompletionListener(new MediaPlayer.OnCompletionListener() {
-//	            
-//	            public void onCompletion(MediaPlayer mp) {
-//	                mp.start();
-//	            }
-//	        });
-////
-////
+        try{
+            info = getPackageManager().getPackageInfo("com.jhengweipan.SevenPeopleBook",PackageManager.GET_SIGNATURES);
+            for(Signature signature : info.signatures)
+            {      MessageDigest md;
+                md = MessageDigest.getInstance("SHA");
+                md.update(signature.toByteArray());
+                String KeyResult =new String(Base64.encode(md.digest(),0));//String something = new String(Base64.encodeBytes(md.digest()));
+                Log.e("hash key", KeyResult);
+                Toast.makeText(this,"My FB Key is \n"+ KeyResult , Toast.LENGTH_LONG ).show();
+            }
+        }catch(PackageManager.NameNotFoundException e1){Log.e("name not found", e1.toString());
+        }catch(NoSuchAlgorithmException e){Log.e("no such an algorithm", e.toString());
+        }catch(Exception e){Log.e("exception", e.toString());}
         buildGoogleApiClient();
 
     }
@@ -196,8 +178,8 @@ public class HeadPageActivity extends Activity implements
             List<Address> lstAddress = null;
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
-                String returnAddress=lstAddress.get(0).getAddressLine(0);
-                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
+//                String returnAddress=lstAddress.get(0).getAddressLine(0);
+//                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
             } catch (IOException e) {
                 e.printStackTrace();
             }

@@ -10,24 +10,32 @@ import android.os.Bundle;
 import android.view.View;
 import android.webkit.WebView;
 import android.webkit.WebViewClient;
+import android.widget.RelativeLayout;
 
-import com.google.android.gms.ads.AdRequest;
-import com.google.android.gms.ads.AdView;
 import com.jhengweipan.Guandisignonehundred.R;
 import com.jhengweipan.ga.MyGAManager;
 
-import util.MySharedPrefernces;
 
+import com.facebook.ads.*;
 public class QaActivity extends Activity {
     private ProgressDialog mProgressDialog;
-    private String url = "http://nmn.joybomb.com.tw/mobile/newscontent/8471?gid=38&type=17";
+    private String url = "http://nmn.joybomb.com.tw/mobile/newscontent?gid=38&type=16&id=8686";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_qa);
         initLayout();
-        addAd();
+        addFbAd();
     }
+
+    private void addFbAd() {
+        RelativeLayout adViewContainer = (RelativeLayout) findViewById(R.id.adViewContainer);
+
+        AdView adView = new AdView(this, "583698071813390_587400221443175", AdSize.BANNER_320_50);
+        adViewContainer.addView(adView);
+        adView.loadAd();
+    }
+
     private void initLayout() {
         MyGAManager.sendScreenName(QaActivity.this, getString(R.string.ga_Befall));
         WebView mWebView = (WebView) findViewById(R.id.newsWeb);
@@ -38,18 +46,6 @@ public class QaActivity extends Activity {
 
     }
 
-    private void addAd() {
-        {
-
-            boolean isbuy= MySharedPrefernces.getIsBuyed(QaActivity.this);
-
-            AdView mAdView = (AdView) findViewById(R.id.adView);
-            AdRequest adRequest = new AdRequest.Builder().build();
-            mAdView.loadAd(adRequest);
-            if (isbuy) mAdView.setVisibility(View.GONE);
-        }
-
-    }
 
     /**
      * Set up the {@link android.app.ActionBar}, if the API is available.

@@ -1,5 +1,22 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="com_facebook_device_auth_instructions">ਆਪਣੇ ਸਮਾਰਟਫ਼ੋਨ ਜਾਂ ਕੰਪਿਊਟਰ \'ਤੇ &lt;b>facebook.com/device&lt;/b> ਵਿੱਚ ਜਾਓ ਅਤੇ ਇਸ ਕੋਡ ਨੂੰ ਦਾਖ਼ਲ ਕਰੋ:</string>
+    <string name="com_facebook_image_download_unknown_error">ਕਿਸੇ ਤਸਵੀਰ ਨੂੰ ਡਾਉਨਲੋਡ ਕਰਨ ਵੇਲੇ ਅਗਿਆਤ ਤਰੁੱਟੀ ਹੋ ਗਈ।</string>
+    <string name="com_facebook_internet_permission_error_message">WebView ਲੌਗ ਨੂੰ ਇੰਟਰਨੈੱਟ ਅਨੁਮਤੀ ਦੀ ਲੋੜ ਹੁੰਦੀ ਹੈ</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest ਤਰੁੱਟੀ</string>
+    <string name="com_facebook_like_button_liked">ਪਸੰਦ ਕੀਤਾ ਗਿਆ</string>
+    <string name="com_facebook_like_button_not_liked">ਪਸੰਦ ਕਰੋ</string>
+    <string name="com_facebook_loading">ਲੋਡ ਕਰ ਰਿਹਾ ਹੈ...</string>
+    <string name="com_facebook_loginview_cancel_action">ਰੱਦ ਕਰੋ</string>
+    <string name="com_facebook_loginview_log_in_button">ਲੌਗ ਇਨ ਕਰੋ</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook ਦੇ ਨਾਲ ਲੌਗ ਇਨ ਕਰੋ</string>
+    <string name="com_facebook_loginview_log_out_action">ਲੌਗ ਆਉਟ ਕਰੋ</string>
+    <string name="com_facebook_loginview_log_out_button">ਲੌਗ ਆਉਟ ਕਰੋ</string>
+    <string name="com_facebook_loginview_logged_in_as">ਇਸ ਵੱਜੋਂ ਲੌਗ ਇਨ ਕੀਤਾ ਗਿਆ: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook ਦਾ ਉਪਯੋਗ ਕਰਕੇ ਲੌਗ ਇਨ ਕੀਤਾ ਗਿਆ</string>
+    <string name="com_facebook_send_button_text">ਭੇਜੋ</string>
+    <string name="com_facebook_share_button_text">ਸਾਂਝਾ ਕਰੋ</string>
+    <string name="com_facebook_tooltip_default">ਨਵਾਂ! ਤੁ\ਸੀਂ ਨਿਯੰਤਰਣ ਵਿੱਚ ਹੋ - ਉਹ ਜਾਣਕਾਰੀ ਚੁਣੋ ਜੋ ਤੁਸੀਂ ਐਪਸ ਦੇ ਨਾਲ ਸਾਂਝੀ ਕਰਨੀ ਚਾਹੁੰਦੇ ਹੋ।</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ਲਈ ਇੱਕ ਜਾਂ ਵੱਧ Google Play ਸੇਵਾਵਾਂ ਦੀ ਲੋੜ ਹੈ, ਜੋ ਇਸ ਵੇਲੇ ਉਪਲਬਧ ਨਹੀਂ ਹੈ। ਕਿਰਪਾ ਕਰਕੇ ਸਹਾਇਤਾ ਲਈ ਨਿਰਮਾਤਾ ਨਾਲ ਸੰਪਰਕ ਕਰੋ।"</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਸਮਰੱਥ ਬਣਾਓ"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> ਕੰਮ ਨਹੀਂ ਕਰੇਗਾ ਜਦੋਂ ਤੱਕ ਤੁਸੀਂ Google Play ਸੇਵਾਵਾਂ ਨੂੰ ਯੋਗ ਨਹੀਂ ਬਣਾਉਂਦੇ ਹੋ।"</string>
@@ -31,6 +48,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"ਫ਼ੋਨ \'ਤੇ ਖੋਲ੍ਹੋ"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"ਸਾਈਨ ਇਨ ਕਰੇ"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google ਨਾਲ ਸਾਈਨ ਇਨ ਕਰੋ"</string>
+    <string name="messenger_send_button_text">ਭੇਜੋ</string>
     <string msgid="1303870564366209730" name="place_autocomplete_clear_button">"ਖੋਜ ਹਟਾਓ"</string>
     <string msgid="2809095107724486040" name="place_autocomplete_search_hint">"ਖੋਜੋ"</string>
 </resources>

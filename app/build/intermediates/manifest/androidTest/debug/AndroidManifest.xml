@@ -3,7 +3,7 @@
     package="com.jhengweipan.SevenPeopleBook.test" >
 
     <uses-sdk
-        android:minSdkVersion="11"
+        android:minSdkVersion="15"
         android:targetSdkVersion="23" />
 
     <instrumentation

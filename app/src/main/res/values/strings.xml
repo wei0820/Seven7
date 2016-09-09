@@ -1,6 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">七騎士小百科</string>
+
+    <string name="app_id">583698071813390</string>
+
     <string name="hello_world">Hello world!</string>
     <string name="action_settings">選單</string>
     <string name="title_activity_three">第三籤　甲辰</string>
@@ -129,11 +132,12 @@
     <string name="ga_crystaillzation">強化結晶介紹</string>
     <string name="ga_buy">訂閱無廣告空間</string>
     <string name="ga_card">卡片占卜</string>
-    <string name="ga_Befall">降臨副本</string>
+    <string name="ga_Befall">覺醒討伐戰</string>
     <string name="ga_news">更新資訊</string>
     <string name="ga_ask">常見問題</string>
     <string name="ga_qa">聯絡客服</string>
     <string name="ga_teacher">收徒交友</string>
+    <string name="ga_mylist">全英雄角色技能GIF圖</string>
     <!-- -->
     <string name="monday">星期一</string>
     <string name="tuesday">星期二</string>
