@@ -196,8 +196,8 @@ public class HeadPageActivity extends Activity implements
             List<Address> lstAddress = null;
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
-                String returnAddress=lstAddress.get(0).getAddressLine(0);
-                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
+//                String returnAddress=lstAddress.get(0).getAddressLine(0);
+//                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
             } catch (IOException e) {
                 e.printStackTrace();
             }
