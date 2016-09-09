@@ -8,11 +8,11 @@ package com.adlocus.AdLocusLibrary;
 
 public final class R {
 	public static final class color {
-		public static final int adlocus_secondary_text_material_light = 0x7f0b0074;
-		public static final int color_bigview_setting_text_black = 0x7f0b0012;
-		public static final int color_bigview_setting_text_click = 0x7f0b0013;
-		public static final int color_bigview_setting_text_grey = 0x7f0b0014;
-		public static final int color_bigview_setting_text_red = 0x7f0b0015;
+		public static final int adlocus_secondary_text_material_light = 0x7f0c008a;
+		public static final int color_bigview_setting_text_black = 0x7f0c0016;
+		public static final int color_bigview_setting_text_click = 0x7f0c0017;
+		public static final int color_bigview_setting_text_grey = 0x7f0c0018;
+		public static final int color_bigview_setting_text_red = 0x7f0c0019;
 	}
 	public static final class drawable {
 		public static final int al_icon = 0x7f02004c;
@@ -118,55 +118,55 @@ public final class R {
 		public static final int btn_icon_set = 0x7f0200b0;
 		public static final int btn_icon_share = 0x7f0200b1;
 		public static final int btn_icon_view = 0x7f0200b2;
-		public static final int color_bigview_btn_bg_click = 0x7f02013d;
-		public static final int color_bigview_btn_bg_normal = 0x7f02013e;
-		public static final int pm_ad_logo_300 = 0x7f020121;
-		public static final int pm_ad_logo_320 = 0x7f020122;
-		public static final int pm_ad_logo_728 = 0x7f020123;
-		public static final int pm_ic_01 = 0x7f020124;
-		public static final int pm_ic_02 = 0x7f020125;
-		public static final int pm_ic_03 = 0x7f020126;
-		public static final int pm_ic_04 = 0x7f020127;
-		public static final int pm_ic_05 = 0x7f020128;
-		public static final int pm_ic_06 = 0x7f020129;
-		public static final int pm_ic_07 = 0x7f02012a;
-		public static final int pm_ic_08 = 0x7f02012b;
-		public static final int pm_status_01 = 0x7f02012c;
-		public static final int pm_status_02 = 0x7f02012d;
-		public static final int pm_status_03 = 0x7f02012e;
-		public static final int pm_status_04 = 0x7f02012f;
-		public static final int pm_status_05 = 0x7f020130;
-		public static final int sl_bigview_btn_bg = 0x7f02013b;
+		public static final int color_bigview_btn_bg_click = 0x7f020165;
+		public static final int color_bigview_btn_bg_normal = 0x7f020166;
+		public static final int pm_ad_logo_300 = 0x7f020149;
+		public static final int pm_ad_logo_320 = 0x7f02014a;
+		public static final int pm_ad_logo_728 = 0x7f02014b;
+		public static final int pm_ic_01 = 0x7f02014c;
+		public static final int pm_ic_02 = 0x7f02014d;
+		public static final int pm_ic_03 = 0x7f02014e;
+		public static final int pm_ic_04 = 0x7f02014f;
+		public static final int pm_ic_05 = 0x7f020150;
+		public static final int pm_ic_06 = 0x7f020151;
+		public static final int pm_ic_07 = 0x7f020152;
+		public static final int pm_ic_08 = 0x7f020153;
+		public static final int pm_status_01 = 0x7f020154;
+		public static final int pm_status_02 = 0x7f020155;
+		public static final int pm_status_03 = 0x7f020156;
+		public static final int pm_status_04 = 0x7f020157;
+		public static final int pm_status_05 = 0x7f020158;
+		public static final int sl_bigview_btn_bg = 0x7f020163;
 	}
 	public static final class id {
-		public static final int ProMe_NotificationClickIcon = 0x7f0c01f0;
-		public static final int ProMe_NotificationIcon = 0x7f0c01ee;
-		public static final int ProMe_NotificationImage = 0x7f0c01ed;
-		public static final int ProMe_NotificationLayout = 0x7f0c01ec;
-		public static final int ProMe_NotificationLogo = 0x7f0c01f1;
-		public static final int ProMe_NotificationText = 0x7f0c01ef;
-		public static final int b_button_look = 0x7f0c0159;
-		public static final int b_button_setting = 0x7f0c0158;
-		public static final int b_button_share = 0x7f0c015a;
-		public static final int b_content = 0x7f0c0156;
-		public static final int b_imageview_bigimage = 0x7f0c0157;
-		public static final int b_imageview_icon = 0x7f0c0153;
-		public static final int b_textview_subtitle = 0x7f0c0155;
-		public static final int b_textview_title = 0x7f0c0154;
+		public static final int ProMe_NotificationClickIcon = 0x7f0d0216;
+		public static final int ProMe_NotificationIcon = 0x7f0d0214;
+		public static final int ProMe_NotificationImage = 0x7f0d0213;
+		public static final int ProMe_NotificationLayout = 0x7f0d0212;
+		public static final int ProMe_NotificationLogo = 0x7f0d0217;
+		public static final int ProMe_NotificationText = 0x7f0d0215;
+		public static final int b_button_look = 0x7f0d0173;
+		public static final int b_button_setting = 0x7f0d0172;
+		public static final int b_button_share = 0x7f0d0174;
+		public static final int b_content = 0x7f0d0170;
+		public static final int b_imageview_bigimage = 0x7f0d0171;
+		public static final int b_imageview_icon = 0x7f0d016d;
+		public static final int b_textview_subtitle = 0x7f0d016f;
+		public static final int b_textview_title = 0x7f0d016e;
 	}
 	public static final class layout {
-		public static final int bv_basic = 0x7f03009b;
-		public static final int bv_content = 0x7f03009c;
-		public static final int prome_layout = 0x7f0300af;
+		public static final int bv_basic = 0x7f0400a4;
+		public static final int bv_content = 0x7f0400a5;
+		public static final int prome_layout = 0x7f0400c2;
 	}
 	public static final class string {
-		public static final int app_name = 0x7f06004f;
+		public static final int app_name = 0x7f070062;
 	}
 	public static final class style {
-		public static final int AdLocusDialogTheme = 0x7f080023;
-		public static final int bigview_func_btn_style = 0x7f08015c;
-		public static final int bigview_seperate_line_style = 0x7f08015d;
-		public static final int bv_text_content = 0x7f080083;
-		public static final int bv_text_title = 0x7f080084;
+		public static final int AdLocusDialogTheme = 0x7f090023;
+		public static final int bigview_func_btn_style = 0x7f09016e;
+		public static final int bigview_seperate_line_style = 0x7f09016f;
+		public static final int bv_text_content = 0x7f090083;
+		public static final int bv_text_title = 0x7f090084;
 	}
 }

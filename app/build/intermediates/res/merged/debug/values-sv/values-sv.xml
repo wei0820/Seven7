@@ -19,6 +19,23 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Dela med"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Dela med %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Komprimera"</string>
+    <string name="com_facebook_device_auth_instructions">Besök &lt;b>facebook.com/device&lt;/b> på din smartphone eller dator och ange den här koden:</string>
+    <string name="com_facebook_image_download_unknown_error">Oväntat fel vid hämtning av en bild.</string>
+    <string name="com_facebook_internet_permission_error_message">Webbinloggning kräver internetbehörighet</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest-fel</string>
+    <string name="com_facebook_like_button_liked">Gillade</string>
+    <string name="com_facebook_like_button_not_liked">Gilla</string>
+    <string name="com_facebook_loading">Laddar ...</string>
+    <string name="com_facebook_loginview_cancel_action">Avbryt</string>
+    <string name="com_facebook_loginview_log_in_button">Logga in</string>
+    <string name="com_facebook_loginview_log_in_button_long">Logga in med Facebook</string>
+    <string name="com_facebook_loginview_log_out_action">Logga ut</string>
+    <string name="com_facebook_loginview_log_out_button">Logga ut</string>
+    <string name="com_facebook_loginview_logged_in_as">Inloggad som: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Inloggad med Facebook</string>
+    <string name="com_facebook_send_button_text">Skicka</string>
+    <string name="com_facebook_share_button_text">Dela</string>
+    <string name="com_facebook_tooltip_default">Nyhet! Du bestämmer – välj vilken info du vill dela med appar.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"För <ns1:g id="APP_NAME">%1$s</ns1:g> krävs en eller flera Google Play-tjänster som inte är tillgängliga för närvarande. Kontakta utvecklaren om du vill ha hjälp."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Aktivera Google Play Tjänster"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> fungerar inte om du inte aktiverar Google Play-tjänster."</string>
@@ -50,6 +67,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"Öppna på mobilen"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"Logga in"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Logga in med Google"</string>
+    <string name="messenger_send_button_text">Skicka</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Casta"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Söker efter enheter ..."</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"Anslut till enhet"</string>

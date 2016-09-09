@@ -1,11 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jhengweipan.SevenPeopleBook"
-    android:versionCode="15"
-    android:versionName="6.7" >
+    android:versionCode="20"
+    android:versionName="7.0" >
 
     <uses-sdk
-        android:minSdkVersion="11"
+        android:minSdkVersion="15"
         android:targetSdkVersion="23" />
 
     <uses-permission android:name="android.permission.INTERNET" />
@@ -48,6 +48,24 @@
         android:allowBackup="true"
         android:icon="@drawable/seveniocn"
         android:label="@string/app_name" >
+        <activity
+            android:name="com.facebook.FacebookActivity"
+            android:configChanges="keyboard|keyboardHidden|screenLayout|screenSize|orientation"
+            android:label="@string/app_name"
+            android:theme="@android:style/Theme.Translucent.NoTitleBar" />
+
+        <meta-data
+            android:name="com.facebook.sdk.ApplicationId"
+            android:value="@string/app_id" />
+
+        <provider
+            android:name="com.facebook.FacebookContentProvider"
+            android:authorities="com.facebook.app.FacebookContentProvider583698071813390"
+            android:exported="true" />
+
+        <activity
+            android:name="com.facebook.ads.InterstitialAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize"
@@ -1044,6 +1062,42 @@
             android:label="@string/ga_teacher"
             android:theme="@style/myteme" />
         <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListViewActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_oneActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowImageViewActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_twoActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowImageView_twoActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_threeActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowPhotoActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.PuzzleActivity"
+            android:label="@string/app_name"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.AwakeningEquipmentActivity"
+            android:label="@string/app_name"
+            android:theme="@style/myteme" />
+        <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
             android:theme="@android:style/Theme.Translucent.NoTitleBar" />
@@ -1184,7 +1238,8 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
 
         <activity
             android:name="com.google.android.gms.tagmanager.TagManagerPreviewActivity"
-            android:noHistory="true" > <!-- optional, removes the previewActivity from the activity stack. -->
+            android:noHistory="true" >
+ <!-- optional, removes the previewActivity from the activity stack. -->
             <intent-filter>
                 <data android:scheme="tagmanager.c.com.jhengweipan.SevenPeopleBook" />
 
@@ -1194,6 +1249,11 @@ Service handling Google Sign-In user revocation. For apps that do not integrate 
                 <category android:name="android.intent.category.BROWSABLE" />
             </intent-filter>
         </activity>
+        <activity
+            android:name="com.facebook.CustomTabActivity"
+            android:exported="true" >
+        </activity>
+        <activity android:name="com.facebook.CustomTabMainActivity" />
     </application>
 
 </manifest>

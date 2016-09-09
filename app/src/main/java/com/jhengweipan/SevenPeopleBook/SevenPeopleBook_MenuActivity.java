@@ -10,15 +10,25 @@ import android.view.KeyEvent;
 import android.view.View;
 import android.widget.AdapterView;
 import android.widget.ArrayAdapter;
+import android.widget.Button;
 import android.widget.ListView;
 
 import com.adlocus.PushAd;
+import com.facebook.appevents.AppEventsLogger;
+import com.facebook.appevents.internal.Constants;
+import com.facebook.share.widget.ShareDialog;
+
+import com.facebook.CallbackManager;
+import com.facebook.FacebookCallback;
+import com.facebook.FacebookException;
+import com.facebook.FacebookSdk;
+import com.facebook.share.Sharer;
+import com.facebook.share.model.ShareLinkContent;
 import com.google.android.gms.ads.AdRequest;
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.ads.InterstitialAd;
 import com.igexin.sdk.PushManager;
 import com.jhengweipan.Guandisignonehundred.R;
-import com.jhengweipan.MyAPI.MySharedPreferences;
 import com.jhengweipan.MyAPI.VersionChecker;
 import com.jhengweipan.ga.MyGAManager;
 
@@ -28,7 +38,10 @@ import util.MySharedPrefernces;
 public class SevenPeopleBook_MenuActivity extends Activity {
     private InterstitialAd interstitial;
     private ListView mListView;
-
+    CallbackManager callbackManager;
+    ShareDialog shareDialog;
+    Button mbutton;
+    private static final String TAG = "SevenPeopleBook_MenuActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -39,7 +52,6 @@ public class SevenPeopleBook_MenuActivity extends Activity {
         mAdView.loadAd(adRequest);
         boolean isbuy=MySharedPrefernces.getIsBuyed(SevenPeopleBook_MenuActivity.this);
         if (isbuy) mAdView.setVisibility(View.GONE);
-
 
         interstitial = new InterstitialAd(this);
         interstitial.setAdUnitId(mykey.ad);
@@ -58,7 +70,41 @@ public class SevenPeopleBook_MenuActivity extends Activity {
 
 
     private void initLayout() {
+        FacebookSdk.sdkInitialize(getApplicationContext());
+        AppEventsLogger.activateApp(this, Constants.);
 
+        callbackManager = CallbackManager.Factory.create();
+        shareDialog = new ShareDialog(this);
+        shareDialog.registerCallback(callbackManager, new FacebookCallback<Sharer.Result>() {
+            @Override
+            public void onSuccess(Sharer.Result result) {
+
+            }
+
+            @Override
+            public void onCancel() {
+
+            }
+
+            @Override
+            public void onError(FacebookException error) {
+
+            }
+        });
+        mbutton = (Button) findViewById(R.id.cilck);
+        mbutton.setOnClickListener(new View.OnClickListener() {
+            @Override
+            public void onClick(View v) {
+
+                if (ShareDialog.canShow(ShareLinkContent.class)) {
+                    ShareLinkContent content = new ShareLinkContent.Builder()
+                            .setContentUrl(Uri.parse("https://developers.facebook.com"))
+                            .build();
+
+                    shareDialog.show(content);
+                }
+            }
+        });
         mListView = (ListView) findViewById(R.id.SevenPeopleBook_MenuActivity_listview);
         String[] PageName = getResources().getStringArray(R.array.sevenpageame);
         ArrayAdapter<String> pageName = new ArrayAdapter<String>(this, android.R.layout.simple_list_item_1, PageName);
@@ -153,15 +199,29 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         Intent i = new Intent();
                         i.setClass(SevenPeopleBook_MenuActivity.this,QaActivity.class);
                         startActivity(i);
-
-
+                        break;
+                    case  14:
+                        Intent a = new Intent();
+                        a.setClass(SevenPeopleBook_MenuActivity.this,AwakeningEquipmentActivity.class);
+                        startActivity(a);
+                        break;
+                    case  15:
+                        Intent b = new Intent();
+                        b.setClass(SevenPeopleBook_MenuActivity.this,PuzzleActivity.class);
+                        startActivity(b);
+                        break;
+                    case 16:
+                        Intent mylist = new Intent();
+                        mylist.setClass(SevenPeopleBook_MenuActivity.this,MyListViewActivity.class);
+                        startActivity(mylist);
                         break;
 
-                    case 14:
+                    case 17:
                         Intent buy = new Intent();
                         buy.setClass(SevenPeopleBook_MenuActivity.this,InAppBillingActivity.class);
                         startActivity(buy);
-
+                        break;
+                    case 18:
 
                         break;
                 }
@@ -208,5 +268,10 @@ public class SevenPeopleBook_MenuActivity extends Activity {
         }
 
         return super.onKeyDown(keyCode, event);
+    }
+    @Override
+    protected void onActivityResult(final int requestCode, final int resultCode, final Intent data) {
+        super.onActivityResult(requestCode, resultCode, data);
+        callbackManager.onActivityResult(requestCode, resultCode, data);
     }
 }

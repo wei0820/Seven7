@@ -19,6 +19,23 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"इसके द्वारा साझा करें"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%s के साथ साझा करें"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"संक्षिप्त करें"</string>
+    <string name="com_facebook_device_auth_instructions">अपने स्मार्टफ़ोन या कंप्यूटर पर &lt;b>facebook.com/device&lt;/b> पर जाएँ और यह कोड डालें:</string>
+    <string name="com_facebook_image_download_unknown_error">एक चित्र डाउनलोड करते समय अनपेक्षित गलती हुई.</string>
+    <string name="com_facebook_internet_permission_error_message">WebView लॉग इन के लिए INTERNET अनुमति की आवश्यकता है</string>
+    <string name="com_facebook_internet_permission_error_title">AndroidManifest गलती</string>
+    <string name="com_facebook_like_button_liked">पसंद किया</string>
+    <string name="com_facebook_like_button_not_liked">पसंद करें</string>
+    <string name="com_facebook_loading">लोड हो रहा है...</string>
+    <string name="com_facebook_loginview_cancel_action">रद्द करें</string>
+    <string name="com_facebook_loginview_log_in_button">लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_in_button_long">Facebook से लॉग इन करें</string>
+    <string name="com_facebook_loginview_log_out_action">लॉग आउट</string>
+    <string name="com_facebook_loginview_log_out_button">लॉग आउट</string>
+    <string name="com_facebook_loginview_logged_in_as">इस रूप में लॉग इन किया: %1$s</string>
+    <string name="com_facebook_loginview_logged_in_using_facebook">Facebook का उपयोग करके लॉग इन किया हुआ है</string>
+    <string name="com_facebook_send_button_text">भेजें</string>
+    <string name="com_facebook_share_button_text">साझा करें</string>
+    <string name="com_facebook_tooltip_default">नया! आप नियंत्रण में हैं - चुनें कि आप एप्लिकेशन से कौन-सी जानकारी साझा करना चाहते हैं.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> को ऐसी एक या अधिक Google Play सेवाओं की आवश्यकता है जो वर्तमान में उपलब्ध नहीं हैं. कृपया सहायता के लिए डेवलपर से संपर्क करें."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play सेवाएं सक्षम करें"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> तब तक कार्य नहीं करेगा जब तक आप Google Play सेवाओं को सक्षम नहीं करते."</string>
@@ -50,6 +67,7 @@
     <string msgid="5201977337835724196" name="common_open_on_phone">"फ़ोन पर खोलें"</string>
     <string msgid="3441753203274453993" name="common_signin_button_text">"प्रवेश करें"</string>
     <string msgid="669893613918351210" name="common_signin_button_text_long">"Google के साथ प्रवेश करें"</string>
+    <string name="messenger_send_button_text">भेजें</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"कास्ट करें"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"डिवाइस की खोज हो रही है…"</string>
     <string msgid="7106830097177242655" name="mr_media_route_chooser_title">"डिवाइस से कनेक्ट करें"</string>
