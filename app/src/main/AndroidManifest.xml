@@ -2,8 +2,8 @@
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:tools="http://schemas.android.com/tools"
     package="com.jhengweipan.Guandisignonehundred"
-    android:versionCode="15"
-    android:versionName="6.7">
+    android:versionCode="19"
+    android:versionName="6.9">
 
     <uses-sdk
         android:minSdkVersion="11"
@@ -26,7 +26,6 @@
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
 
-
     <!-- iBeancon功能所需权限 -->
     ;
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -36,10 +35,13 @@
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
 
     <application
-        android:allowBackup="true"
         android:name="android.support.multidex.MultiDexApplication"
+        android:allowBackup="true"
         android:icon="@drawable/seveniocn"
         android:label="@string/app_name">
+        <activity
+            android:name="com.facebook.ads.InterstitialAdActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize" />
         <activity
             android:name="com.google.android.gms.ads.AdActivity"
             android:configChanges="keyboard|keyboardHidden|orientation|screenLayout|uiMode|screenSize|smallestScreenSize" />
@@ -1022,15 +1024,50 @@
             android:name="com.jhengweipan.SevenPeopleBook.NewsActivity"
             android:label="@string/ga_news"
             android:theme="@style/myteme" />
-        <activity android:name="com.jhengweipan.SevenPeopleBook.AskActivity"
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.AskActivity"
             android:label="@string/ga_ask"
-            android:theme="@style/myteme"/>
-        <activity android:name="com.jhengweipan.SevenPeopleBook.QaActivity"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.QaActivity"
             android:label="@string/ga_Befall"
-            android:theme="@style/myteme"/>
-        <activity android:name="com.jhengweipan.SevenPeopleBook.TeacherActivity"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.TeacherActivity"
             android:label="@string/ga_teacher"
-            android:theme="@style/myteme"/>
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListViewActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_oneActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowImageViewActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_twoActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowImageView_twoActivity"
+                android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.MyListView_threeActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.ShowPhotoActivity"
+            android:label="@string/ga_mylist"
+            android:theme="@style/myteme" />
+        <activity android:name="com.jhengweipan.SevenPeopleBook.AwakeningActivity"
+            android:label="@string/ga_Befall"
+            android:theme="@style/myteme"
+            ></activity>
     </application>
 
 </manifest>

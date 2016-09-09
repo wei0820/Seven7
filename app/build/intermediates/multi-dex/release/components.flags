@@ -1,7 +1,7 @@
--injars /Users/jackpan/Seven7/app/build/intermediates/transforms/jarMerging/release/jars/1/1f/combined.jar
--outjars /Users/jackpan/Seven7/app/build/intermediates/multi-dex/release/componentClasses.jar
+-injars 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\transforms\jarMerging\release\jars\1\1f\combined.jar'
+-outjars 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\multi-dex\release\componentClasses.jar'
 
--libraryjars /Users/jackpan/Library/Android/sdk/build-tools/23.0.2/lib/shrinkedAndroid.jar
+-libraryjars 'C:\Users\HYXEN20141227\AppData\Local\Android\Sdk\build-tools\23.0.2\lib\shrinkedAndroid.jar'
 
 -forceprocessing
 -dontoptimize
@@ -9,12 +9,16 @@
 -dontusemixedcaseclassnames
 -dontpreverify
 -dontwarn
--printconfiguration /Users/jackpan/Seven7/app/build/intermediates/multi-dex/release/components.flags
+-printconfiguration 'C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\multi-dex\release\components.flags'
 
 
 -keep class android.support.multidex.MultiDexApplication {
     <init>();
     void attachBaseContext(android.content.Context);
+}
+
+-keep class com.facebook.ads.InterstitialAdActivity {
+    <init>();
 }
 
 -keep class com.google.android.gms.ads.AdActivity {
@@ -574,6 +578,38 @@
 }
 
 -keep class com.jhengweipan.SevenPeopleBook.TeacherActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.MyListViewActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.MyListView_oneActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.ShowImageViewActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.MyListView_twoActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.ShowImageView_twoActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.MyListView_threeActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.ShowPhotoActivity {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.AwakeningActivity {
     <init>();
 }
 

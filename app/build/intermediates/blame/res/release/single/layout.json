@@ -1,739 +1,758 @@
 [
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_media_cancel_action.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_media_cancel_action.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_six.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_six.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_nine.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_nine.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_96.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_96.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_expanded_menu_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_expanded_menu_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_cancel_action.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_cancel_action.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftyseven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftyseven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_qa.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_qa.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_88.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_88.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media_narrow.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media_narrow.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_three.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_three.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_mode_bar.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_mode_bar.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_82.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_82.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_activity_chooser_view_list_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_crystallization.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_crystallization.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_91.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_91.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\support_simple_spinner_dropdown_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_news_player_teach.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_news_player_teach.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_lines.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_lines.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_suggest.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_suggest.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_crystallization.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_crystallization.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentynine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentynine.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_five.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_five.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_icon.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_icon.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_bar_up_container.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_bar_up_container.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_item_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_item_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/adinstalllistview_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/Seven7/admobadapter/unspecified/res/layout/adinstalllistview_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sixteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_sixteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_king.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_king.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtyone.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtyone.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_90.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_90.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_oneone.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_oneone.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_89.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_89.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_five.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_five.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_popup_menu_item_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_popup_menu_item_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_listview.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_main_listview.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_news_player_teach.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_news_player_teach.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_big_media.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_big_media.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftyeight.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftyeight.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_95.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_95.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/select_dialog_singlechoice_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_79.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_79.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_radio.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_65.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_65.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_part_chronometer.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_part_chronometer.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_81.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_81.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtysix.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtysix.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_nineteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_nineteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_74.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_74.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtyeigh.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtyeigh.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twenty.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twenty.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentytwo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentytwo.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_92.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_92.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_controller_material_dialog_b.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_controller_material_dialog_b.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_73.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_73.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_chooser_dialog.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_masterandapprentice.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_masterandapprentice.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_nine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_nine.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentyfour.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentyfour.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\increment_popup_dialog.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\increment_popup_dialog.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_62.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_62.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_100.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_100.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_menu_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_menu_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_forty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_forty.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_sixty.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_sixty.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyseven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyseven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentysix.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentysix.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_news.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_news.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_76.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_76.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_singlechoice_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_news.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_news.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_big_media.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_big_media.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_teacher.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_teacher.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_alert_dialog_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_63.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_63.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_search_view.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_search_view.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentyseven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentyseven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_prediction.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_item_prediction.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main_recycleview.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_main_recycleview.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_87.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_87.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_66.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_66.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/mr_media_route_chooser_dialog.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_list_view_three.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_my_list_view_three.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_menu_item_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_menu_item_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyeight.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyeight.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_eight.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_eight.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftynine.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftynine.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_item_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_63.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_63.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_main.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_for_idea_and_share.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_for_idea_and_share.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_99.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_99.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_mode_close_item_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_mode_close_item_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortythree.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortythree.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_94.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_94.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_up_container.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_screen_toolbar.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_screen_toolbar.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_seventeen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_seventeen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtyfive.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtyfive.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtyfive.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtyfive.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtyfour.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtyfour.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\adcontentlistview_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\Seven7\\admobadapter\\unspecified\\res\\layout\\adcontentlistview_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentysix.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentysix.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_divination_page.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_divination_page.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_inc.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\notification_inc.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_suggest2.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_suggest2.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_awakening.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_awakening.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftyfive.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftyfive.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_77.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_77.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortyone.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortyone.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_select_dialog_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_select_dialog_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twelve.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twelve.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_93.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_93.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_activity_chooser_view.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_activity_chooser_view.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortynine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortynine.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtynine.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtynine.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentyeight.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentyeight.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/bv_basic.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/bv_basic.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftysix.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftysix.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_duplicate.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_duplicate.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_divination_page.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_divination_page.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_85.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_85.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fifty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fifty.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_main__select.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_main__select.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_prediction.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_prediction.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_69.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_69.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\bv_content.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\layout\\bv_content.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftythree.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftythree.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftythree.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftythree.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_nineteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_nineteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyfive.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyfive.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtythree.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtythree.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtythree.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtythree.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_divination_page_2java.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_divination_page_2java.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twotwo.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twotwo.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_header_item_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_header_item_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/select_dialog_multichoice_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/select_dialog_multichoice_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_98.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_98.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_seventeen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_seventeen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtynine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtynine.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_75.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_75.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_70.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_70.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_78.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_78.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_search_view.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_search_view.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/select_dialog_item_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/select_dialog_item_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_92.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_92.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftyone.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftyone.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\mr_media_route_list_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\mediarouter-v7\\23.0.0\\res\\layout\\mr_media_route_list_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortyseven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortyseven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_76.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_76.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_72.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_72.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\getui_notification.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\getui_notification.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fourteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fourteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_61.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_61.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_qa.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_qa.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_image_view_two.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_show_image_view_two.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_oneone.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_oneone.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_86.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_86.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_media.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_media.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortysix.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortysix.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_media_action.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_media_action.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_83.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_83.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fifty.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fifty.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftynine.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftynine.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fifteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fifteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_popup_menu_header_item_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_popup_menu_header_item_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_67.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_67.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftysix.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftysix.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_64.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_64.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_head_page.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_head_page.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_list_view_two.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_my_list_view_two.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_befall.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_befall.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_suggest.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_suggest.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twotwo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twotwo.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentynine.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentynine.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_lines.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_lines.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_screen_simple.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_screen_simple.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_eight.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_eight.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_sixteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_sixteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentyfive.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentyfive.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtyone.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtyone.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_toolbar.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_toolbar.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_83.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_83.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_list_view.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_my_list_view.xml"
     },
     {
-<<<<<<< HEAD
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_80.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_80.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_fragment.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_progress.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_duplicate.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_duplicate.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_mode_bar.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_mode_bar.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortytwo.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortytwo.xml"
     },
     {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\place_autocomplete_item_powered_by_google.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.google.android.gms\\play-services-location\\9.0.0\\res\\layout\\place_autocomplete_item_powered_by_google.xml"
+    },
+    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ask.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_ask.xml"
-=======
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/adcontentlistview_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/Seven7/admobadapter/unspecified/res/layout/adcontentlistview_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_icon.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_list_menu_item_icon.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_expanded_menu_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_alert_dialog_button_bar_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_alert_dialog_button_bar_material.xml"
->>>>>>> 82939666754d85d062cf4a701f727b897316ed99
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_four.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_four.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/recyclerview_item.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/recyclerview_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\prome_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\layout\\prome_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_zero.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_zero.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_photo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_show_photo.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_screen_content_include.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_screen_content_include.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_media_action.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_media_action.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_four.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_four.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftyfive.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftyfive.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_96.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_96.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_head_page.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_head_page.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_97.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_97.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_hit_city.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_hit_city.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_82.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_82.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_89.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_89.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/getui_notification.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/getui_notification.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_sixty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_sixty.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_bar_view_list_nav_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtysix.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtysix.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_66.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_66.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_90.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_90.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtyeigh.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtyeigh.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_main__select.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_main__select.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_98.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_98.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_strengthening_copy.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_strengthening_copy.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_81.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_81.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_dialog_title_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_dialog_title_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_84.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_84.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_for_idea_and_share.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_for_idea_and_share.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_part_time.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_part_time.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftyseven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftyseven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_70.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_70.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_time.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_time.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_template_big_media_narrow.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_88.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_88.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/prome_layout.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/prome_layout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_show_image_view.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_show_image_view.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentyeight.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentyeight.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_87.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_87.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_68.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_68.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftytwo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftytwo.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/notification_inc.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/notification_inc.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_eighteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_eighteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentyfive.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentyfive.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_73.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_73.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_action_bar_title_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_action_bar_title_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/mr_media_route_list_item.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftyfour.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftyfour.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_65.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_65.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyone.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyone.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_select_dialog_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_select_dialog_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_ten.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_ten.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortythree.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortythree.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentytwo.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentytwo.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftyeight.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftyeight.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_ask.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_ask.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twelve.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twelve.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_79.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_79.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_95.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_95.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_card_divination.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_card_divination.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_main_recycleview.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_main_recycleview.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_part_chronometer.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_77.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_77.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_69.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_69.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentyone.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentyone.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_content_include.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_content_include.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_71.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_71.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_strengthening_copy.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_strengthening_copy.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_74.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_74.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_card_divination.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_card_divination.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentyseven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentyseven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\buylayout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\buylayout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_six.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_six.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_bar_title_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/place_autocomplete_progress.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_progress.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_71.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_71.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/place_autocomplete_fragment.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_fragment.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_king.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_king.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortyfive.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortyfive.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\adinstalllistview_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\Seven7\\admobadapter\\unspecified\\res\\layout\\adinstalllistview_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_eighteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_eighteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\recyclerview_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\recyclerview_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_100.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_100.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_62.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_62.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortyfour.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortyfour.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_masterandapprentice.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_masterandapprentice.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_99.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_99.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_85.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_85.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtytwo.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtytwo.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_86.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_86.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtyfour.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtyfour.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/buylayout.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/buylayout.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_befall.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_befall.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_seven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_seven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\bv_basic.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\layout\\bv_basic.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_dialog_title_material.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_dialog_title_material.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_divination_page_2java.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_divination_page_2java.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_93.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_93.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtyseven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtyseven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortynine.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortynine.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_main.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_main.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_84.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_84.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_ten.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_ten.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_68.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_68.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirty.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirty.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_78.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_78.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fifteen.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fifteen.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentyfour.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentyfour.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftytwo.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftytwo.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_75.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_75.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_forty.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_forty.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_my_list_view_one.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_my_list_view_one.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_thirtyseven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_thirtyseven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fiftyone.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fiftyone.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_main_listview.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_main_listview.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentythree.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentythree.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/mr_media_route_controller_material_dialog_b.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fourteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fourteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortytwo.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortytwo.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twentyone.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twentyone.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortysix.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortysix.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_suggest2.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_suggest2.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/bv_content.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.adlocus/library/3.5.2/res/layout/bv_content.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_eleven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_eleven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_three.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_three.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_64.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_64.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_up_date_time.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_up_date_time.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/9.0.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_72.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_72.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_teacher.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_teacher.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_seven_people_book__menu.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_seven_people_book__menu.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_67.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_67.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twenty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twenty.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_twentythree.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_twentythree.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_91.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_91.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_eleven.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_eleven.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_zero.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_zero.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_up_date_time.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_up_date_time.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_screen_simple.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_screen_simple.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/increment_popup_dialog.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/increment_popup_dialog.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_94.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_94.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fiftyfour.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fiftyfour.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirteen.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirteen.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_seven_people_book__menu.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_seven_people_book__menu.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_action_menu_layout.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_action_menu_layout.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_list_menu_item_checkbox.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyfour.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyfour.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_80.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_80.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtytwo.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtytwo.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_hit_city.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_hit_city.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\notification_template_media.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\notification_template_media.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_page_61.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_page_61.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_seven.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_seven.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/abc_screen_simple_overlay_action_mode.xml",
-        "source": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/24.0.0-alpha2/res/layout/abc_screen_simple_overlay_action_mode.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\abc_list_menu_item_radio.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\24.0.0-alpha2\\res\\layout\\abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/release/layout/activity_fortyeight.xml",
-        "source": "/Users/jackpan/Seven7/app/src/main/res/layout/activity_fortyeight.xml"
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_page_97.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_page_97.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirty.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirty.xml"
     }
 ]

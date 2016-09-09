@@ -161,7 +161,9 @@
 		<item>卡片占卜</item>
 		<item>建議與提供資訊</item>
 		<item>收徒交友</item>
-		<item>孫悟空降臨副本</item>
+		<item>覺醒討伐戰</item>
+		<item>覺醒裝備</item>
+		<item>全英雄角色技能GIF圖</item>
 		<item>訂閱無廣告空間服務</item>
 	</string-array>
     <string-array name="sevenpeoplename">
@@ -675,7 +677,7 @@
     <string name="friday">星期五</string>
     <string name="friday_name">尤伊</string>
     <string name="friday_photo">http://appdata.hungryapp.co.kr/images/dbimg/7knights/char/yui.png</string>
-    <string name="ga_Befall">降臨副本</string>
+    <string name="ga_Befall">討伐戰</string>
     <string name="ga_ask">常見問題</string>
     <string name="ga_buy">訂閱無廣告空間</string>
     <string name="ga_card">卡片占卜</string>
@@ -687,6 +689,7 @@
     <string name="ga_homeheadPage">七騎士小百科封面頁</string>
     <string name="ga_ideaandshare">建議與提供資訊</string>
     <string name="ga_master">師徒任務</string>
+    <string name="ga_mylist">全英雄角色技能GIF圖</string>
     <string name="ga_news">更新資訊</string>
     <string name="ga_newsplayerteach">新手導引任務</string>
     <string name="ga_qa">聯絡客服</string>

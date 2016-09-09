@@ -153,11 +153,20 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         Intent i = new Intent();
                         i.setClass(SevenPeopleBook_MenuActivity.this,QaActivity.class);
                         startActivity(i);
-
+                        break;
+                    case  14:
+                        Intent a = new Intent();
+                        a.setClass(SevenPeopleBook_MenuActivity.this,AwakeningActivity.class);
+                        startActivity(a);
 
                         break;
+                    case 15:
+                        Intent mylist = new Intent();
+                        mylist.setClass(SevenPeopleBook_MenuActivity.this,MyListViewActivity.class);
+                        startActivity(mylist);
+                        break;
 
-                    case 14:
+                    case 16:
                         Intent buy = new Intent();
                         buy.setClass(SevenPeopleBook_MenuActivity.this,InAppBillingActivity.class);
                         startActivity(buy);
