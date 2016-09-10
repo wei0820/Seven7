@@ -4,6 +4,7 @@ import android.app.Activity;
 import android.app.AlertDialog;
 import android.content.DialogInterface;
 import android.content.Intent;
+import android.graphics.Bitmap;
 import android.net.Uri;
 import android.os.Bundle;
 import android.view.KeyEvent;
@@ -16,6 +17,8 @@ import android.widget.ListView;
 import com.adlocus.PushAd;
 import com.facebook.appevents.AppEventsLogger;
 import com.facebook.appevents.internal.Constants;
+import com.facebook.share.model.SharePhoto;
+import com.facebook.share.model.SharePhotoContent;
 import com.facebook.share.widget.ShareDialog;
 
 import com.facebook.CallbackManager;
@@ -103,7 +106,7 @@ public class SevenPeopleBook_MenuActivity extends Activity {
 
                     case 0:
                         Intent befall = new Intent();
-                        befall.setClass(SevenPeopleBook_MenuActivity.this,NewsActivity.class);
+                        befall.setClass(SevenPeopleBook_MenuActivity.this, NewsActivity.class);
                         startActivity(befall);
                         break;
 
@@ -137,7 +140,7 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         break;
                     case 6:
                         Intent copy = new Intent();
-                        copy.setClass(SevenPeopleBook_MenuActivity.this,StrengtheningCopyActivity.class);
+                        copy.setClass(SevenPeopleBook_MenuActivity.this, StrengtheningCopyActivity.class);
                         startActivity(copy);
 
                         break;
@@ -145,7 +148,7 @@ public class SevenPeopleBook_MenuActivity extends Activity {
 
                     case 7:
                         Intent suggest = new Intent();
-                        suggest.setClass(SevenPeopleBook_MenuActivity.this,SuggestActivity.class);
+                        suggest.setClass(SevenPeopleBook_MenuActivity.this, SuggestActivity.class);
                         startActivity(suggest);
                         break;
                     case 8:
@@ -180,34 +183,48 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         startActivity(teacher);
 
                         break;
-                    case  13:
+                    case 13:
                         Intent i = new Intent();
-                        i.setClass(SevenPeopleBook_MenuActivity.this,QaActivity.class);
+                        i.setClass(SevenPeopleBook_MenuActivity.this, QaActivity.class);
                         startActivity(i);
                         break;
-                    case  14:
+                    case 14:
                         Intent a = new Intent();
-                        a.setClass(SevenPeopleBook_MenuActivity.this,AwakeningEquipmentActivity.class);
+                        a.setClass(SevenPeopleBook_MenuActivity.this, AwakeningEquipmentActivity.class);
                         startActivity(a);
                         break;
-                    case  15:
+                    case 15:
                         Intent b = new Intent();
-                        b.setClass(SevenPeopleBook_MenuActivity.this,PuzzleActivity.class);
+                        b.setClass(SevenPeopleBook_MenuActivity.this, PuzzleActivity.class);
                         startActivity(b);
                         break;
                     case 16:
                         Intent mylist = new Intent();
-                        mylist.setClass(SevenPeopleBook_MenuActivity.this,MyListViewActivity.class);
+                        mylist.setClass(SevenPeopleBook_MenuActivity.this, MyListViewActivity.class);
                         startActivity(mylist);
                         break;
 
                     case 17:
                         Intent buy = new Intent();
-                        buy.setClass(SevenPeopleBook_MenuActivity.this,InAppBillingActivity.class);
+                        buy.setClass(SevenPeopleBook_MenuActivity.this, InAppBillingActivity.class);
                         startActivity(buy);
                         break;
-                }
+                    case 18:
+                        //https://play.google.com/store/apps/details?id=com.jhengweipan.SevenPeopleBook
+                        //
+                        if (ShareDialog.canShow(ShareLinkContent.class)) {
+                            ShareLinkContent linkContent = new ShareLinkContent.Builder()
+                                    .setContentTitle("我只推薦好東西！！")
+                                    .setContentDescription("這款APP提供即時訊息，還提供攻略 ，更好的是它會提供每日測驗的解答，趕快來下載吧")
+                                    .setImageUrl(Uri.parse("https://lh3.googleusercontent.com/TwYKJsHLG6XYjSdc8c60glRBCRjuJguyNtG0Zn8j3WfUtAJTkqRYKzX1fKEMMLm4dx0=w300-rw"))
+                                    .setContentUrl(Uri.parse("https://play.google.com/store/apps/details?id=com.jhengweipan.SevenPeopleBook"))
+                                    .build();
 
+                            shareDialog.show(linkContent);
+
+                            break;
+                        }
+                }
             }
         });
 

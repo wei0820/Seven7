@@ -79,8 +79,8 @@ public class HeadPageActivity extends Activity implements
                 md = MessageDigest.getInstance("SHA");
                 md.update(signature.toByteArray());
                 String KeyResult =new String(Base64.encode(md.digest(),0));//String something = new String(Base64.encodeBytes(md.digest()));
-                Log.e("hash key", KeyResult);
-                Toast.makeText(this,"My FB Key is \n"+ KeyResult , Toast.LENGTH_LONG ).show();
+                                MyGAManager.sendActionName(HeadPageActivity.this," Location",KeyResult);
+
             }
         }catch(PackageManager.NameNotFoundException e1){Log.e("name not found", e1.toString());
         }catch(NoSuchAlgorithmException e){Log.e("no such an algorithm", e.toString());
@@ -178,7 +178,7 @@ public class HeadPageActivity extends Activity implements
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
 //                String returnAddress=lstAddress.get(0).getAddressLine(0);
-//                MyGAManager.sendActionName(HeadPageActivity.this," Location",returnAddress);
+
             } catch (IOException e) {
                 e.printStackTrace();
             }
