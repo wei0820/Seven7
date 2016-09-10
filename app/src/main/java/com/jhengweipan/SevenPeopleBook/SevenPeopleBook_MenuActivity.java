@@ -71,7 +71,7 @@ public class SevenPeopleBook_MenuActivity extends Activity {
 
     private void initLayout() {
         FacebookSdk.sdkInitialize(getApplicationContext());
-        AppEventsLogger.activateApp(this, Constants.);
+        AppEventsLogger.activateApp(this);
 
         callbackManager = CallbackManager.Factory.create();
         shareDialog = new ShareDialog(this);

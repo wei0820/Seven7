@@ -90,7 +90,6 @@ public class HeadPageActivity extends Activity implements
     }
 
     public void BTC(View v) {
-//	 mp.reset();
         MyGAManager.sendActionName(HeadPageActivity.this, "點擊進入", "進入選擇頁面");
         Intent i = new Intent();
         i.setClass(this, SevenPeopleBook_MenuActivity.class);
