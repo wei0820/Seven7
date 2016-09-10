@@ -40,7 +40,6 @@ public class SevenPeopleBook_MenuActivity extends Activity {
     private ListView mListView;
     CallbackManager callbackManager;
     ShareDialog shareDialog;
-    Button mbutton;
     private static final String TAG = "SevenPeopleBook_MenuActivity";
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -89,20 +88,6 @@ public class SevenPeopleBook_MenuActivity extends Activity {
             @Override
             public void onError(FacebookException error) {
 
-            }
-        });
-        mbutton = (Button) findViewById(R.id.cilck);
-        mbutton.setOnClickListener(new View.OnClickListener() {
-            @Override
-            public void onClick(View v) {
-
-                if (ShareDialog.canShow(ShareLinkContent.class)) {
-                    ShareLinkContent content = new ShareLinkContent.Builder()
-                            .setContentUrl(Uri.parse("https://developers.facebook.com"))
-                            .build();
-
-                    shareDialog.show(content);
-                }
             }
         });
         mListView = (ListView) findViewById(R.id.SevenPeopleBook_MenuActivity_listview);
@@ -220,9 +205,6 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         Intent buy = new Intent();
                         buy.setClass(SevenPeopleBook_MenuActivity.this,InAppBillingActivity.class);
                         startActivity(buy);
-                        break;
-                    case 18:
-
                         break;
                 }
 
