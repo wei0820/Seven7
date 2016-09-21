@@ -10,20 +10,20 @@ import android.content.pm.Signature;
 import android.location.Geocoder;
 import android.location.Location;
 import android.media.MediaPlayer;
+import android.net.Uri;
 import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.util.Base64;
 import android.util.Log;
 import android.view.View;
 import android.location.Address;
-import android.location.Geocoder;
-import android.location.Location;
-import android.widget.Toast;
+
 
 import com.google.android.gms.ads.AdView;
 import com.google.android.gms.common.ConnectionResult;
 import com.google.android.gms.common.api.GoogleApiClient;
 import com.google.android.gms.location.LocationServices;
+import com.jhengweipan.ga.AnalyticsApplication;
 import com.jhengweipan.Guandisignonehundred.R;
 import com.jhengweipan.ga.MyGAManager;
 
@@ -55,8 +55,9 @@ public class HeadPageActivity extends Activity implements
         setContentView(R.layout.activity_head_page);
         // 建立 adView。
         MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
+        MyGAManager.setCampaignParamsFromUrl(HeadPageActivity.this);
 
-        mHelper = new IabHelper(this, getString(R.string.key));
+    mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
             public void onIabSetupFinished(IabResult result) {
                 if (!result.isSuccess()) {
@@ -79,7 +80,7 @@ public class HeadPageActivity extends Activity implements
                 md = MessageDigest.getInstance("SHA");
                 md.update(signature.toByteArray());
                 String KeyResult =new String(Base64.encode(md.digest(),0));//String something = new String(Base64.encodeBytes(md.digest()));
-                                MyGAManager.sendActionName(HeadPageActivity.this," Location",KeyResult);
+//                                MyGAManager.sendActionName(HeadPageActivity.this," Location",KeyResult);
 
             }
         }catch(PackageManager.NameNotFoundException e1){Log.e("name not found", e1.toString());
@@ -178,7 +179,7 @@ public class HeadPageActivity extends Activity implements
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
 //                String returnAddress=lstAddress.get(0).getAddressLine(0);
-
+                MyGAManager.sendActionName(HeadPageActivity.this," Location",lstAddress.get(0).getAddressLine(0));
             } catch (IOException e) {
                 e.printStackTrace();
             }

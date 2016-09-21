@@ -1,6 +1,10 @@
 package com.jhengweipan.ga;
 
+import android.app.Activity;
 import android.content.Context;
+import android.content.Intent;
+import android.net.Uri;
+import android.util.Log;
 
 import com.google.android.gms.analytics.GoogleAnalytics;
 import com.google.android.gms.analytics.HitBuilders;
@@ -11,7 +15,7 @@ public class MyGAManager {
 
     private static Tracker TRACKER;
     private static GoogleAnalytics analytics;
-
+    private static final String TAG = "MyGAManager";
     public synchronized static Tracker getTracker(Context context)
     {
         if (TRACKER == null)
@@ -42,6 +46,19 @@ public class MyGAManager {
                 .setAction(action)
 
                 .build());
+
+
+    }
+    public  static void setCampaignParamsFromUrl(Context context){
+        Intent intent = ((Activity)context).getIntent();
+        Uri data = intent.getData();
+        if(data==null) return;
+        String campaignData = data.getEncodedPath();
+        Tracker tracker = getTracker(context);
+        tracker.send(new HitBuilders.ScreenViewBuilder()
+                .setCampaignParamsFromUrl(campaignData)
+                .build()
+        );
 
 
     }

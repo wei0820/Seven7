@@ -501,10 +501,6 @@
     <init>();
 }
 
--keep class com.google.android.gms.analytics.AnalyticsService {
-    <init>();
-}
-
 -keep class com.jhengweipan.SevenPeopleBook.SevenPeopleBook_MenuActivity {
     <init>();
 }
@@ -622,6 +618,26 @@
 }
 
 -keep class com.jhengweipan.SevenPeopleBook.AwakeningEquipmentActivity {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.AnalyticsService {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.CampaignTrackingService {
+    <init>();
+}
+
+-keep class com.google.android.gms.analytics.CampaignTrackingReceiver {
+    <init>();
+}
+
+-keep class com.jhengweipan.ga.MyCampaignTrackingReceiver {
+    <init>();
+}
+
+-keep class com.jhengweipan.SevenPeopleBook.AbyssTowerActivity {
     <init>();
 }
 
