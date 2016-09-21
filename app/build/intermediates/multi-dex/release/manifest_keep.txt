@@ -123,7 +123,6 @@
 -keep class com.igexin.getuiext.service.GetuiExtService { <init>(); }
 -keep class com.jhengweipan.MyAPI.MyAppPushReceive { <init>(); }
 -keep class com.google.android.gms.analytics.AnalyticsReceiver { <init>(); }
--keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
 -keep class com.jhengweipan.SevenPeopleBook.SevenPeopleBook_MenuActivity { <init>(); }
 -keep class com.jhengweipan.SevenPeopleBook.HitCityActivity { <init>(); }
 -keep class com.jhengweipan.SevenPeopleBook.DuplicateActivity { <init>(); }
@@ -154,6 +153,11 @@
 -keep class com.jhengweipan.SevenPeopleBook.ShowPhotoActivity { <init>(); }
 -keep class com.jhengweipan.SevenPeopleBook.PuzzleActivity { <init>(); }
 -keep class com.jhengweipan.SevenPeopleBook.AwakeningEquipmentActivity { <init>(); }
+-keep class com.google.android.gms.analytics.AnalyticsService { <init>(); }
+-keep class com.google.android.gms.analytics.CampaignTrackingService { <init>(); }
+-keep class com.google.android.gms.analytics.CampaignTrackingReceiver { <init>(); }
+-keep class com.jhengweipan.ga.MyCampaignTrackingReceiver { <init>(); }
+-keep class com.jhengweipan.SevenPeopleBook.AbyssTowerActivity { <init>(); }
 -keep class com.google.android.gms.common.api.GoogleApiActivity { <init>(); }
 -keep class com.google.firebase.provider.FirebaseInitProvider { <init>(); }
 -keep class com.adlocus.util.MultiProcessPreferences { <init>(); }

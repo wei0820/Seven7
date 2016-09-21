@@ -180,12 +180,12 @@
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.adlocus\\library\\3.5.2\\res\\layout\\bv_content.xml"
     },
     {
-        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyfive.xml",
-        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyfive.xml"
-    },
-    {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_thirtythree.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_thirtythree.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_fortyfive.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_fortyfive.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\select_dialog_multichoice_material.xml",
@@ -682,6 +682,10 @@
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_twelve.xml",
         "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_twelve.xml"
+    },
+    {
+        "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_abyss_tower.xml",
+        "source": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\src\\main\\res\\layout\\activity_abyss_tower.xml"
     },
     {
         "merged": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\layout\\activity_card_divination.xml",

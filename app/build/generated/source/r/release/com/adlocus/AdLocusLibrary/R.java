@@ -155,9 +155,9 @@ public final class R {
 		public static final int b_textview_title = 0x7f0d016d;
 	}
 	public static final class layout {
-		public static final int bv_basic = 0x7f0400a4;
-		public static final int bv_content = 0x7f0400a5;
-		public static final int prome_layout = 0x7f0400c2;
+		public static final int bv_basic = 0x7f0400a5;
+		public static final int bv_content = 0x7f0400a6;
+		public static final int prome_layout = 0x7f0400c3;
 	}
 	public static final class string {
 		public static final int app_name = 0x7f070062;
