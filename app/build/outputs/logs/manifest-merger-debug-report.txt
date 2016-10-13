@@ -1360,6 +1360,10 @@ MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\HYXEN2014122
 		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:9:9-35
 		INJECTED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml
 		INJECTED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.GET_TASKS
+ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:12:5-68
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:12:22-65
 uses-permission#android.permission.INTERNET
 ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:13:5-67
 MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:21:5-67
