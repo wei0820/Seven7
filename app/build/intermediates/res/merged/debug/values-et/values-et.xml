@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources xmlns:ns1="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="com_facebook_ads_learn_more">Lisateave</string>
+    <string name="com_facebook_skip_ad">Skip Ad</string>
+    <string name="com_facebook_skip_ad_in">Skip reklaami</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Rakenduse <ns1:g id="APP_NAME">%1$s</ns1:g> kasutamiseks on vaja ühte või mitut Google Play teenust, mis pole praegu saadaval. Abi saamiseks võtke ühendust arendajaga."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Lubage Google Play teenused"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"Rakendus <ns1:g id="APP_NAME">%1$s</ns1:g> töötab ainult siis, kui lubate Google Play teenused."</string>

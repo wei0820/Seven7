@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Jakaminen:"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Jakaminen: %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Kutista"</string>
+    <string name="com_facebook_ads_learn_more">Opi lisää</string>
     <string name="com_facebook_device_auth_instructions">Siirry osoitteeseen &lt;b>facebook.com/device&lt;/b> älypuhelimella tai tietokoneella ja anna seuraava koodi:</string>
     <string name="com_facebook_image_download_unknown_error">Odottamaton virhe kuvan palvelimesta lataamisen aikana.</string>
     <string name="com_facebook_internet_permission_error_message">WebView-kirjautuminen edellyttää INTERNET-käyttöoikeutta</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Sisäänkirjautunut Facebookin avulla</string>
     <string name="com_facebook_send_button_text">Lähetä</string>
     <string name="com_facebook_share_button_text">Jaa</string>
+    <string name="com_facebook_skip_ad">Skip Ad</string>
+    <string name="com_facebook_skip_ad_in">Jätä ilmoitus</string>
     <string name="com_facebook_tooltip_default">Uutta! Sinä päätät – valitse, mitä haluat jakaa sovellusten kanssa.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> tarvitsee yhtä tai useampaa Google Play Palvelua, jotka eivät ole tällä hetkellä käytettävissä. Ota yhteyttä kehittäjään."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Ota Google Play -palv. käyttöön"</string>

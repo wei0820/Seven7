@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Compartilhar com"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Compartilhar com %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Recolher"</string>
+    <string name="com_facebook_ads_learn_more">Saiba Mais</string>
     <string name="com_facebook_device_auth_instructions">Acesse &lt;b>facebook.com/device&lt;/b> no seu smartphone ou computador e insira este código:</string>
     <string name="com_facebook_image_download_unknown_error">Erro inesperado ao baixar uma imagem.</string>
     <string name="com_facebook_internet_permission_error_message">A permissão de INTERNET é necessária para fazer o login WebView</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Você entrou usando o Facebook</string>
     <string name="com_facebook_send_button_text">Envio</string>
     <string name="com_facebook_share_button_text">Compartilhar</string>
+    <string name="com_facebook_skip_ad">Skip Ad</string>
+    <string name="com_facebook_skip_ad_in">Skip Ad em</string>
     <string name="com_facebook_tooltip_default">Novidade! Você está no controle - escolha quais informações quer compartilhar com os aplicativos.</string>
     <string name="messenger_send_button_text">Enviar</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Transmitir"</string>

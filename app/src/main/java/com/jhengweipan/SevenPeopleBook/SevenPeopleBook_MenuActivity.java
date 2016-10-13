@@ -209,14 +209,17 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         mylist.setClass(SevenPeopleBook_MenuActivity.this, MyListViewActivity.class);
                         startActivity(mylist);
                         break;
-
                     case 18:
+                        Intent ans = new Intent();
+                        ans.setClass(SevenPeopleBook_MenuActivity.this,AnsActivity.class);
+                        startActivity(ans);
+                        break;
+                    case 19:
                         Intent buy = new Intent();
                         buy.setClass(SevenPeopleBook_MenuActivity.this, InAppBillingActivity.class);
                         startActivity(buy);
                         break;
-                    case 19:
-                        //https://play.google.com/store/apps/details?id=com.jhengweipan.SevenPeopleBook
+                    case 20:
                         //
                         if (ShareDialog.canShow(ShareLinkContent.class)) {
                             ShareLinkContent linkContent = new ShareLinkContent.Builder()

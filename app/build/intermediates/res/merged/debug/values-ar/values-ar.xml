@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"مشاركة مع"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"‏مشاركة مع %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"تصغير"</string>
+    <string name="com_facebook_ads_learn_more">التعرف على المزيد</string>
     <string name="com_facebook_device_auth_instructions">زر &lt;b>facebook.com/device&lt;/b> على هاتفك الذكي أو الكمبيوتر ثم أدخل هذا الرمز:</string>
     <string name="com_facebook_image_download_unknown_error">حدث خطأ غير متوقع أثناء تنزيل صورة.</string>
     <string name="com_facebook_internet_permission_error_message">يتطلب تسجيل الدخول إلى WebView إذن الاتصال بالإنترنت</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">تم تسجيل الدخول بحساب فيسبوك</string>
     <string name="com_facebook_send_button_text">إرسال</string>
     <string name="com_facebook_share_button_text">مشاركة</string>
+    <string name="com_facebook_skip_ad">تخطي الإعلانات</string>
+    <string name="com_facebook_skip_ad_in">تخطي الإعلانات في</string>
     <string name="com_facebook_tooltip_default">جديد! أنت المتحكم - اختر المعلومات التي تريد مشاركتها مع التطبيقات.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"‏يتطلب <ns1:g id="APP_NAME">%1$s</ns1:g> خدمة أو أكثر من خدمات Google Play والتي لا تتوفر حاليًا. يُرجى الاتصال بمطوّر البرامج للحصول على المساعدة."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"‏تمكين خدمات Google Play"</string>

@@ -55,7 +55,9 @@ public class HeadPageActivity extends Activity implements
         setContentView(R.layout.activity_head_page);
         // 建立 adView。
         MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
-        MyGAManager.setCampaignParamsFromUrl(HeadPageActivity.this);
+        MyGAManager myGAManager = new MyGAManager();
+        myGAManager.getCampaignParamsFromUrl(HeadPageActivity.this);
+
 
     mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
