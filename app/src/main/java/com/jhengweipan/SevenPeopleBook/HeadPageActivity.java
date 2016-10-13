@@ -3,6 +3,9 @@ package com.jhengweipan.SevenPeopleBook;
 
 import android.Manifest;
 import android.app.Activity;
+import android.app.ActivityManager;
+import android.content.ComponentName;
+import android.content.Context;
 import android.content.Intent;
 import android.content.pm.PackageInfo;
 import android.content.pm.PackageManager;
@@ -30,6 +33,9 @@ import com.jhengweipan.ga.MyGAManager;
 import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
+import java.util.ArrayList;
+import java.util.HashMap;
+import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
 
@@ -49,6 +55,7 @@ public class HeadPageActivity extends Activity implements
     protected Location mLastLocation;
     private GoogleApiClient mGoogleApiClient;
     PackageInfo info;
+    private static List<ActivityManager.RunningAppProcessInfo> procList =null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -57,9 +64,9 @@ public class HeadPageActivity extends Activity implements
         MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
         MyGAManager myGAManager = new MyGAManager();
         myGAManager.getCampaignParamsFromUrl(HeadPageActivity.this);
-
-
-    mHelper = new IabHelper(this, getString(R.string.key));
+            getAppList();
+        getRunAppList();
+        mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
             public void onIabSetupFinished(IabResult result) {
                 if (!result.isSuccess()) {
@@ -75,22 +82,59 @@ public class HeadPageActivity extends Activity implements
             }
         });
 
-        try{
-            info = getPackageManager().getPackageInfo("com.jhengweipan.SevenPeopleBook",PackageManager.GET_SIGNATURES);
-            for(Signature signature : info.signatures)
-            {      MessageDigest md;
+        try {
+            info = getPackageManager().getPackageInfo("com.jhengweipan.SevenPeopleBook", PackageManager.GET_SIGNATURES);
+            for (Signature signature : info.signatures) {
+                MessageDigest md;
                 md = MessageDigest.getInstance("SHA");
                 md.update(signature.toByteArray());
-                String KeyResult =new String(Base64.encode(md.digest(),0));//String something = new String(Base64.encodeBytes(md.digest()));
+                String KeyResult = new String(Base64.encode(md.digest(), 0));//String something = new String(Base64.encodeBytes(md.digest()));
 //                                MyGAManager.sendActionName(HeadPageActivity.this," Location",KeyResult);
 
             }
-        }catch(PackageManager.NameNotFoundException e1){Log.e("name not found", e1.toString());
-        }catch(NoSuchAlgorithmException e){Log.e("no such an algorithm", e.toString());
-        }catch(Exception e){Log.e("exception", e.toString());}
+        } catch (PackageManager.NameNotFoundException e1) {
+            Log.e("name not found", e1.toString());
+        } catch (NoSuchAlgorithmException e) {
+            Log.e("no such an algorithm", e.toString());
+        } catch (Exception e) {
+            Log.e("exception", e.toString());
+        }
         buildGoogleApiClient();
 
     }
+
+    private void getAppList() {
+        PackageManager packageManager = this.getPackageManager();
+        List<PackageInfo> packageInfoList = packageManager.getInstalledPackages(0);
+
+        for (PackageInfo packageInfo : packageInfoList) {
+//            Log.d(TAG, "getAppList: "+packageInfo.applicationInfo);
+            Log.d(TAG, "getAppList: "+ packageManager.getApplicationLabel(packageInfo.applicationInfo));
+        }
+        ActivityManager am = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
+        ComponentName cn = am.getRunningTasks(1).get(0).topActivity;
+        Log.d(TAG, "pkg:"+cn.getPackageName());
+        Log.d(TAG, "cls:"+cn.getClassName());
+
+    }
+
+    public static List<PackageInfo> getAllApps(Context coNtext) {
+        List<PackageInfo> apps = new ArrayList<PackageInfo>();
+        PackageManager pManager = coNtext.getPackageManager();
+        //獲取手機內所有應用
+        List<PackageInfo> paklist = pManager.getInstalledPackages(0);
+        for (int i = 0; i < paklist.size(); i++) {
+            PackageInfo pak = (PackageInfo) paklist.get(i);
+            //判斷是否為非系統預裝的應用程式
+            if ((pak.applicationInfo.flags & pak.applicationInfo.FLAG_SYSTEM) <= 0) {
+                // customs applications
+                apps.add(pak);
+            }
+        }
+        return apps;
+
+
+}
 
     public void BTC(View v) {
         MyGAManager.sendActionName(HeadPageActivity.this, "點擊進入", "進入選擇頁面");
@@ -119,13 +163,13 @@ public class HeadPageActivity extends Activity implements
 
                 if (inventory.hasPurchase(ITEM_SPONSOR_MONth)) {
                     MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, true);
-                    Log.d("Jack", "購買"+inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
+                    Log.d("Jack", "購買" + inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
                     MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
 
                 }
                 if (inventory.hasPurchase(ITEM_MY_VIP)) {
                     MySharedPrefernces.saveIsBuyed(HeadPageActivity.this, true);
-                    Log.d("Jack", "購買"+inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
+                    Log.d("Jack", "購買" + inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
                     MyGAManager.sendActionName(HeadPageActivity.this, "購買成功", inventory.getSkuDetails(ITEM_SPONSOR_MONth).getTitle());
                 }
                 // update UI accordingly
@@ -181,14 +225,14 @@ public class HeadPageActivity extends Activity implements
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
 //                String returnAddress=lstAddress.get(0).getAddressLine(0);
-                MyGAManager.sendActionName(HeadPageActivity.this," Location",lstAddress.get(0).getAddressLine(0));
+                MyGAManager.sendActionName(HeadPageActivity.this, " Location", lstAddress.get(0).getAddressLine(0));
             } catch (IOException e) {
                 e.printStackTrace();
             }
 
         } else {
 
-            MyGAManager.sendActionName(HeadPageActivity.this," Location","NO Location");
+            MyGAManager.sendActionName(HeadPageActivity.this, " Location", "NO Location");
         }
     }
 
@@ -201,5 +245,33 @@ public class HeadPageActivity extends Activity implements
     public void onConnectionFailed(ConnectionResult connectionResult) {
 
     }
+    private  void getRunAppList(){
+        procList =new ArrayList<ActivityManager.RunningAppProcessInfo>();
+        getProcessInfo();
+        showProcessInfo();
+    }
+    public void showProcessInfo() {
+
+
+        // 更新進程清單
+        List<HashMap<String,String>> infoList =new ArrayList<HashMap<String,String>>();
+        for (Iterator<ActivityManager.RunningAppProcessInfo> iterator = procList.iterator(); iterator.hasNext();) {
+            ActivityManager.RunningAppProcessInfo procInfo = iterator.next();
+            Log.d(TAG, "showProcessInfo: "+procInfo.processName);
+            Log.d(TAG, "showProcessInfo: "+procInfo.pid+"");
+
+        }
+
+
+    }
+
+
+    public int getProcessInfo() {
+        ActivityManager activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
+        procList = activityManager.getRunningAppProcesses();
+        return procList.size();
+    }
+
+
 }
 

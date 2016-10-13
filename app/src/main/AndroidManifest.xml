@@ -9,7 +9,7 @@
         android:minSdkVersion="11"
         android:targetSdkVersion="23"
         tools:overrideLibrary="com.adlocus.AdLocusLib" />
-
+    <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
