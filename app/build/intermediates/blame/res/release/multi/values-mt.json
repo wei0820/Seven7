@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\release\\values-mt\\values-mt.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 70,
+                    "endOffset": 121
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-mt\\values-mt.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 70,
+                        "endOffset": 121
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 126,
+                    "endColumn": 57,
+                    "endOffset": 179
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-mt\\values-mt.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 126,
+                        "endColumn": 57,
+                        "endOffset": 179
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 184,
+                    "endColumn": 64,
+                    "endOffset": 244
+                },
+                "from": {
+                    "file": "C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\audience-network-sdk\\4.16.1\\res\\values-mt\\values-mt.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 184,
+                        "endColumn": 64,
+                        "endOffset": 244
+                    }
+                }
+            }
+        ]
+    }
+]

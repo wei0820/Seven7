@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Del med"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Del med %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Skjul"</string>
+    <string name="com_facebook_ads_learn_more">Lær mere</string>
     <string name="com_facebook_device_auth_instructions">Gå til &lt;b>facebook.com/device&lt;/b> på din smartphone eller computer, og indtast denne kode:</string>
     <string name="com_facebook_image_download_unknown_error">Der opstod en uventet fejl under download af et billede.</string>
     <string name="com_facebook_internet_permission_error_message">WebView-login kræver tilladelse til INTERNET</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Logget på med Facebook</string>
     <string name="com_facebook_send_button_text">Send</string>
     <string name="com_facebook_share_button_text">Del</string>
+    <string name="com_facebook_skip_ad">Skip Ad</string>
+    <string name="com_facebook_skip_ad_in">Skip Ad i</string>
     <string name="com_facebook_tooltip_default">Nyhed! Du har styringen – vælg de oplysninger, som du vil dele med apps.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> skal bruge én eller flere Google Play-tjenester, der ikke er tilgængelige i øjeblikket. Kontakt udvikleren for at få hjælp."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Aktivér Google Play-tjenester"</string>

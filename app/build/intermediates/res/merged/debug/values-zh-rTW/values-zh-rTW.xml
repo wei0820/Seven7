@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"選擇分享對象"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"與「%s」分享"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"收合"</string>
+    <string name="com_facebook_ads_learn_more">瞭解更多資訊</string>
     <string name="com_facebook_device_auth_instructions">使用您的智慧型手機或電腦前往 &lt;b>facebook.com/device&lt;/b>，然後輸入此代碼：</string>
     <string name="com_facebook_image_download_unknown_error">下載圖像時發生非預期的錯誤。</string>
     <string name="com_facebook_internet_permission_error_message">WebView 登入需要「網際網路」授權</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">已使用 Facebook 登入</string>
     <string name="com_facebook_send_button_text">傳送</string>
     <string name="com_facebook_share_button_text">分享</string>
+    <string name="com_facebook_skip_ad">跳過廣告</string>
+    <string name="com_facebook_skip_ad_in">跳過廣告</string>
     <string name="com_facebook_tooltip_default">新消息！您已成功登入，請選擇要與應用程式分享的資訊。</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"「<ns1:g id="APP_NAME">%1$s</ns1:g>」需要用到一或多項 Google Play 服務，但目前無法存取相關服務。請與開發人員聯絡以尋求協助。"</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"啟用 Google Play 服務"</string>

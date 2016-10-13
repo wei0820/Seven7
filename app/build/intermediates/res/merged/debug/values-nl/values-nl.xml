@@ -19,6 +19,7 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Delen met"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Delen met %s"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Samenvouwen"</string>
+    <string name="com_facebook_ads_learn_more">Meer informatie</string>
     <string name="com_facebook_device_auth_instructions">Ga op je smartphone of computer naar &lt;b>facebook.com/device&lt;/b> en voer deze code in:</string>
     <string name="com_facebook_image_download_unknown_error">Onverwachte fout tijdens het downloaden van een afbeelding.</string>
     <string name="com_facebook_internet_permission_error_message">Voor aanmelding via webweergave is de toestemming INTERNET vereist</string>
@@ -35,6 +36,8 @@
     <string name="com_facebook_loginview_logged_in_using_facebook">Aangemeld via Facebook</string>
     <string name="com_facebook_send_button_text">Verzenden</string>
     <string name="com_facebook_share_button_text">Delen</string>
+    <string name="com_facebook_skip_ad">Skip Ad</string>
+    <string name="com_facebook_skip_ad_in">Advertentie overslaan in</string>
     <string name="com_facebook_tooltip_default">Nieuw! Jij hebt de controle. Kies welke informatie je met apps wilt delen.</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"<ns1:g id="APP_NAME">%1$s</ns1:g> vereist een of meer Google Play-services die momenteel niet beschikbaar zijn. Neem contact op met de ontwikkelaar voor ondersteuning."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Google Play-services inschak."</string>

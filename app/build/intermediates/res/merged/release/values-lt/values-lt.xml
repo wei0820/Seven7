@@ -19,6 +19,9 @@
     <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bendrinti naudojant"</string>
     <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"Bendrinti naudojant „%s“"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Sutraukti"</string>
+    <string name="com_facebook_ads_learn_more">sužinoti daugiau, sužinok daugiau</string>
+    <string name="com_facebook_skip_ad">Praleisti Ad</string>
+    <string name="com_facebook_skip_ad_in">SKIP Ad</string>
     <string msgid="4770915072144378781" name="common_google_play_services_api_unavailable_text">"Norint naudoti „<ns1:g id="APP_NAME">%1$s</ns1:g>“ reikalinga viena ar kelios „Google Play“ paslaugos, kurios šiuo metu nepasiekiamos. Susisiekite su kūrėju, kad gautumėte pagalbos."</string>
     <string msgid="2050101795821476669" name="common_google_play_services_enable_button">"Įgal. „Google Play“ paslaugas"</string>
     <string msgid="7045129128108380659" name="common_google_play_services_enable_text">"„<ns1:g id="APP_NAME">%1$s</ns1:g>“ neveiks, jei neįgalinsite „Google Play“ paslaugų."</string>

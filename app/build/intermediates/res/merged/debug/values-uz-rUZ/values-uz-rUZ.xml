@@ -16,8 +16,7 @@
     <string msgid="8264924765203268293" name="abc_searchview_description_search">"Qidirish"</string>
     <string msgid="8928215447528550784" name="abc_searchview_description_submit">"So‘rov yaratish"</string>
     <string msgid="893419373245838918" name="abc_searchview_description_voice">"Ovozli qidiruv"</string>
-    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Ruxsat berish"</string>
-    <string msgid="7165123711973476752" name="abc_shareactionprovider_share_with_application">"%sga ruxsat berish"</string>
+    <string msgid="3421042268587513524" name="abc_shareactionprovider_share_with">"Bo‘lishish:"</string>
     <string msgid="1603543279005712093" name="abc_toolbar_collapse_description">"Yig‘ish"</string>
     <string msgid="8327680881775995150" name="mr_media_route_button_content_description">"Translatsiya qilish"</string>
     <string msgid="7553005460920830010" name="mr_media_route_chooser_searching">"Qurilmalar izlanmoqda…"</string>
