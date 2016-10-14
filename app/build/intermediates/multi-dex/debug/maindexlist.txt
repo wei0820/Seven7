@@ -705,6 +705,7 @@ android/support/v4/media/MediaBrowserCompat$SubscriptionCallback.class
 com/google/android/gms/plus/Plus.class
 com/nostra13/universalimageloader/core/DisplayImageOptions$Builder.class
 com/jhengweipan/Thunderstormsdivisiononehundredsign/Page_80Activity$1.class
+eu/chainfire/libsuperuser/Shell.class
 com/google/firebase/auth/api/model/VerifyAssertionRequest.class
 com/google/android/gms/ads/internal/client/zzj.class
 android/support/v7/widget/LinearLayoutCompat.class
@@ -1063,6 +1064,7 @@ com/google/android/gms/ads/internal/client/zzai.class
 android/support/v4/media/RatingCompat$1.class
 com/jhengweipan/Thunderstormsdivisiononehundredsign/Page_98Activity$1.class
 com/jhengweipan/SevenPeopleBook/ShowPhotoActivity$MyWebViewClient.class
+com/jhengweipan/SevenPeopleBook/MyService$1.class
 com/igexin/sdk/IPushCore.class
 com/google/android/gms/internal/zziq.class
 com/google/android/gms/internal/zzjr.class

@@ -1310,6 +1310,7 @@ MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\HYXEN2014122
 MERGED from [com.google.android.gms:play-services-tasks:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.0\AndroidManifest.xml:4:5-43
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42
 MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:20:5-43
+MERGED from [eu.chainfire:libsuperuser:1.0.0.201608240809] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\eu.chainfire\libsuperuser\1.0.0.201608240809\AndroidManifest.xml:7:5-9:41
 MERGED from [com.google.firebase:firebase-core:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.firebase\firebase-core\9.0.0\AndroidManifest.xml:4:5-42
 MERGED from [com.google.firebase:firebase-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.0\AndroidManifest.xml:18:5-42
 MERGED from [com.google.android.gms:play-services-basement:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.0\AndroidManifest.xml:18:5-42

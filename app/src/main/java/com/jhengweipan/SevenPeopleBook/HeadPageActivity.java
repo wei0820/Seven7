@@ -105,7 +105,7 @@ public class HeadPageActivity extends Activity implements
             Log.e("exception", e.toString());
         }
         buildGoogleApiClient();
-        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
+//        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
     }
 
     private boolean getIsInstallApp(String packageName) {
