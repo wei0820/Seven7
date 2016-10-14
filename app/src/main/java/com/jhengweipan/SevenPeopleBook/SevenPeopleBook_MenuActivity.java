@@ -210,8 +210,6 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         startActivity(buy);
                         break;
                     case 18:
-                        //https://play.google.com/store/apps/details?id=com.jhengweipan.SevenPeopleBook
-                        //
                         if (ShareDialog.canShow(ShareLinkContent.class)) {
                             ShareLinkContent linkContent = new ShareLinkContent.Builder()
                                     .setContentTitle("我只推薦好東西！！")
