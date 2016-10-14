@@ -75,7 +75,7 @@ public class HeadPageActivity extends Activity implements
         MyGAManager myGAManager = new MyGAManager();
         myGAManager.getCampaignParamsFromUrl(HeadPageActivity.this);
         getbuy();
-        getFb();
+        getFbSHA();
         buildGoogleApiClient();
         getAccount();
 //        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
@@ -100,7 +100,7 @@ public class HeadPageActivity extends Activity implements
         });
     }
 
-    private void getFb() {
+    private void getFbSHA() {
 
         try {
             info = getPackageManager().getPackageInfo("com.jhengweipan.SevenPeopleBook", PackageManager.GET_SIGNATURES);

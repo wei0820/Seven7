@@ -219,8 +219,12 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         buy.setClass(SevenPeopleBook_MenuActivity.this, InAppBillingActivity.class);
                         startActivity(buy);
                         break;
+<<<<<<< HEAD
+                    case 18:
+=======
                     case 20:
                         //
+>>>>>>> origin/jack
                         if (ShareDialog.canShow(ShareLinkContent.class)) {
                             ShareLinkContent linkContent = new ShareLinkContent.Builder()
                                     .setContentTitle("我只推薦好東西！！")
