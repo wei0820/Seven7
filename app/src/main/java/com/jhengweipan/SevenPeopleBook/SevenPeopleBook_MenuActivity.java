@@ -194,22 +194,37 @@ public class SevenPeopleBook_MenuActivity extends Activity {
                         startActivity(a);
                         break;
                     case 15:
+                        Intent AbyssTower = new Intent();
+                        AbyssTower.setClass(SevenPeopleBook_MenuActivity.this, AbyssTowerActivity.class);
+                        startActivity(AbyssTower);
+
+                        break;
+                    case 16:
                         Intent b = new Intent();
                         b.setClass(SevenPeopleBook_MenuActivity.this, PuzzleActivity.class);
                         startActivity(b);
                         break;
-                    case 16:
+                    case 17:
                         Intent mylist = new Intent();
                         mylist.setClass(SevenPeopleBook_MenuActivity.this, MyListViewActivity.class);
                         startActivity(mylist);
                         break;
-
-                    case 17:
+                    case 18:
+                        Intent ans = new Intent();
+                        ans.setClass(SevenPeopleBook_MenuActivity.this,AnsActivity.class);
+                        startActivity(ans);
+                        break;
+                    case 19:
                         Intent buy = new Intent();
                         buy.setClass(SevenPeopleBook_MenuActivity.this, InAppBillingActivity.class);
                         startActivity(buy);
                         break;
+<<<<<<< HEAD
                     case 18:
+=======
+                    case 20:
+                        //
+>>>>>>> origin/jack
                         if (ShareDialog.canShow(ShareLinkContent.class)) {
                             ShareLinkContent linkContent = new ShareLinkContent.Builder()
                                     .setContentTitle("我只推薦好東西！！")

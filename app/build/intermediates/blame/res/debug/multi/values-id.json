@@ -1,989 +1,5 @@
 [
     {
-        "outputFile": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\values-id\\values-id.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 161,
-                    "endOffset": 212
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 161,
-                        "endOffset": 212
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 217,
-                    "endColumn": 124,
-                    "endOffset": 337
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 217,
-                        "endColumn": 124,
-                        "endOffset": 337
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 342,
-                    "endColumn": 113,
-                    "endOffset": 451
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 342,
-                        "endColumn": 113,
-                        "endOffset": 451
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 456,
-                    "endColumn": 98,
-                    "endOffset": 550
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 456,
-                        "endColumn": 98,
-                        "endOffset": 550
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 555,
-                    "endColumn": 66,
-                    "endOffset": 617
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 555,
-                        "endColumn": 66,
-                        "endOffset": 617
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 622,
-                    "endColumn": 67,
-                    "endOffset": 685
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 622,
-                        "endColumn": 67,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 690,
-                    "endColumn": 58,
-                    "endOffset": 744
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 58,
-                        "endOffset": 744
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 749,
-                    "endColumn": 70,
-                    "endOffset": 815
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 749,
-                        "endColumn": 70,
-                        "endOffset": 815
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 820,
-                    "endColumn": 70,
-                    "endOffset": 886
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 820,
-                        "endColumn": 70,
-                        "endOffset": 886
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 891,
-                    "endColumn": 96,
-                    "endOffset": 983
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 96,
-                        "endOffset": 983
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 988,
-                    "endColumn": 72,
-                    "endOffset": 1056
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 988,
-                        "endColumn": 72,
-                        "endOffset": 1056
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1061,
-                    "endColumn": 72,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1061,
-                        "endColumn": 72,
-                        "endOffset": 1129
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 83,
-                    "endOffset": 1213
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1134,
-                        "endColumn": 83,
-                        "endOffset": 1213
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1218,
-                    "endColumn": 102,
-                    "endOffset": 1316
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1218,
-                        "endColumn": 102,
-                        "endOffset": 1316
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1321,
-                    "endColumn": 63,
-                    "endOffset": 1380
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1321,
-                        "endColumn": 63,
-                        "endOffset": 1380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1385,
-                    "endColumn": 66,
-                    "endOffset": 1447
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1385,
-                        "endColumn": 66,
-                        "endOffset": 1447
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1452,
-                    "endColumn": 138,
-                    "endOffset": 1586
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1452,
-                        "endColumn": 138,
-                        "endOffset": 1586
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\values-id\\values-id.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 161,
-                    "endOffset": 212
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 161,
-                        "endOffset": 212
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 217,
-                    "endColumn": 124,
-                    "endOffset": 337
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 217,
-                        "endColumn": 124,
-                        "endOffset": 337
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 342,
-                    "endColumn": 113,
-                    "endOffset": 451
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 342,
-                        "endColumn": 113,
-                        "endOffset": 451
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 456,
-                    "endColumn": 98,
-                    "endOffset": 550
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 456,
-                        "endColumn": 98,
-                        "endOffset": 550
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 555,
-                    "endColumn": 66,
-                    "endOffset": 617
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 555,
-                        "endColumn": 66,
-                        "endOffset": 617
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 622,
-                    "endColumn": 67,
-                    "endOffset": 685
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 622,
-                        "endColumn": 67,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 690,
-                    "endColumn": 58,
-                    "endOffset": 744
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 58,
-                        "endOffset": 744
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 749,
-                    "endColumn": 70,
-                    "endOffset": 815
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 749,
-                        "endColumn": 70,
-                        "endOffset": 815
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 820,
-                    "endColumn": 70,
-                    "endOffset": 886
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 820,
-                        "endColumn": 70,
-                        "endOffset": 886
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 891,
-                    "endColumn": 96,
-                    "endOffset": 983
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 96,
-                        "endOffset": 983
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 988,
-                    "endColumn": 72,
-                    "endOffset": 1056
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 988,
-                        "endColumn": 72,
-                        "endOffset": 1056
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1061,
-                    "endColumn": 72,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1061,
-                        "endColumn": 72,
-                        "endOffset": 1129
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 83,
-                    "endOffset": 1213
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1134,
-                        "endColumn": 83,
-                        "endOffset": 1213
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1218,
-                    "endColumn": 102,
-                    "endOffset": 1316
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1218,
-                        "endColumn": 102,
-                        "endOffset": 1316
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1321,
-                    "endColumn": 63,
-                    "endOffset": 1380
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1321,
-                        "endColumn": 63,
-                        "endOffset": 1380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1385,
-                    "endColumn": 66,
-                    "endOffset": 1447
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1385,
-                        "endColumn": 66,
-                        "endOffset": 1447
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1452,
-                    "endColumn": 138,
-                    "endOffset": 1586
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1452,
-                        "endColumn": 138,
-                        "endOffset": 1586
-                    }
-                }
-            }
-        ]
-    },
-    {
-        "outputFile": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\res\\merged\\debug\\values-id\\values-id.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 161,
-                    "endOffset": 212
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 2,
-                        "startColumn": 4,
-                        "startOffset": 55,
-                        "endColumn": 161,
-                        "endOffset": 212
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 3,
-                    "startColumn": 4,
-                    "startOffset": 217,
-                    "endColumn": 124,
-                    "endOffset": 337
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 3,
-                        "startColumn": 4,
-                        "startOffset": 217,
-                        "endColumn": 124,
-                        "endOffset": 337
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 4,
-                    "startColumn": 4,
-                    "startOffset": 342,
-                    "endColumn": 113,
-                    "endOffset": 451
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 342,
-                        "endColumn": 113,
-                        "endOffset": 451
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 5,
-                    "startColumn": 4,
-                    "startOffset": 456,
-                    "endColumn": 98,
-                    "endOffset": 550
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 5,
-                        "startColumn": 4,
-                        "startOffset": 456,
-                        "endColumn": 98,
-                        "endOffset": 550
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 6,
-                    "startColumn": 4,
-                    "startOffset": 555,
-                    "endColumn": 66,
-                    "endOffset": 617
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 6,
-                        "startColumn": 4,
-                        "startOffset": 555,
-                        "endColumn": 66,
-                        "endOffset": 617
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 7,
-                    "startColumn": 4,
-                    "startOffset": 622,
-                    "endColumn": 67,
-                    "endOffset": 685
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 7,
-                        "startColumn": 4,
-                        "startOffset": 622,
-                        "endColumn": 67,
-                        "endOffset": 685
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 8,
-                    "startColumn": 4,
-                    "startOffset": 690,
-                    "endColumn": 58,
-                    "endOffset": 744
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 8,
-                        "startColumn": 4,
-                        "startOffset": 690,
-                        "endColumn": 58,
-                        "endOffset": 744
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 9,
-                    "startColumn": 4,
-                    "startOffset": 749,
-                    "endColumn": 70,
-                    "endOffset": 815
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 9,
-                        "startColumn": 4,
-                        "startOffset": 749,
-                        "endColumn": 70,
-                        "endOffset": 815
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 10,
-                    "startColumn": 4,
-                    "startOffset": 820,
-                    "endColumn": 70,
-                    "endOffset": 886
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 10,
-                        "startColumn": 4,
-                        "startOffset": 820,
-                        "endColumn": 70,
-                        "endOffset": 886
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 11,
-                    "startColumn": 4,
-                    "startOffset": 891,
-                    "endColumn": 96,
-                    "endOffset": 983
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 11,
-                        "startColumn": 4,
-                        "startOffset": 891,
-                        "endColumn": 96,
-                        "endOffset": 983
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 12,
-                    "startColumn": 4,
-                    "startOffset": 988,
-                    "endColumn": 72,
-                    "endOffset": 1056
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 12,
-                        "startColumn": 4,
-                        "startOffset": 988,
-                        "endColumn": 72,
-                        "endOffset": 1056
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 13,
-                    "startColumn": 4,
-                    "startOffset": 1061,
-                    "endColumn": 72,
-                    "endOffset": 1129
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 13,
-                        "startColumn": 4,
-                        "startOffset": 1061,
-                        "endColumn": 72,
-                        "endOffset": 1129
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 14,
-                    "startColumn": 4,
-                    "startOffset": 1134,
-                    "endColumn": 83,
-                    "endOffset": 1213
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 14,
-                        "startColumn": 4,
-                        "startOffset": 1134,
-                        "endColumn": 83,
-                        "endOffset": 1213
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 15,
-                    "startColumn": 4,
-                    "startOffset": 1218,
-                    "endColumn": 102,
-                    "endOffset": 1316
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 15,
-                        "startColumn": 4,
-                        "startOffset": 1218,
-                        "endColumn": 102,
-                        "endOffset": 1316
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 16,
-                    "startColumn": 4,
-                    "startOffset": 1321,
-                    "endColumn": 63,
-                    "endOffset": 1380
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 16,
-                        "startColumn": 4,
-                        "startOffset": 1321,
-                        "endColumn": 63,
-                        "endOffset": 1380
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 17,
-                    "startColumn": 4,
-                    "startOffset": 1385,
-                    "endColumn": 66,
-                    "endOffset": 1447
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 17,
-                        "startColumn": 4,
-                        "startOffset": 1385,
-                        "endColumn": 66,
-                        "endOffset": 1447
-                    }
-                }
-            },
-            {
-                "to": {
-                    "startLine": 18,
-                    "startColumn": 4,
-                    "startOffset": 1452,
-                    "endColumn": 138,
-                    "endOffset": 1586
-                },
-                "from": {
-                    "file": "/Users/jackpan/Seven7/C:\\Users\\jackpan\\Seven7\\C:\\Users\\HYXEN20141227\\Documents\\Seven7\\app\\build\\intermediates\\exploded-aar\\com.facebook.android\\facebook-android-sdk\\4.15.0\\res\\values-id\\values-id.xml",
-                    "position": {
-                        "startLine": 18,
-                        "startColumn": 4,
-                        "startOffset": 1452,
-                        "endColumn": 138,
-                        "endOffset": 1586
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/values-id/values-id.xml",
         "map": [
             {
@@ -991,11 +7,30 @@
                     "startLine": 2,
                     "startColumn": 4,
                     "startOffset": 55,
-                    "endColumn": 161,
-                    "endOffset": 212
+                    "endColumn": 77,
+                    "endOffset": 128
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-id/values-id.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 77,
+                        "endOffset": 128
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 133,
+                    "endColumn": 161,
+                    "endOffset": 290
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 2,
                         "startColumn": 4,
@@ -1007,14 +42,14 @@
             },
             {
                 "to": {
-                    "startLine": 3,
+                    "startLine": 4,
                     "startColumn": 4,
-                    "startOffset": 217,
+                    "startOffset": 295,
                     "endColumn": 124,
-                    "endOffset": 337
+                    "endOffset": 415
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 3,
                         "startColumn": 4,
@@ -1026,14 +61,14 @@
             },
             {
                 "to": {
-                    "startLine": 4,
+                    "startLine": 5,
                     "startColumn": 4,
-                    "startOffset": 342,
+                    "startOffset": 420,
                     "endColumn": 113,
-                    "endOffset": 451
+                    "endOffset": 529
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -1045,14 +80,14 @@
             },
             {
                 "to": {
-                    "startLine": 5,
+                    "startLine": 6,
                     "startColumn": 4,
-                    "startOffset": 456,
+                    "startOffset": 534,
                     "endColumn": 98,
-                    "endOffset": 550
+                    "endOffset": 628
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 5,
                         "startColumn": 4,
@@ -1064,14 +99,14 @@
             },
             {
                 "to": {
-                    "startLine": 6,
+                    "startLine": 7,
                     "startColumn": 4,
-                    "startOffset": 555,
+                    "startOffset": 633,
                     "endColumn": 66,
-                    "endOffset": 617
+                    "endOffset": 695
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 6,
                         "startColumn": 4,
@@ -1083,14 +118,14 @@
             },
             {
                 "to": {
-                    "startLine": 7,
+                    "startLine": 8,
                     "startColumn": 4,
-                    "startOffset": 622,
+                    "startOffset": 700,
                     "endColumn": 67,
-                    "endOffset": 685
+                    "endOffset": 763
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 7,
                         "startColumn": 4,
@@ -1102,14 +137,14 @@
             },
             {
                 "to": {
-                    "startLine": 8,
+                    "startLine": 9,
                     "startColumn": 4,
-                    "startOffset": 690,
+                    "startOffset": 768,
                     "endColumn": 58,
-                    "endOffset": 744
+                    "endOffset": 822
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 8,
                         "startColumn": 4,
@@ -1121,14 +156,14 @@
             },
             {
                 "to": {
-                    "startLine": 9,
+                    "startLine": 10,
                     "startColumn": 4,
-                    "startOffset": 749,
+                    "startOffset": 827,
                     "endColumn": 70,
-                    "endOffset": 815
+                    "endOffset": 893
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 9,
                         "startColumn": 4,
@@ -1140,14 +175,14 @@
             },
             {
                 "to": {
-                    "startLine": 10,
+                    "startLine": 11,
                     "startColumn": 4,
-                    "startOffset": 820,
+                    "startOffset": 898,
                     "endColumn": 70,
-                    "endOffset": 886
+                    "endOffset": 964
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 10,
                         "startColumn": 4,
@@ -1159,14 +194,14 @@
             },
             {
                 "to": {
-                    "startLine": 11,
+                    "startLine": 12,
                     "startColumn": 4,
-                    "startOffset": 891,
+                    "startOffset": 969,
                     "endColumn": 96,
-                    "endOffset": 983
+                    "endOffset": 1061
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 11,
                         "startColumn": 4,
@@ -1178,14 +213,14 @@
             },
             {
                 "to": {
-                    "startLine": 12,
+                    "startLine": 13,
                     "startColumn": 4,
-                    "startOffset": 988,
+                    "startOffset": 1066,
                     "endColumn": 72,
-                    "endOffset": 1056
+                    "endOffset": 1134
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 12,
                         "startColumn": 4,
@@ -1197,14 +232,14 @@
             },
             {
                 "to": {
-                    "startLine": 13,
+                    "startLine": 14,
                     "startColumn": 4,
-                    "startOffset": 1061,
+                    "startOffset": 1139,
                     "endColumn": 72,
-                    "endOffset": 1129
+                    "endOffset": 1207
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 13,
                         "startColumn": 4,
@@ -1216,14 +251,14 @@
             },
             {
                 "to": {
-                    "startLine": 14,
+                    "startLine": 15,
                     "startColumn": 4,
-                    "startOffset": 1134,
+                    "startOffset": 1212,
                     "endColumn": 83,
-                    "endOffset": 1213
+                    "endOffset": 1291
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 14,
                         "startColumn": 4,
@@ -1235,14 +270,14 @@
             },
             {
                 "to": {
-                    "startLine": 15,
+                    "startLine": 16,
                     "startColumn": 4,
-                    "startOffset": 1218,
+                    "startOffset": 1296,
                     "endColumn": 102,
-                    "endOffset": 1316
+                    "endOffset": 1394
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 15,
                         "startColumn": 4,
@@ -1254,14 +289,14 @@
             },
             {
                 "to": {
-                    "startLine": 16,
+                    "startLine": 17,
                     "startColumn": 4,
-                    "startOffset": 1321,
+                    "startOffset": 1399,
                     "endColumn": 63,
-                    "endOffset": 1380
+                    "endOffset": 1458
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 16,
                         "startColumn": 4,
@@ -1273,14 +308,14 @@
             },
             {
                 "to": {
-                    "startLine": 17,
+                    "startLine": 18,
                     "startColumn": 4,
-                    "startOffset": 1385,
+                    "startOffset": 1463,
                     "endColumn": 66,
-                    "endOffset": 1447
+                    "endOffset": 1525
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 17,
                         "startColumn": 4,
@@ -1292,14 +327,52 @@
             },
             {
                 "to": {
-                    "startLine": 18,
+                    "startLine": 19,
                     "startColumn": 4,
-                    "startOffset": 1452,
-                    "endColumn": 138,
-                    "endOffset": 1586
+                    "startOffset": 1530,
+                    "endColumn": 55,
+                    "endOffset": 1581
                 },
                 "from": {
-                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.15.0/res/values-id/values-id.xml",
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-id/values-id.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 133,
+                        "endColumn": 55,
+                        "endOffset": 184
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 20,
+                    "startColumn": 4,
+                    "startOffset": 1586,
+                    "endColumn": 65,
+                    "endOffset": 1647
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-id/values-id.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 189,
+                        "endColumn": 65,
+                        "endOffset": 250
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 21,
+                    "startColumn": 4,
+                    "startOffset": 1652,
+                    "endColumn": 138,
+                    "endOffset": 1786
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/facebook-android-sdk/4.16.1/res/values-id/values-id.xml",
                     "position": {
                         "startLine": 18,
                         "startColumn": 4,

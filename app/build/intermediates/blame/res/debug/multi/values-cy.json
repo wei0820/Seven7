@@ -1,0 +1,64 @@
+[
+    {
+        "outputFile": "/Users/jackpan/Seven7/app/build/intermediates/res/merged/debug/values-cy/values-cy.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 67,
+                    "endOffset": 118
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-cy/values-cy.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 67,
+                        "endOffset": 118
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 3,
+                    "startColumn": 4,
+                    "startOffset": 123,
+                    "endColumn": 56,
+                    "endOffset": 175
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-cy/values-cy.xml",
+                    "position": {
+                        "startLine": 3,
+                        "startColumn": 4,
+                        "startOffset": 123,
+                        "endColumn": 56,
+                        "endOffset": 175
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 4,
+                    "startColumn": 4,
+                    "startOffset": 180,
+                    "endColumn": 62,
+                    "endOffset": 238
+                },
+                "from": {
+                    "file": "/Users/jackpan/Seven7/app/build/intermediates/exploded-aar/com.facebook.android/audience-network-sdk/4.16.1/res/values-cy/values-cy.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 180,
+                        "endColumn": 62,
+                        "endOffset": 238
+                    }
+                }
+            }
+        ]
+    }
+]

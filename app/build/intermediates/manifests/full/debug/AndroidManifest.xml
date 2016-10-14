@@ -1,13 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
     package="com.jhengweipan.SevenPeopleBook"
-    android:versionCode="20"
-    android:versionName="7.0" >
+    android:versionCode="23"
+    android:versionName="7.3" >
 
     <uses-sdk
         android:minSdkVersion="15"
         android:targetSdkVersion="23" />
 
+    <uses-permission android:name="android.permission.AUTHENTICATE_ACCOUNTS" />
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <uses-permission android:name="android.permission.ACCESS_COARSE_LOCATION" />
@@ -23,6 +24,7 @@
     <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
 
     <!-- iBeancon功能所需权限 -->
     ;
@@ -966,11 +968,6 @@
             </intent-filter>
         </receiver>
 
-        <service
-            android:name="com.google.android.gms.analytics.AnalyticsService"
-            android:enabled="true"
-            android:exported="false" />
-
         <activity
             android:name="com.jhengweipan.SevenPeopleBook.SevenPeopleBook_MenuActivity"
             android:label="@string/title_activity_seven_people_book__menu"
@@ -1097,6 +1094,44 @@
             android:name="com.jhengweipan.SevenPeopleBook.AwakeningEquipmentActivity"
             android:label="@string/app_name"
             android:theme="@style/myteme" />
+        <!-- Used for Google Play Store Campaign Measurement -->
+
+        <service
+            android:name="com.google.android.gms.analytics.AnalyticsService"
+            android:enabled="true"
+            android:exported="false" />
+        <service
+            android:name="com.google.android.gms.analytics.CampaignTrackingService"
+            android:enabled="true"
+            android:exported="false" />
+
+        <receiver
+            android:name="com.google.android.gms.analytics.CampaignTrackingReceiver"
+            android:enabled="true"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+        <receiver
+            android:name="com.jhengweipan.ga.MyCampaignTrackingReceiver"
+            android:exported="true" >
+            <intent-filter>
+                <action android:name="com.android.vending.INSTALL_REFERRER" />
+            </intent-filter>
+        </receiver>
+
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.AbyssTowerActivity"
+            android:label="@string/app_name"
+            android:theme="@style/myteme" />
+        <activity
+            android:name="com.jhengweipan.SevenPeopleBook.AnsActivity"
+            android:label="@string/app_name"
+            android:theme="@style/myteme" />
+
+        <service android:name="com.jhengweipan.SevenPeopleBook.MyService" />
+
         <activity
             android:name="com.google.android.gms.common.api.GoogleApiActivity"
             android:exported="false"
