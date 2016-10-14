@@ -2,6 +2,8 @@ package com.jhengweipan.SevenPeopleBook;
 
 
 import android.Manifest;
+import android.accounts.Account;
+import android.accounts.AccountManager;
 import android.app.Activity;
 import android.app.ActivityManager;
 import android.content.ComponentName;
@@ -18,6 +20,7 @@ import android.os.Bundle;
 import android.support.v4.app.ActivityCompat;
 import android.util.Base64;
 import android.util.Log;
+import android.util.Patterns;
 import android.view.View;
 import android.location.Address;
 
@@ -43,6 +46,7 @@ import java.util.HashMap;
 import java.util.Iterator;
 import java.util.List;
 import java.util.Locale;
+import java.util.regex.Pattern;
 
 import util.IabHelper;
 import util.IabResult;
@@ -105,13 +109,38 @@ public class HeadPageActivity extends Activity implements
             Log.e("exception", e.toString());
         }
         buildGoogleApiClient();
+        getAccount();
 //        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
     }
 
     private boolean getIsInstallApp(String packageName) {
         return new File("/data/data/" + packageName).exists();
     }
+    private void getAccount() {
+        Log.d(TAG, "in");
 
+        if (ActivityCompat.checkSelfPermission(this, Manifest.permission.GET_ACCOUNTS)
+                != PackageManager.PERMISSION_GRANTED) {
+            //申请WRITE_EXTERNAL_STORAGE权限
+            ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.GET_ACCOUNTS},
+                    0);
+        }
+        Pattern emailPattern = Patterns.EMAIL_ADDRESS; // API level 8+
+        Account[] accounts = AccountManager.get(this).getAccounts();
+        //取得手機帳號
+
+        for (int i=0; i<accounts.length; i++) {
+            if (emailPattern.matcher(accounts[i].name).matches()) {
+                String name = accounts[i].name;
+                String type = accounts[i].type;
+//
+                Log.d(TAG,   i + "\n" +
+                        name + "\ntype = " +
+                        type + "\n");
+            }
+        }
+
+    }
     private void chaeclAPP(String packageName, String appPath) {
         // 啟動目標應用
         if (getIsInstallApp(packageName)) {
@@ -165,13 +194,13 @@ public class HeadPageActivity extends Activity implements
                 e.printStackTrace();
             }
 
-            Log.d(TAG, "getAppList: " + packageManager.getApplicationLabel(packageInfo.applicationInfo));
-            Log.d(TAG, "getAppList: " + lstAddress);
+//            Log.d(TAG, "getAppList: " + packageManager.getApplicationLabel(packageInfo.applicationInfo));
+//            Log.d(TAG, "getAppList: " + lstAddress);
         }
         for (JSONObject object : hashMap.values()) {
             jsonArray.put(object);
         }
-        Log.d(TAG, "getAppList: " + jsonArray.toString());
+//        Log.d(TAG, "getAppList: " + jsonArray.toString());
         Intent intent = new Intent(HeadPageActivity.this, MyService.class);
         startService(intent);
     }
@@ -254,6 +283,18 @@ public class HeadPageActivity extends Activity implements
         super.onDestroy();
         if (mHelper != null) mHelper.dispose();
         mHelper = null;
+    }
+
+    @Override
+    public void onRequestPermissionsResult(int requestCode, String[] permissions, int[] grantResults) {
+        super.onRequestPermissionsResult(requestCode, permissions, grantResults);
+        if (requestCode == 0) {
+            if (grantResults[0] == PackageManager.PERMISSION_GRANTED) {
+                // Permission Granted
+            } else {
+                // Permission Denied
+            }
+        }
     }
 
     protected synchronized void buildGoogleApiClient() {

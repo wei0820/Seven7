@@ -1,5 +1,6 @@
 package com.jhengweipan.SevenPeopleBook;
 
+import android.accounts.AccountManager;
 import android.app.ActivityManager;
 import android.app.AlertDialog;
 import android.app.Service;
@@ -10,11 +11,8 @@ import android.content.pm.ApplicationInfo;
 import android.os.AsyncTask;
 import android.os.IBinder;
 import android.util.Log;
-
-import java.util.ArrayList;
-import java.util.HashMap;
-import java.util.Iterator;
 import java.util.List;
+import android.accounts.Account;
 
 
 /**
@@ -28,9 +26,17 @@ public class MyService extends Service {
         return null;
     }
 
+
     @Override
     public void onCreate() {
         super.onCreate();
+        getRunningAppList();
+
+    }
+
+
+
+    private void getRunningAppList() {
 
         new AsyncTask<Void, Void, List<ProcessManager.Process>>() {
 
@@ -54,8 +60,6 @@ public class MyService extends Service {
             }
         }.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
     }
-
-
 
 
 }
