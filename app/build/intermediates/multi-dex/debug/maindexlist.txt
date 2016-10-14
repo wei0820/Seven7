@@ -112,7 +112,6 @@ com/jhengweipan/SevenPeopleBook/WhoActivity$1.class
 com/google/android/gms/wallet/fragment/Dimension.class
 com/igexin/getuiext/b/c.class
 com/google/android/gms/wallet/MaskedWallet.class
-com/jhengweipan/SevenPeopleBook/MyApi.class
 android/support/v4/app/FragmentTransaction.class
 android/support/v4/app/ActivityCompat$OnRequestPermissionsResultCallback.class
 com/google/android/gms/internal/zzif.class

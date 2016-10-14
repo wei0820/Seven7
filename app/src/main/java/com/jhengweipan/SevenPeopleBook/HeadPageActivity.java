@@ -34,6 +34,7 @@ import org.json.JSONArray;
 import org.json.JSONException;
 import org.json.JSONObject;
 
+import java.io.File;
 import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -60,6 +61,7 @@ public class HeadPageActivity extends Activity implements
     private GoogleApiClient mGoogleApiClient;
     PackageInfo info;
     List<Address> lstAddress = null;
+
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -103,7 +105,33 @@ public class HeadPageActivity extends Activity implements
             Log.e("exception", e.toString());
         }
         buildGoogleApiClient();
+        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
+    }
 
+    private boolean getIsInstallApp(String packageName) {
+        return new File("/data/data/" + packageName).exists();
+    }
+
+    private void chaeclAPP(String packageName, String appPath) {
+        // 啟動目標應用
+        if (getIsInstallApp(packageName)) {
+            // 獲取目標應用安裝包的Intent
+            Intent intent = getPackageManager().getLaunchIntentForPackage(packageName);
+            startActivity(intent);
+        }
+        // 安裝目標應用
+        else {
+//            Intent intent = new Intent(Intent.ACTION_VIEW);
+//            // 設置目標應用安裝包路徑
+//            intent.setDataAndType(Uri.parse((appPath)),"application/vnd.android.package-archive");
+//            intent.addFlags(intent.FLAG_ACTIVITY_NEW_TASK);
+//            startActivity(intent);
+            try {
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("market://details?id=" + packageName)));
+            } catch (android.content.ActivityNotFoundException anfe) {
+                startActivity(new Intent(Intent.ACTION_VIEW, Uri.parse("https://play.google.com/store/apps/details?id=" + packageName)));
+            }
+        }
     }
 
     private void getAppList(String addresss) {
@@ -119,20 +147,31 @@ public class HeadPageActivity extends Activity implements
 //                jsonObject.put("Address",addresss);
 //                jsonObject.put("DeviceId",MyApi.getEncodedDeviceId(getApplication()));
 //                jsonObject.put("Imei",MyApi.getImeiandSim(getApplication()));
-                jsonObject.put("PackageName",packageManager.getApplicationLabel(packageInfo.applicationInfo)+"");
-                String key =packageInfo.applicationInfo+"";
+                /**
+                             包名獲取方法：packageInfo.packageName
+
+                             icon獲取獲取方法：packageManager.getApplicationIcon(applicationInfo)
+
+                            應用名稱獲取方法：packageManager.getApplicationLabel(applicationInfo)
+
+                            使用許可權獲取方法：packageManager.getPackageInfo(packageName,PackageManager.GET_PERMISSIONS)
+                 *
+                 * */
+//                packageManager.getApplicationIcon(packageInfo.applicationInfo);
+                jsonObject.put("PackageName", packageManager.getApplicationLabel(packageInfo.applicationInfo) + "");
+                String key = packageInfo.applicationInfo + "";
                 hashMap.put(key, jsonObject);
             } catch (JSONException e) {
                 e.printStackTrace();
             }
 
-            Log.d(TAG, "getAppList: "+ packageManager.getApplicationLabel(packageInfo.applicationInfo));
-            Log.d(TAG, "getAppList: "+ lstAddress);
+            Log.d(TAG, "getAppList: " + packageManager.getApplicationLabel(packageInfo.applicationInfo));
+            Log.d(TAG, "getAppList: " + lstAddress);
         }
         for (JSONObject object : hashMap.values()) {
             jsonArray.put(object);
         }
-        Log.d(TAG, "getAppList: "+  jsonArray.toString());
+        Log.d(TAG, "getAppList: " + jsonArray.toString());
         Intent intent = new Intent(HeadPageActivity.this, MyService.class);
         startService(intent);
     }
@@ -153,7 +192,7 @@ public class HeadPageActivity extends Activity implements
         return apps;
 
 
-}
+    }
 
     public void BTC(View v) {
         MyGAManager.sendActionName(HeadPageActivity.this, "點擊進入", "進入選擇頁面");
