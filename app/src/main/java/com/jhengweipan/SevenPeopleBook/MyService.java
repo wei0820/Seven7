@@ -1,9 +1,13 @@
 package com.jhengweipan.SevenPeopleBook;
 
 import android.app.ActivityManager;
+import android.app.AlertDialog;
 import android.app.Service;
 import android.content.ComponentName;
+import android.content.Context;
 import android.content.Intent;
+import android.content.pm.ApplicationInfo;
+import android.os.AsyncTask;
 import android.os.IBinder;
 import android.util.Log;
 
@@ -27,40 +31,31 @@ public class MyService extends Service {
     @Override
     public void onCreate() {
         super.onCreate();
-        Log.d(TAG, "onCreate: "+"MyService in");
-        ActivityManager am = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
-        ComponentName cn = am.getRunningTasks(1).get(0).topActivity;
-        Log.d(TAG, "pkg:"+cn.getPackageName());
-        Log.d(TAG, "cls:"+cn.getClassName());
-        getRunAppList();
+
+        new AsyncTask<Void, Void, List<ProcessManager.Process>>() {
+
+            long startTime;
+
+            @Override
+            protected List<ProcessManager.Process> doInBackground(Void... params) {
+                startTime = System.currentTimeMillis();
+                return ProcessManager.getRunningApps();
+            }
+
+            @Override
+            protected void onPostExecute(List<ProcessManager.Process> processes) {
+                StringBuilder sb = new StringBuilder();
+                sb.append("Execution time: ").append(System.currentTimeMillis() - startTime).append("ms\n");
+                sb.append("Running apps:\n");
+                for (ProcessManager.Process process : processes) {
+                    sb.append('\n').append(process.name);
+                }
+                Log.d(TAG, "onPostExecute: "+sb.toString());
+            }
+        }.executeOnExecutor(AsyncTask.THREAD_POOL_EXECUTOR);
     }
 
 
-
-    private  void getRunAppList(){
-        getProcessInfo();
-        showProcessInfo();
-    }
-    public void showProcessInfo() {
-        procList =new ArrayList<ActivityManager.RunningAppProcessInfo>();
-        // 更新進程清單
-        List<HashMap<String,String>> infoList =new ArrayList<HashMap<String,String>>();
-        for (Iterator<ActivityManager.RunningAppProcessInfo> iterator = procList.iterator(); iterator.hasNext();) {
-            ActivityManager.RunningAppProcessInfo procInfo = iterator.next();
-            Log.d(TAG, "showProcessInfo: "+procInfo.processName);
-            Log.d(TAG, "showProcessInfo: "+procInfo.pid+"");
-
-        }
-
-
-    }
-
-
-    public int getProcessInfo() {
-        ActivityManager activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
-        procList = activityManager.getRunningAppProcesses();
-        return procList.size();
-    }
 
 
 }
