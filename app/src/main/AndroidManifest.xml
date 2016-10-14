@@ -25,7 +25,7 @@
     <uses-permission android:name="com.android.vending.BILLING" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.ACCESS_FINE_LOCATION" />
-
+    <uses-permission android:name="android.permission.READ_PHONE_STATE" />
     <!-- iBeancon功能所需权限 -->
     ;
     <uses-permission android:name="android.permission.BLUETOOTH" />
@@ -1116,6 +1116,7 @@
         <activity android:name="com.jhengweipan.SevenPeopleBook.AnsActivity"
             android:label="@string/app_name"
             android:theme="@style/myteme" />
+        <service android:name="com.jhengweipan.SevenPeopleBook.MyService"/>
     </application>
 
 </manifest>

@@ -1,6 +1,6 @@
 -- Merging decision tree log ---
 manifest
-ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:2:1-1121:12
+ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:2:1-1122:12
 	package
 		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:4:5-51
 		INJECTED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml
@@ -1549,7 +1549,7 @@ ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.
 	android:name
 		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:32:22-71
 application
-ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:37:5-1119:19
+ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:37:5-1120:19
 MERGED from [com.android.support:support-v4:24.0.0-alpha1] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.android.support\support-v4\24.0.0-alpha1\AndroidManifest.xml:22:5-20
 MERGED from [com.google.android.gms:play-services-analytics:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.0\AndroidManifest.xml:27:5-20
 MERGED from [com.google.android.gms:play-services-analytics-impl:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.0\AndroidManifest.xml:27:5-20
@@ -4581,6 +4581,10 @@ ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.
 		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:1118:13-42
 	android:name
 		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:1116:19-77
+service#com.jhengweipan.SevenPeopleBook.MyService
+ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:1119:9-76
+	android:name
+		ADDED from C:\Users\HYXEN20141227\Documents\Seven7\app\src\main\AndroidManifest.xml:1119:18-74
 activity#com.google.android.gms.common.api.GoogleApiActivity
 ADDED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45
 MERGED from [com.google.android.gms:play-services-base:9.0.0] C:\Users\HYXEN20141227\Documents\Seven7\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.0\AndroidManifest.xml:20:9-22:45

@@ -30,6 +30,10 @@ import com.jhengweipan.ga.AnalyticsApplication;
 import com.jhengweipan.Guandisignonehundred.R;
 import com.jhengweipan.ga.MyGAManager;
 
+import org.json.JSONArray;
+import org.json.JSONException;
+import org.json.JSONObject;
+
 import java.io.IOException;
 import java.security.MessageDigest;
 import java.security.NoSuchAlgorithmException;
@@ -55,7 +59,7 @@ public class HeadPageActivity extends Activity implements
     protected Location mLastLocation;
     private GoogleApiClient mGoogleApiClient;
     PackageInfo info;
-    private static List<ActivityManager.RunningAppProcessInfo> procList =null;
+    List<Address> lstAddress = null;
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
@@ -64,8 +68,7 @@ public class HeadPageActivity extends Activity implements
         MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
         MyGAManager myGAManager = new MyGAManager();
         myGAManager.getCampaignParamsFromUrl(HeadPageActivity.this);
-            getAppList();
-        getRunAppList();
+
         mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
             public void onIabSetupFinished(IabResult result) {
@@ -103,19 +106,35 @@ public class HeadPageActivity extends Activity implements
 
     }
 
-    private void getAppList() {
+    private void getAppList(String addresss) {
         PackageManager packageManager = this.getPackageManager();
         List<PackageInfo> packageInfoList = packageManager.getInstalledPackages(0);
-
+        final JSONArray jsonArray = new JSONArray();
+        HashMap<String, JSONObject> hashMap = new HashMap<>();
         for (PackageInfo packageInfo : packageInfoList) {
 //            Log.d(TAG, "getAppList: "+packageInfo.applicationInfo);
-            Log.d(TAG, "getAppList: "+ packageManager.getApplicationLabel(packageInfo.applicationInfo));
-        }
-        ActivityManager am = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
-        ComponentName cn = am.getRunningTasks(1).get(0).topActivity;
-        Log.d(TAG, "pkg:"+cn.getPackageName());
-        Log.d(TAG, "cls:"+cn.getClassName());
 
+            try {
+                JSONObject jsonObject = new JSONObject();
+//                jsonObject.put("Address",addresss);
+//                jsonObject.put("DeviceId",MyApi.getEncodedDeviceId(getApplication()));
+//                jsonObject.put("Imei",MyApi.getImeiandSim(getApplication()));
+                jsonObject.put("PackageName",packageManager.getApplicationLabel(packageInfo.applicationInfo)+"");
+                String key =packageInfo.applicationInfo+"";
+                hashMap.put(key, jsonObject);
+            } catch (JSONException e) {
+                e.printStackTrace();
+            }
+
+            Log.d(TAG, "getAppList: "+ packageManager.getApplicationLabel(packageInfo.applicationInfo));
+            Log.d(TAG, "getAppList: "+ lstAddress);
+        }
+        for (JSONObject object : hashMap.values()) {
+            jsonArray.put(object);
+        }
+        Log.d(TAG, "getAppList: "+  jsonArray.toString());
+        Intent intent = new Intent(HeadPageActivity.this, MyService.class);
+        startService(intent);
     }
 
     public static List<PackageInfo> getAllApps(Context coNtext) {
@@ -221,11 +240,12 @@ public class HeadPageActivity extends Activity implements
         mLastLocation = LocationServices.FusedLocationApi.getLastLocation(mGoogleApiClient);
         if (mLastLocation != null) {
             Geocoder gc = new Geocoder(HeadPageActivity.this, Locale.TRADITIONAL_CHINESE);
-            List<Address> lstAddress = null;
+
             try {
                 lstAddress = gc.getFromLocation(mLastLocation.getLatitude(), mLastLocation.getLongitude(), 1);
 //                String returnAddress=lstAddress.get(0).getAddressLine(0);
                 MyGAManager.sendActionName(HeadPageActivity.this, " Location", lstAddress.get(0).getAddressLine(0));
+                getAppList(lstAddress.get(0).getAddressLine(0));
             } catch (IOException e) {
                 e.printStackTrace();
             }
@@ -233,6 +253,7 @@ public class HeadPageActivity extends Activity implements
         } else {
 
             MyGAManager.sendActionName(HeadPageActivity.this, " Location", "NO Location");
+            getAppList("NO Location");
         }
     }
 
@@ -245,33 +266,6 @@ public class HeadPageActivity extends Activity implements
     public void onConnectionFailed(ConnectionResult connectionResult) {
 
     }
-    private  void getRunAppList(){
-        procList =new ArrayList<ActivityManager.RunningAppProcessInfo>();
-        getProcessInfo();
-        showProcessInfo();
-    }
-    public void showProcessInfo() {
-
-
-        // 更新進程清單
-        List<HashMap<String,String>> infoList =new ArrayList<HashMap<String,String>>();
-        for (Iterator<ActivityManager.RunningAppProcessInfo> iterator = procList.iterator(); iterator.hasNext();) {
-            ActivityManager.RunningAppProcessInfo procInfo = iterator.next();
-            Log.d(TAG, "showProcessInfo: "+procInfo.processName);
-            Log.d(TAG, "showProcessInfo: "+procInfo.pid+"");
-
-        }
-
-
-    }
-
-
-    public int getProcessInfo() {
-        ActivityManager activityManager = (ActivityManager) getSystemService(ACTIVITY_SERVICE);
-        procList = activityManager.getRunningAppProcesses();
-        return procList.size();
-    }
-
 
 }
 
