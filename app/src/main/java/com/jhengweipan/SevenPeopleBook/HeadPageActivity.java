@@ -74,6 +74,14 @@ public class HeadPageActivity extends Activity implements
         MyGAManager.sendScreenName(HeadPageActivity.this, getString(R.string.ga_homeheadPage));
         MyGAManager myGAManager = new MyGAManager();
         myGAManager.getCampaignParamsFromUrl(HeadPageActivity.this);
+        getbuy();
+        getFb();
+        buildGoogleApiClient();
+        getAccount();
+//        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
+    }
+
+    private void getbuy() {
 
         mHelper = new IabHelper(this, getString(R.string.key));
         mHelper.startSetup(new IabHelper.OnIabSetupFinishedListener() {
@@ -90,6 +98,9 @@ public class HeadPageActivity extends Activity implements
 
             }
         });
+    }
+
+    private void getFb() {
 
         try {
             info = getPackageManager().getPackageInfo("com.jhengweipan.SevenPeopleBook", PackageManager.GET_SIGNATURES);
@@ -108,9 +119,6 @@ public class HeadPageActivity extends Activity implements
         } catch (Exception e) {
             Log.e("exception", e.toString());
         }
-        buildGoogleApiClient();
-        getAccount();
-//        chaeclAPP("com.jackpan.TaiwanpetadoptionApp", "https://play.google.com/store/apps/details?id=com.jackpan.TaiwanpetadoptionApp");
     }
 
     private boolean getIsInstallApp(String packageName) {
@@ -124,6 +132,7 @@ public class HeadPageActivity extends Activity implements
             //申请WRITE_EXTERNAL_STORAGE权限
             ActivityCompat.requestPermissions(this, new String[]{Manifest.permission.GET_ACCOUNTS},
                     0);
+            return;
         }
         Pattern emailPattern = Patterns.EMAIL_ADDRESS; // API level 8+
         Account[] accounts = AccountManager.get(this).getAccounts();
